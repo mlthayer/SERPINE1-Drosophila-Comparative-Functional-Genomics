@@ -34,7 +34,6 @@ Run the scripts in numerical order:
 09_Aging_TissueExpression_Comparison_revised.R
 10_IntegratedEvidenceRanking_revised.R
 11_SensitivityAnalysis_revised.R
-[200~```bash
 
 cat > LICENSE <<'EOF'
 
