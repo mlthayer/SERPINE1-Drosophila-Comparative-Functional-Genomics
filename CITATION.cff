@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it as below."
+
+title: "Chapter 3 SERPINE1 Functional Orthology Pipeline"
+
+version: "1.0.0"
+
+date-released: 2026-07-04
+
+license: MIT
+
+
+
+authors:
+
+  - family-names: Thayer 
+
+    given-names: Michelle
+
+    affiliation: Iowa State University
+
+
+
+keywords:
+
+  - SERPINE1
+
+  - PAI-1
+
+  - Drosophila
+
+  - serpin
+
+  - orthology
+
+  - FlyAtlas2
+
+  - Fly Cell Atlas
+
+  - GTEx
+
+  - phylogenetics
+
+  - aging
+
+
+
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/Chapter3_SERPINE1_Functional_Orthology"
