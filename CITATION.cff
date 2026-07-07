@@ -2,7 +2,7 @@ cff-version: 1.2.0
 
 message: "If you use this software, please cite it as below."
 
-title: "Chapter 3 SERPINE1 Functional Orthology Pipeline"
+title: "Functional Orthology Pipeline"
 
 version: "1.0.0"
 
@@ -24,13 +24,7 @@ authors:
 
 keywords:
 
-  - SERPINE1
-
-  - PAI-1
-
   - Drosophila
-
-  - serpin
 
   - orthology
 
@@ -46,4 +40,4 @@ keywords:
 
 
 
-repository-code: "https://github.com/https://mlthayer/Chapter3_SERPINE1_Functional_Orthology"
+repository-code: "https://github.com/https://mlthayer/Functional_Orthology"
