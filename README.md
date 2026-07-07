@@ -1,4 +1,4 @@
-# Chapter 3 SERPINE1 Functional Orthology Pipeline
+# Functional Orthology Pipeline
 
 This repository contains the R scripts used for Chapter 3 analyses comparing selected Drosophila serpins with human SERPINE1/PAI-1.
 
@@ -84,7 +84,7 @@ cff-version: 1.2.0
 
 message: "If you use this workflow, please cite it using the metadata below."
 
-title: "Chapter 3 SERPINE1 Functional Orthology Pipeline"
+title: "Functional Orthology Pipeline"
 
 authors:
 
@@ -98,7 +98,7 @@ version: "1.0.0"
 
 license: MIT
 
-repository-code: "https://github.com/YOUR-USERNAME/Chapter3_SERPINE1_Functional_Orthology"
+repository-code: "https://github.com/mlthayer/Functional_Orthology"
 
 keywords:
 
