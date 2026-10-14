@@ -1,0 +1,19 @@
+File,Status,SHA256
+gene_tpm_adult_gtex_v11_artery_aorta.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_adipose_visceral_omentum.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_adipose_subcutaneous.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_artery_coronary.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_brain_hypothalamus.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_brain_nucleus_accumbens_basal_ganglia.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_brain_spinal_cord_cervical_c-1.gct.gz,Validated,63a8b8ec107a025e97110e09543bfe31b764099aceb56f1127c71f08d62206ff
+gene_tpm_adult_gtex_v11_artery_tibial.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_liver.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_heart_atrial_appendage.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_heart_left_ventricle.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_ovary.gct.gz,Validated,73374f46a4460bf4b4dfe10f6fe0fb4f6b7e7c2f8ddb70d492e492f3434ab62f
+gene_tpm_adult_gtex_v11_lung.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_pancreas.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_muscle_skeletal.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_small_intestine_terminal_ileum.gct.gz,Validated,3349adf75bf5ecc58edc12fe9deb37d3d13ab073338ff537eed6310569fe86a7
+gene_tpm_adult_gtex_v11_testis.gct.gz,Transfer blocked: over 32 MiB,
+gene_tpm_adult_gtex_v11_whole_blood.gct.gz,Transfer blocked: over 32 MiB,

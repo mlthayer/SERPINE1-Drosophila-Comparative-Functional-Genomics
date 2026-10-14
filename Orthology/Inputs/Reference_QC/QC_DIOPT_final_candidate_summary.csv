@@ -1,0 +1,7 @@
+Gene,Primary_Human_Ortholog,Primary_DIOPT_Score,Primary_Weighted_Score,Supporting_DBs,Primary_Reverse_Best,SERPINE1_Predicted,SERPINE1_DIOPT_Score,SERPINE1_Weighted_Score,SERPINE1_Reverse_Best
+Spn42Dd,SERPINB12,10,9.99,10,1,Yes,2,1.83,0
+Spn42Da,SERPINI1,10,9.9,10,1,Yes,3,2.93,0
+Spn28B,SERPINB12,9,8.99,9,0,Yes,2,1.83,0
+Spn28F,SERPINB12,9,8.99,9,0,Yes,2,1.83,0
+Spn42Db,SERPINI1,8,7.99,8,0,Yes,3,2.93,0
+Spn42Dc,SERPINB1,7,6.94,7,0,Yes,3,2.93,0

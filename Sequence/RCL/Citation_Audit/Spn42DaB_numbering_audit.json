@@ -1,0 +1,24 @@
+{
+  "accession": "A1Z6R1",
+  "full_sequence_length": 424,
+  "sequence_342_343": "LK",
+  "sequence_374_375": "RA",
+  "coordinate_difference": 32,
+  "prefix_1_32": "MDYRLVPCGCWLLPLLGLALFPFPPVHTADVT",
+  "hypothetical_sequence_after_32_residue_prefix": {
+    "length": 392,
+    "342_343": "RA"
+  },
+  "interpretation": "Paper construct/A-B shared-RCL numbering maps to the 424-residue supplied B sequence with +32 offset. Paper supports the R-A reference and different N-terminal context; this is not experimental measurement of a 32-residue signal-peptide cleavage. Full recombinant construct sequence is not explicitly reproduced in the paper text.",
+  "primary_source": {
+    "citation": "Ellisdon AM, Zhang Q, Henstridge MA, Johnson TK, Warr CG, Law RHP, Whisstock JC. BMC Structural Biology. 2014;14:14.",
+    "doi": "10.1186/1472-6807-14-14",
+    "uploaded_pdf_sha256": "af167d1545119556e9c4b291cda4f6c2bc1cfee2d8f386e45d00360e4b17781e",
+    "pages": {
+      "2": "A/B shared RCL; B has alternative N-terminal signal-peptide exon",
+      "3-4": "P1 R342; P1prime Ala; crystal form 1 consistent with R-A cleavage",
+      "6": "Figure 5 A/B RCL motif; second form described as K341-cleaved",
+      "7": "untagged recombinant construct residues 1-392; PDB 4P0F and 4P0O"
+    }
+  }
+}

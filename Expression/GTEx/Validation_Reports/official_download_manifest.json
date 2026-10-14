@@ -1,0 +1,97 @@
+[
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_adipose_subcutaneous.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_adipose_subcutaneous.gct.gz",
+    "fileSize": 99789222
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_adipose_visceral_omentum.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_adipose_visceral_omentum.gct.gz",
+    "fileSize": 82516499
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_artery_aorta.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_artery_aorta.gct.gz",
+    "fileSize": 65015914
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_artery_coronary.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_artery_coronary.gct.gz",
+    "fileSize": 38421930
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_artery_tibial.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_artery_tibial.gct.gz",
+    "fileSize": 91486177
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_brain_hypothalamus.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_brain_hypothalamus.gct.gz",
+    "fileSize": 38104544
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_brain_nucleus_accumbens_basal_ganglia.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_brain_nucleus_accumbens_basal_ganglia.gct.gz",
+    "fileSize": 41971850
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_brain_spinal_cord_cervical_c-1.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_brain_spinal_cord_cervical_c-1.gct.gz",
+    "fileSize": 29258003
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_heart_atrial_appendage.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_heart_atrial_appendage.gct.gz",
+    "fileSize": 62725376
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_heart_left_ventricle.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_heart_left_ventricle.gct.gz",
+    "fileSize": 57103443
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_liver.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_liver.gct.gz",
+    "fileSize": 34581723
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_lung.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_lung.gct.gz",
+    "fileSize": 89007384
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_muscle_skeletal.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_muscle_skeletal.gct.gz",
+    "fileSize": 100247614
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_ovary.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_ovary.gct.gz",
+    "fileSize": 28753580
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_pancreas.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_pancreas.gct.gz",
+    "fileSize": 47769758
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_small_intestine_terminal_ileum.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_small_intestine_terminal_ileum.gct.gz",
+    "fileSize": 31569169
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_testis.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_testis.gct.gz",
+    "fileSize": 84558723
+  },
+  {
+    "displayName": "gene_tpm_adult_gtex_v11_whole_blood.gct.gz",
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v11/rna-seq/tpms-by-tissue/gene_tpm_adult_gtex_v11_whole_blood.gct.gz",
+    "fileSize": 93674275
+  },
+  {
+    "displayName": "GTEx_8_tissues_snRNAseq_atlas_071421.public_obs.h5ad",
+    "url": "https://storage.googleapis.com/adult-gtex/single-cell/v9/snrna-seq-data/GTEx_8_tissues_snRNAseq_atlas_071421.public_obs.h5ad",
+    "fileSize": 1898884113
+  }
+]

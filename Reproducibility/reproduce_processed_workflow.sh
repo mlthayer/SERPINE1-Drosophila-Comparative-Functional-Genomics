@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Run from the repository root with the documented R dependencies installed.
+# Reproduces selected processed inputs; does not download large source datasets.
+set -euo pipefail
+Rscript Scripts/03_RCL_Alignment.R
+Rscript Scripts/05A_FlyAtlas2_GeneTable_Import.R
+Rscript Scripts/08B_SexSpecific_Bulk_TissueSimilarity.R
+Rscript Scripts/08C_Bulk_MultiMetric_TissueSimilarity.R
+SERPINE1_FCA_SUMMARY_INPUT=Expression/FlyCellAtlas/Reference_Uploads/FCA_SERPIN_SampleLevel_MaleFemale_Only.csv \
+SERPINE1_GTEX_DONOR_INPUT=Expression/GTEx/GTEx_snRNA_SERPIN_Reanalysis/Reference_Uploads/GTEx_snRNA_SERPIN_donor_system_summary.csv \
+Rscript Scripts/08D_FCA_GTEx_snRNA_BySex.R
+Rscript Scripts/09_Aging_TissueExpression_Comparison.R
+SERPINE1_DIOPT_INPUT=Orthology/Inputs/DIOPT_all_human_predictions_for_candidate_serpins.csv \
+SERPINE1_FULL_ALIGNMENT_INPUT=Sequence/Phylogeny_Reference_Uploads/04_full_length_expanded_human_fly_alignment.fasta \
+SERPINE1_RCL_ALIGNMENT_INPUT=Sequence/Phylogeny_Reference_Uploads/04_revised_RCL_SERPINE1_fly_alignment.fasta \
+SERPINE1_BULK_INPUT=Expression/Human_SERPIN_reanalysis/CrossSpecies_Bulk_MultiMetric/Tables/Bulk_cross_dataset_consensus_by_sex.csv \
+SERPINE1_CELL_INPUT=Expression/Human_SERPIN_reanalysis/CrossSpecies_FCA_GTEx_snRNA_BySex/Tables/FCA_GTEx_snRNA_Spearman_by_sex.csv \
+SERPINE1_AGING_INPUT=Aging/CrossSpecies_Aging_Reanalysis_v2/Tables/CrossSpecies_Aging_Overall_Similarity_v2.csv \
+Rscript Scripts/10_IntegratedEvidenceRanking.R
+Rscript Scripts/11_SensitivityAnalysis.R

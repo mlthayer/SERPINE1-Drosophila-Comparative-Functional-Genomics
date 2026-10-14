@@ -1,0 +1,211 @@
+"Gene","Functional_System","Relative_Age","Fly_Change"
+"Spn28B","Metabolic",0,0
+"Spn28B","Metabolic",0.25,0
+"Spn28B","Metabolic",0.5,0.000339120360444824
+"Spn28B","Metabolic",0.75,0.00118718504920301
+"Spn28B","Metabolic",1,0.00241292943060921
+"Spn28B","Digestive",0,0
+"Spn28B","Digestive",0.25,0
+"Spn28B","Digestive",0.5,0.00178389096447853
+"Spn28B","Digestive",0.75,0.00386509708970348
+"Spn28B","Digestive",1,0
+"Spn28B","Cardiovascular",0,0
+"Spn28B","Cardiovascular",0.25,0
+"Spn28B","Cardiovascular",0.5,0
+"Spn28B","Cardiovascular",0.75,0
+"Spn28B","Cardiovascular",1,0
+"Spn28B","Respiratory",0,0
+"Spn28B","Respiratory",0.25,0.00162901417715061
+"Spn28B","Respiratory",0.5,0.00156635978572174
+"Spn28B","Respiratory",0.75,5.23880146420472e-05
+"Spn28B","Respiratory",1,0.000279402744757585
+"Spn28B","Excretory",0,0
+"Spn28B","Excretory",0.25,0
+"Spn28B","Excretory",0.5,0
+"Spn28B","Excretory",0.75,0
+"Spn28B","Excretory",1,0
+"Spn28B","Secretory",0,0
+"Spn28B","Secretory",0.25,0
+"Spn28B","Secretory",0.5,0
+"Spn28B","Secretory",0.75,0
+"Spn28B","Secretory",1,0
+"Spn28B","Immune defense",0,0
+"Spn28B","Immune defense",0.25,0
+"Spn28B","Immune defense",0.5,0
+"Spn28B","Immune defense",0.75,0
+"Spn28B","Immune defense",1,0
+"Spn28F","Metabolic",0,0
+"Spn28F","Metabolic",0.25,-0.000641827169308803
+"Spn28F","Metabolic",0.5,-0.0012581938565102
+"Spn28F","Metabolic",0.75,-0.00308446963660708
+"Spn28F","Metabolic",1,-0.00904278871232883
+"Spn28F","Digestive",0,0
+"Spn28F","Digestive",0.25,-0.005161027153763
+"Spn28F","Digestive",0.5,-0.00107696247226283
+"Spn28F","Digestive",0.75,0.00692996338095386
+"Spn28F","Digestive",1,-0.00794004177502
+"Spn28F","Cardiovascular",0,0
+"Spn28F","Cardiovascular",0.25,0
+"Spn28F","Cardiovascular",0.5,0
+"Spn28F","Cardiovascular",0.75,0
+"Spn28F","Cardiovascular",1,0
+"Spn28F","Respiratory",0,0
+"Spn28F","Respiratory",0.25,-0.00342840011142663
+"Spn28F","Respiratory",0.5,-0.00382043170907042
+"Spn28F","Respiratory",0.75,-0.00216368438903612
+"Spn28F","Respiratory",1,-0.00548577378589704
+"Spn28F","Excretory",0,0
+"Spn28F","Excretory",0.25,0
+"Spn28F","Excretory",0.5,0.135770498576729
+"Spn28F","Excretory",0.75,0.294169413582914
+"Spn28F","Excretory",1,0
+"Spn28F","Secretory",0,0
+"Spn28F","Secretory",0.25,0
+"Spn28F","Secretory",0.5,0.00685533839782189
+"Spn28F","Secretory",0.75,0.0148532331952808
+"Spn28F","Secretory",1,0
+"Spn28F","Immune defense",0,0
+"Spn28F","Immune defense",0.25,0
+"Spn28F","Immune defense",0.5,0
+"Spn28F","Immune defense",0.75,0
+"Spn28F","Immune defense",1,0
+"Spn42Da","Metabolic",0,0
+"Spn42Da","Metabolic",0.25,-0.0614041513251367
+"Spn42Da","Metabolic",0.5,-0.0879743478410176
+"Spn42Da","Metabolic",0.75,-0.054583653410454
+"Spn42Da","Metabolic",1,0.0432112976944848
+"Spn42Da","Digestive",0,0
+"Spn42Da","Digestive",0.25,-0.284296577691443
+"Spn42Da","Digestive",0.5,-0.245847658656973
+"Spn42Da","Digestive",0.75,0.0455694300928457
+"Spn42Da","Digestive",1,-0.0749076249291715
+"Spn42Da","Cardiovascular",0,0
+"Spn42Da","Cardiovascular",0.25,-0.0844563629854321
+"Spn42Da","Cardiovascular",0.5,-0.016207601372534
+"Spn42Da","Cardiovascular",0.75,0.108063327677212
+"Spn42Da","Cardiovascular",1,-0.174778447477055
+"Spn42Da","Respiratory",0,0
+"Spn42Da","Respiratory",0.25,0.00898396368213071
+"Spn42Da","Respiratory",0.5,0.0262061893266875
+"Spn42Da","Respiratory",0.75,0.0510021545853542
+"Spn42Da","Respiratory",1,0.0690062331482861
+"Spn42Da","Excretory",0,0
+"Spn42Da","Excretory",0.25,0
+"Spn42Da","Excretory",0.5,0.182616038362599
+"Spn42Da","Excretory",0.75,0.417582824185032
+"Spn42Da","Excretory",1,0.116878619019033
+"Spn42Da","Secretory",0,0
+"Spn42Da","Secretory",0.25,-0.0838178667664033
+"Spn42Da","Secretory",0.5,-0.130678846793489
+"Spn42Da","Secretory",0.75,-0.131225607964625
+"Spn42Da","Secretory",1,-0.121112865824389
+"Spn42Da","Immune defense",0,0
+"Spn42Da","Immune defense",0.25,-0.00779926962623614
+"Spn42Da","Immune defense",0.5,0.0808164363948261
+"Spn42Da","Immune defense",0.75,0.232441364004008
+"Spn42Da","Immune defense",1,0.219149902722984
+"Spn42Db","Metabolic",0,0
+"Spn42Db","Metabolic",0.25,-0.000603982799915221
+"Spn42Db","Metabolic",0.5,-0.0010426229923979
+"Spn42Db","Metabolic",0.75,-0.00134362906919761
+"Spn42Db","Metabolic",1,-0.00182885378929175
+"Spn42Db","Digestive",0,0
+"Spn42Db","Digestive",0.25,0
+"Spn42Db","Digestive",0.5,-0.00406024395789636
+"Spn42Db","Digestive",0.75,-0.00879719524210877
+"Spn42Db","Digestive",1,0
+"Spn42Db","Cardiovascular",0,0
+"Spn42Db","Cardiovascular",0.25,0
+"Spn42Db","Cardiovascular",0.5,0
+"Spn42Db","Cardiovascular",0.75,0
+"Spn42Db","Cardiovascular",1,0
+"Spn42Db","Respiratory",0,0
+"Spn42Db","Respiratory",0.25,0
+"Spn42Db","Respiratory",0.5,0
+"Spn42Db","Respiratory",0.75,0
+"Spn42Db","Respiratory",1,0
+"Spn42Db","Excretory",0,0
+"Spn42Db","Excretory",0.25,0
+"Spn42Db","Excretory",0.5,0
+"Spn42Db","Excretory",0.75,0
+"Spn42Db","Excretory",1,0
+"Spn42Db","Secretory",0,0
+"Spn42Db","Secretory",0.25,0
+"Spn42Db","Secretory",0.5,0
+"Spn42Db","Secretory",0.75,0
+"Spn42Db","Secretory",1,0
+"Spn42Db","Immune defense",0,0
+"Spn42Db","Immune defense",0.25,0
+"Spn42Db","Immune defense",0.5,0
+"Spn42Db","Immune defense",0.75,0
+"Spn42Db","Immune defense",1,0
+"Spn42Dc","Metabolic",0,0
+"Spn42Dc","Metabolic",0.25,0.00225464719316093
+"Spn42Dc","Metabolic",0.5,0.000902740743394402
+"Spn42Dc","Metabolic",0.75,-0.0032662021816609
+"Spn42Dc","Metabolic",1,-0.00279978030184975
+"Spn42Dc","Digestive",0,0
+"Spn42Dc","Digestive",0.25,-0.0163760425118788
+"Spn42Dc","Digestive",0.5,-0.0163017752997695
+"Spn42Dc","Digestive",0.75,-0.00592761633330795
+"Spn42Dc","Digestive",1,-0.0251939115567366
+"Spn42Dc","Cardiovascular",0,0
+"Spn42Dc","Cardiovascular",0.25,0
+"Spn42Dc","Cardiovascular",0.5,0
+"Spn42Dc","Cardiovascular",0.75,0
+"Spn42Dc","Cardiovascular",1,0
+"Spn42Dc","Respiratory",0,0
+"Spn42Dc","Respiratory",0.25,-0.000393967918828271
+"Spn42Dc","Respiratory",0.5,0.000478681389279296
+"Spn42Dc","Respiratory",0.75,0.00140633771422137
+"Spn42Dc","Respiratory",1,-0.00240838289836091
+"Spn42Dc","Excretory",0,0
+"Spn42Dc","Excretory",0.25,0
+"Spn42Dc","Excretory",0.5,0
+"Spn42Dc","Excretory",0.75,0
+"Spn42Dc","Excretory",1,0
+"Spn42Dc","Secretory",0,0
+"Spn42Dc","Secretory",0.25,0
+"Spn42Dc","Secretory",0.5,0
+"Spn42Dc","Secretory",0.75,0
+"Spn42Dc","Secretory",1,0
+"Spn42Dc","Immune defense",0,0
+"Spn42Dc","Immune defense",0.25,0.0168748449429108
+"Spn42Dc","Immune defense",0.5,0.051483066501496
+"Spn42Dc","Immune defense",0.75,0.0763907171221772
+"Spn42Dc","Immune defense",1,0
+"Spn42Dd","Metabolic",0,0
+"Spn42Dd","Metabolic",0.25,-0.0177699655041422
+"Spn42Dd","Metabolic",0.5,-0.0748592916506067
+"Spn42Dd","Metabolic",0.75,-0.146667113471368
+"Spn42Dd","Metabolic",1,-0.114627962819643
+"Spn42Dd","Digestive",0,0
+"Spn42Dd","Digestive",0.25,0
+"Spn42Dd","Digestive",0.5,-0.00834599799435103
+"Spn42Dd","Digestive",0.75,-0.0302023893486132
+"Spn42Dd","Digestive",1,-0.064636766368992
+"Spn42Dd","Cardiovascular",0,0
+"Spn42Dd","Cardiovascular",0.25,0
+"Spn42Dd","Cardiovascular",0.5,0
+"Spn42Dd","Cardiovascular",0.75,0
+"Spn42Dd","Cardiovascular",1,0
+"Spn42Dd","Respiratory",0,0
+"Spn42Dd","Respiratory",0.25,-0.00145526212555875
+"Spn42Dd","Respiratory",0.5,0.005136726560896
+"Spn42Dd","Respiratory",0.75,0.0148800563621913
+"Spn42Dd","Respiratory",1,0.00383299227734712
+"Spn42Dd","Excretory",0,0
+"Spn42Dd","Excretory",0.25,0
+"Spn42Dd","Excretory",0.5,0
+"Spn42Dd","Excretory",0.75,0
+"Spn42Dd","Excretory",1,0
+"Spn42Dd","Secretory",0,0
+"Spn42Dd","Secretory",0.25,-0.0644969085833047
+"Spn42Dd","Secretory",0.5,-0.0960603199320098
+"Spn42Dd","Secretory",0.75,-0.0926790988972674
+"Spn42Dd","Secretory",1,-0.100890481385587
+"Spn42Dd","Immune defense",0,0
+"Spn42Dd","Immune defense",0.25,0
+"Spn42Dd","Immune defense",0.5,0.0307876679091393
+"Spn42Dd","Immune defense",0.75,0.0667066138031351
+"Spn42Dd","Immune defense",1,0

@@ -1,0 +1,8 @@
+Gene,Accession,Record_Type,Sequence_Length,Nonstandard_AA,Duplicate_Sequence,Sequence_QC,Original_Header
+Spn42Da,Q8T0M5,TrEMBL,418,,FALSE,PASS,tr|Q8T0M5|Q8T0M5_DROME GH21896p OS=Drosophila melanogaster OX=7227 GN=Spn42Da PE=2 SV=1
+Spn42Db,A1Z6R3,TrEMBL,388,,FALSE,PASS,"tr|A1Z6R3|A1Z6R3_DROME Serpin 42Db, isoform C OS=Drosophila melanogaster OX=7227 GN=Spn42Db PE=3 SV=2"
+Spn42Dc,A1Z6R4,TrEMBL,403,,FALSE,PASS,"tr|A1Z6R4|A1Z6R4_DROME Serpin 42Dc, isoform A OS=Drosophila melanogaster OX=7227 GN=Spn42Dc PE=1 SV=1"
+Spn42Dd,Q7YTY6,Swiss-Prot,372,,FALSE,PASS,sp|Q7YTY6|SP42D_DROME Serine protease inhibitor 42Dd OS=Drosophila melanogaster OX=7227 GN=Spn42Dd PE=2 SV=1
+Spn28B,Q9VLZ8,TrEMBL,378,,FALSE,PASS,"tr|Q9VLZ8|Q9VLZ8_DROME Serpin 28B, isoform A OS=Drosophila melanogaster OX=7227 GN=Spn28B PE=3 SV=2"
+Spn28F,Q9VLQ7,TrEMBL,375,,FALSE,PASS,tr|Q9VLQ7|Q9VLQ7_DROME Serpin 28F OS=Drosophila melanogaster OX=7227 GN=Spn28F PE=3 SV=2
+SERPINE1,P05121,Swiss-Prot,402,,FALSE,PASS,sp|P05121|PAI1_HUMAN Plasminogen activator inhibitor 1 OS=Homo sapiens OX=9606 GN=SERPINE1 PE=1 SV=1

@@ -1,0 +1,35 @@
+"Tissue","Sex","n_samples"
+"Adipose Subcutaneous","Female",233
+"Adipose Subcutaneous","Male",481
+"Adipose Visceral Omentum","Female",180
+"Adipose Visceral Omentum","Male",407
+"Artery Aorta","Female",164
+"Artery Aorta","Male",308
+"Artery Coronary","Female",100
+"Artery Coronary","Male",168
+"Artery Tibial","Female",220
+"Artery Tibial","Male",471
+"Brain Hypothalamus","Female",64
+"Brain Hypothalamus","Male",193
+"Brain Nucleus Accumbens Basal Ganglia","Female",73
+"Brain Nucleus Accumbens Basal Ganglia","Male",212
+"Brain Spinal Cord Cervical C-1","Female",68
+"Brain Spinal Cord Cervical C-1","Male",136
+"Heart Atrial Appendage","Female",143
+"Heart Atrial Appendage","Male",318
+"Heart Left Ventricle","Female",144
+"Heart Left Ventricle","Male",308
+"Liver","Female",78
+"Liver","Male",184
+"Lung","Female",190
+"Lung","Male",414
+"Muscle Skeletal","Female",266
+"Muscle Skeletal","Male",552
+"Ovary","Female",193
+"Pancreas","Female",139
+"Pancreas","Male",223
+"Small Intestine Terminal Ileum","Female",72
+"Small Intestine Terminal Ileum","Male",135
+"Testis","Male",414
+"Whole Blood","Female",262
+"Whole Blood","Male",541

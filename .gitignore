@@ -21,3 +21,38 @@ Results/
 Output/
 renv/library/
 *.Rcheck
+
+# Generated QC and isoform analysis outputs; retain the supplied source table.
+QC/
+Expression/FlyAtlas2_Analysis/Processed/*
+!Expression/FlyAtlas2_Analysis/Processed/05_FlyAtlas2_all_transcript_expression.csv
+
+# Reproduced full-length outputs; retain uploaded references and original input.
+Sequence/FullLength/Processed/
+
+# Generated RCL and phylogeny outputs; supplied references remain reviewable.
+Sequence/RCL/Processed/
+Sequence/RCL/Extracted_RCL_Sensitivity_Analysis/
+Sequence/Phylogeny/
+
+# Generated default R graphics; preserve source data separately.
+/Rplots.pdf
+
+# Users download the large FlyCellAtlas source matrices locally.
+Expression/FlyCellAtlas/*.h5ad
+
+# Retain small HPA sample metadata needed for reproducible sex joins.
+!Expression/HPA/rna_tissue_hpa_samples.tsv.zip
+
+# Retain the small supplied fly-aging inputs required for processed reproduction.
+!Aging/Fly_Aging_tissue_expression/Data/
+Aging/Fly_Aging_tissue_expression/Data/*
+!Aging/Fly_Aging_tissue_expression/Data/README.md
+!Aging/Fly_Aging_tissue_expression/Data/Reference_Uploads/
+!Aging/Fly_Aging_tissue_expression/Data/Processed/
+Aging/Fly_Aging_tissue_expression/Data/Processed/*
+!Aging/Fly_Aging_tissue_expression/Data/Processed/AFCA_serpin_aging_change_summary_table.csv
+
+# Submission-review material is maintained privately, outside the code repository.
+/Publication/
+/PUBLICATION_REVIEW.md

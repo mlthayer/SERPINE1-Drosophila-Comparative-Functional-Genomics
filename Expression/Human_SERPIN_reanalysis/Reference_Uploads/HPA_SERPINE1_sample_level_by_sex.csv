@@ -1,0 +1,187 @@
+"Dataset","Tissue","Sample_ID","Sex","TPM"
+"HPA","Adipose Tissue","115","Female",7.75982
+"HPA","Adipose Tissue","137","Female",5.7193
+"HPA","Adipose Tissue","329","Female",91.1307
+"HPA","Adipose Tissue","331","Female",921.003
+"HPA","Adipose Tissue","86","Female",16.9346
+"HPA","Adrenal Gland","87","Female",12.8889
+"HPA","Adrenal Gland","88","Female",230.62
+"HPA","Adrenal Gland","89","Female",32.1397
+"HPA","Appendix","92","Male",119.91
+"HPA","Appendix","93","Female",258.517
+"HPA","Appendix","94","Female",11.1072
+"HPA","Bone Marrow","100","Male",1.41981
+"HPA","Bone Marrow","97","Female",1.34019
+"HPA","Bone Marrow","98","Male",1.00605
+"HPA","Bone Marrow","99","Female",0.249918
+"HPA","Breast","373","Female",11.696
+"HPA","Breast","390","Female",32.5951
+"HPA","Breast","405","Female",3.79266
+"HPA","Breast","410","Female",3.83715
+"HPA","Cerebral Cortex","105","Female",4.96447
+"HPA","Cerebral Cortex","106","Male",27.3771
+"HPA","Cerebral Cortex","48","Male",3.44203
+"HPA","Cervix","374","Female",8.5164
+"HPA","Cervix","383","Female",189.385
+"HPA","Choroid Plexus","3666","Male",9.29021
+"HPA","Choroid Plexus","3667","Female",6.08434
+"HPA","Colon","299","Female",8.01483
+"HPA","Colon","300","Male",6.73808
+"HPA","Colon","368","Female",0.401564
+"HPA","Colon","381","Male",4.53736
+"HPA","Colon","384","Male",4.29733
+"HPA","Colon","389","Female",4.34035
+"HPA","Colon","391","Female",1.67487
+"HPA","Colon","403","Female",20.9085
+"HPA","Colon","67","Male",12.9988
+"HPA","Colon","68","Female",2.65177
+"HPA","Colon","69","Male",11.7568
+"HPA","Colon","70","Male",10.1722
+"HPA","Colon","76","Female",11.965
+"HPA","Duodenum","120","Female",3.7626
+"HPA","Duodenum","121","Male",10.8685
+"HPA","Endometrium","113","Female",53.9077
+"HPA","Endometrium","114","Female",3.28163
+"HPA","Endometrium","268","Female",17.819
+"HPA","Endometrium","297","Female",12.6408
+"HPA","Endometrium","301","Female",28.1319
+"HPA","Epididymis","407","Male",1.26175
+"HPA","Esophagus","130","Female",8.97788
+"HPA","Esophagus","131","Male",32.8645
+"HPA","Esophagus","132","Male",11.3519
+"HPA","Fallopian Tube","136","Female",4.71473
+"HPA","Fallopian Tube","304","Female",1.42253
+"HPA","Fallopian Tube","305","Female",3.33956
+"HPA","Fallopian Tube","306","Female",7.0034
+"HPA","Fallopian Tube","307","Female",9.06833
+"HPA","Gallbladder","140","Male",115.467
+"HPA","Gallbladder","141","Male",272.784
+"HPA","Gallbladder","142","Female",1322.64
+"HPA","Heart Muscle","149","Female",2.9916
+"HPA","Heart Muscle","150","Female",8.94675
+"HPA","Heart Muscle","151","Male",3.42436
+"HPA","Heart Muscle","152","Female",5.91784
+"HPA","Kidney","358","Female",13.8635
+"HPA","Kidney","377","Male",140.655
+"HPA","Kidney","380","Male",11.1105
+"HPA","Kidney","394","Female",5.36223
+"HPA","Kidney","414","Female",15.6969
+"HPA","Kidney","55","Female",4.57384
+"HPA","Kidney","56","Female",10.1501
+"HPA","Kidney","57","Female",18.4576
+"HPA","Kidney","58","Male",4.48925
+"HPA","Liver","21","Female",385.862
+"HPA","Liver","23","Male",297.687
+"HPA","Liver","24","Male",152.109
+"HPA","Liver","350","Female",240.949
+"HPA","Liver","351","Male",52.0883
+"HPA","Liver","352","Male",82.3282
+"HPA","Liver","353","Male",416.046
+"HPA","Liver","359","Female",19.0216
+"HPA","Liver","367","Male",46.043
+"HPA","Liver","396","Female",51.6811
+"HPA","Lung","164","Female",63.1424
+"HPA","Lung","165","Male",4.26741
+"HPA","Lung","166","Female",24.6984
+"HPA","Lung","167","Female",7.26769
+"HPA","Lung","168","Female",10.1891
+"HPA","Lung","376","Male",17.337
+"HPA","Lung","379","Female",47.7244
+"HPA","Lung","387","Female",9.34243
+"HPA","Lung","406","Male",32.5884
+"HPA","Lymph Node","173","Male",34.1424
+"HPA","Lymph Node","174","Female",10.2741
+"HPA","Lymph Node","175","Female",30.9029
+"HPA","Lymph Node","176","Female",24.505
+"HPA","Lymph Node","177","Female",19.4547
+"HPA","Ovary","192","Female",14.9851
+"HPA","Ovary","193","Female",172.72
+"HPA","Ovary","308","Female",177.931
+"HPA","Ovary","3662","Female",15.6503
+"HPA","Ovary","3663","Female",7.69317
+"HPA","Ovary","3664","Female",16.9725
+"HPA","Ovary","3665","Female",167.594
+"HPA","Pancreas","194","Female",28.6299
+"HPA","Pancreas","195","Male",27.8672
+"HPA","Parathyroid Gland","1600","Female",7.48689
+"HPA","Parathyroid Gland","1601","Male",21.2445
+"HPA","Parathyroid Gland","393","Female",12.4541
+"HPA","Placenta","200","Female",127.122
+"HPA","Placenta","202","Female",404.253
+"HPA","Placenta","203","Female",1069.99
+"HPA","Placenta","204","Female",397.154
+"HPA","Placenta","375","Female",928.483
+"HPA","Placenta","385","Female",1192.05
+"HPA","Placenta","398","Female",428.853
+"HPA","Placenta","413","Female",201.784
+"HPA","Prostate","205","Male",20.3983
+"HPA","Prostate","206","Male",4.1304
+"HPA","Prostate","207","Male",76.4435
+"HPA","Prostate","361","Male",126.23
+"HPA","Prostate","364","Male",11.0016
+"HPA","Prostate","365","Male",31.2274
+"HPA","Prostate","388","Male",11.2293
+"HPA","Prostate","412","Male",61.5604
+"HPA","Prostate","59","Male",7.97738
+"HPA","Rectum","333","Male",11.6853
+"HPA","Rectum","334","Male",4.42461
+"HPA","Rectum","335","Male",5.80791
+"HPA","Rectum","338","Male",1.86852
+"HPA","Salivary Gland","216","Female",0.664097
+"HPA","Salivary Gland","217","Male",0.878873
+"HPA","Salivary Gland","218","Female",0.223355
+"HPA","Seminal Vesicle","386","Male",7.97363
+"HPA","Seminal Vesicle","404","Male",8.42598
+"HPA","Seminal Vesicle","409","Male",15.4213
+"HPA","Skeletal Muscle","339","Male",0.599565
+"HPA","Skeletal Muscle","340","Female",0.209496
+"HPA","Skeletal Muscle","341","Female",0.309948
+"HPA","Skeletal Muscle","342","Female",0.429758
+"HPA","Skeletal Muscle","343","Male",1.48531
+"HPA","Skin","225","Female",1.27451
+"HPA","Skin","226","Female",0.99299
+"HPA","Skin","227","Male",1.53614
+"HPA","Small Intestine","232","Male",1.8335
+"HPA","Small Intestine","233","Male",4.17839
+"HPA","Small Intestine","234","Male",8.06926
+"HPA","Small Intestine","235","Male",6.35822
+"HPA","Smooth Muscle","298","Female",30.0725
+"HPA","Smooth Muscle","302","Female",201.667
+"HPA","Smooth Muscle","330","Female",78.9494
+"HPA","Spleen","236","Female",2.29507
+"HPA","Spleen","237","Male",4.58987
+"HPA","Spleen","238","Male",30.2097
+"HPA","Spleen","239","Female",10.7339
+"HPA","Spleen","378","Female",46.3049
+"HPA","Stomach","240","Male",2.66847
+"HPA","Stomach","241","Male",28.8115
+"HPA","Stomach","369","Female",2.42358
+"HPA","Stomach","61","Female",4.35067
+"HPA","Testis","244","Male",31.6196
+"HPA","Testis","278","Male",6.42004
+"HPA","Testis","279","Male",6.40235
+"HPA","Testis","280","Male",28.6775
+"HPA","Testis","281","Male",2.28953
+"HPA","Testis","282","Male",6.36685
+"HPA","Testis","283","Male",3.68397
+"HPA","Testis","349","Male",3.43973
+"HPA","Testis","354","Male",6.93189
+"HPA","Testis","371","Male",1.76209
+"HPA","Thymus","1599","Female",0.722853
+"HPA","Thymus","1602","Male",14.6442
+"HPA","Thymus","1603","Male",10.253
+"HPA","Thyroid Gland","249","Female",26.1417
+"HPA","Thyroid Gland","250","Female",84.8745
+"HPA","Thyroid Gland","251","Female",7.27282
+"HPA","Thyroid Gland","252","Female",54.0759
+"HPA","Thyroid Gland","363","Male",18.5043
+"HPA","Tongue","1604","Male",1.6997
+"HPA","Tonsil","295","Female",1.60232
+"HPA","Tonsil","309","Male",4.95646
+"HPA","Tonsil","315","Female",3.90044
+"HPA","Tonsil","318","Male",1.22072
+"HPA","Tonsil","320","Male",4.09789
+"HPA","Urinary Bladder","1597","Female",755.473
+"HPA","Urinary Bladder","1598","Female",567.466
+"HPA","Urinary Bladder","264","Male",264.22
+"HPA","Urinary Bladder","265","Male",19.6575

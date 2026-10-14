@@ -1,0 +1,51 @@
+FlyBase ID	FBgn0028987
+Annotation Symbol	CG8137
+Symbol	Spn28F
+Name	Serpin 28F
+
+		RA/FBtr0079624		
+		FPKM	SD	
+Adult Male	Head	0.14	0.07	
+Adult Male	Eye	0.03	0.02	
+Adult Male	Brain	0.51	0.5	
+Adult Male	Thoracicoabdominal ganglion	0.29	0.23	
+Adult Male	Crop	0.89	0.92	
+Adult Male	Midgut	10.8	18.71	
+Adult Male	Hindgut	14.07	24.07	
+Adult Male	Malpighian Tubules	1.03	0.9	
+Adult Male	Rectal pad	0.22	0.06	
+Adult Male	Salivary gland	2.14	1.42	
+Adult Male	Fat body	28.07	25.55	
+Adult Male	Heart	7.84	3.61	
+Adult Male	Testis	77.1	6.54	
+Adult Male	Accessory glands	5920.82	2239.77	
+Adult Male	Carcass	37.89	21.45	
+Adult Male	Whole body	220.37	47.29	
+Adult Female	Head	0.06	0.06	
+Adult Female	Eye	0.03	0.01	
+Adult Female	Brain	0.07	0.1	
+Adult Female	Thoracicoabdominal ganglion	0.08	0.06	
+Adult Female	Crop	0.06	0.0	
+Adult Female	Midgut	0.03	0.05	
+Adult Female	Hindgut	0.04	0.04	
+Adult Female	Malpighian Tubules	0.08	0.11	
+Adult Female	Rectal pad	6.3	8.39	
+Adult Female	Salivary gland	0.02	0.03	
+Adult Female	Fat body	0.0	0.0	
+Adult Female	Heart	0.2	0.34	
+Adult Female	Ovary	0.04	0.07	
+Adult Female	Virgin Spermatheca	0.0	0.0	
+Adult Female	Mated Spermatheca	0.0	0.0	
+Adult Female	Carcass	0.12	0.08	
+Adult Female	Whole body	0.02	0.03	
+Larval	CNS	0.0	0.0	
+Larval	Midgut	0.57	0.74	
+Larval	Hindgut	1.26	2.11	
+Larval	Malpighian Tubules	0.0	0.0	
+Larval	Salivary gland	0.0	0.0	
+Larval	Fat body	0.0	0.0	
+Larval	Trachea	0.0	0.0	
+Larval	Carcass	0.0	0.0	
+Larval	Garland cells	0.0	0.0	
+Larval	Whole body	0.0	0.0	
+

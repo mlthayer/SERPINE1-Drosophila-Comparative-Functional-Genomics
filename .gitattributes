@@ -1,0 +1,15 @@
+# Portable source/document line endings.
+*.R text eol=lf
+*.md text eol=lf
+*.cff text eol=lf
+*.sh text eol=lf
+# Preserve supplied scientific data bytes, including source line endings.
+*.csv -text -whitespace
+*.tsv -text -whitespace
+*.gct -text -whitespace
+*.fasta -text -whitespace
+*.nwk -text -whitespace
+*.txt -text -whitespace
+
+# This original alignment markup uses spacing as sequence annotation.
+"Sequence/RCL/Reference_Uploads/Clustal Omega Drosophila_serpins_RCL marked.md" -text -whitespace

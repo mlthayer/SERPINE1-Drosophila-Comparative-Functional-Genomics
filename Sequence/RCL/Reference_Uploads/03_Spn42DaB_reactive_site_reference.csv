@@ -1,0 +1,2 @@
+Gene,Accession,Literature_P1_Position,Literature_P1prime_Position,FASTA_P1_Position,P1_Residue,FASTA_P1prime_Position,P1prime_Residue,Full_Alignment_P1_Column,Full_Alignment_P1prime_Column,Evidence
+Spn42Da_B_A1Z6R1,A1Z6R1,342,343,374,R,375,A,419,420,experimentally_structurally_supported_R-A_reactive_bond

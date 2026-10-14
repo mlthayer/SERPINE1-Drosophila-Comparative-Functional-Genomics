@@ -1,0 +1,829 @@
+Dataset,Sex,Fly_Gene,Human_Gene,System,Fly_FPKM,Human_TPM
+GTEx,Female,Spn28B,SERPINB11,Digestive,0,0
+GTEx,Female,Spn28B,SERPINB11,Heart,0.18,0
+GTEx,Female,Spn28B,SERPINB11,Liver-metabolic,0.21,0
+GTEx,Female,Spn28B,SERPINB11,Ovary,0.02,0
+GTEx,Female,Spn28B,SERPINB11,Sensory/neural,0.06,0
+GTEx,Female,Spn28B,SERPINB11,Skeletal muscle,0.15,0
+GTEx,Female,Spn28B,SERPINB3,Digestive,0,0.085125
+GTEx,Female,Spn28B,SERPINB3,Heart,0.18,0.0301505
+GTEx,Female,Spn28B,SERPINB3,Liver-metabolic,0.21,0.047362
+GTEx,Female,Spn28B,SERPINB3,Ovary,0.02,0.11269
+GTEx,Female,Spn28B,SERPINB3,Sensory/neural,0.06,0
+GTEx,Female,Spn28B,SERPINB3,Skeletal muscle,0.15,0.035525
+GTEx,Female,Spn28B,SERPINB4,Digestive,0,0
+GTEx,Female,Spn28B,SERPINB4,Heart,0.18,0
+GTEx,Female,Spn28B,SERPINB4,Liver-metabolic,0.21,0
+GTEx,Female,Spn28B,SERPINB4,Ovary,0.02,0
+GTEx,Female,Spn28B,SERPINB4,Sensory/neural,0.06,0
+GTEx,Female,Spn28B,SERPINB4,Skeletal muscle,0.15,0
+GTEx,Female,Spn28B,SERPINB9,Digestive,0,15.2139
+GTEx,Female,Spn28B,SERPINB9,Heart,0.18,5.144895
+GTEx,Female,Spn28B,SERPINB9,Liver-metabolic,0.21,9.82216
+GTEx,Female,Spn28B,SERPINB9,Ovary,0.02,5.99401
+GTEx,Female,Spn28B,SERPINB9,Sensory/neural,0.06,7.270735
+GTEx,Female,Spn28B,SERPINB9,Skeletal muscle,0.15,1.313925
+GTEx,Female,Spn28B,SERPINE1,Digestive,0,11.0038
+GTEx,Female,Spn28B,SERPINE1,Heart,0.18,16.839175
+GTEx,Female,Spn28B,SERPINE1,Liver-metabolic,0.21,78.648
+GTEx,Female,Spn28B,SERPINE1,Ovary,0.02,76.0248
+GTEx,Female,Spn28B,SERPINE1,Sensory/neural,0.06,2.6412
+GTEx,Female,Spn28B,SERPINE1,Skeletal muscle,0.15,8.663219999999999
+GTEx,Female,Spn28B,SERPINI1,Digestive,0,3.40373
+GTEx,Female,Spn28B,SERPINI1,Heart,0.18,2.6499224999999997
+GTEx,Female,Spn28B,SERPINI1,Liver-metabolic,0.21,7.28598
+GTEx,Female,Spn28B,SERPINI1,Ovary,0.02,6.14115
+GTEx,Female,Spn28B,SERPINI1,Sensory/neural,0.06,68.6718
+GTEx,Female,Spn28B,SERPINI1,Skeletal muscle,0.15,1.365635
+GTEx,Female,Spn28F,SERPINB11,Digestive,0.04,0
+GTEx,Female,Spn28F,SERPINB11,Heart,0.2,0
+GTEx,Female,Spn28F,SERPINB11,Liver-metabolic,0,0
+GTEx,Female,Spn28F,SERPINB11,Ovary,0.04,0
+GTEx,Female,Spn28F,SERPINB11,Sensory/neural,0.06,0
+GTEx,Female,Spn28F,SERPINB11,Skeletal muscle,0.12,0
+GTEx,Female,Spn28F,SERPINB3,Digestive,0.04,0.085125
+GTEx,Female,Spn28F,SERPINB3,Heart,0.2,0.0301505
+GTEx,Female,Spn28F,SERPINB3,Liver-metabolic,0,0.047362
+GTEx,Female,Spn28F,SERPINB3,Ovary,0.04,0.11269
+GTEx,Female,Spn28F,SERPINB3,Sensory/neural,0.06,0
+GTEx,Female,Spn28F,SERPINB3,Skeletal muscle,0.12,0.035525
+GTEx,Female,Spn28F,SERPINB4,Digestive,0.04,0
+GTEx,Female,Spn28F,SERPINB4,Heart,0.2,0
+GTEx,Female,Spn28F,SERPINB4,Liver-metabolic,0,0
+GTEx,Female,Spn28F,SERPINB4,Ovary,0.04,0
+GTEx,Female,Spn28F,SERPINB4,Sensory/neural,0.06,0
+GTEx,Female,Spn28F,SERPINB4,Skeletal muscle,0.12,0
+GTEx,Female,Spn28F,SERPINB9,Digestive,0.04,15.2139
+GTEx,Female,Spn28F,SERPINB9,Heart,0.2,5.144895
+GTEx,Female,Spn28F,SERPINB9,Liver-metabolic,0,9.82216
+GTEx,Female,Spn28F,SERPINB9,Ovary,0.04,5.99401
+GTEx,Female,Spn28F,SERPINB9,Sensory/neural,0.06,7.270735
+GTEx,Female,Spn28F,SERPINB9,Skeletal muscle,0.12,1.313925
+GTEx,Female,Spn28F,SERPINE1,Digestive,0.04,11.0038
+GTEx,Female,Spn28F,SERPINE1,Heart,0.2,16.839175
+GTEx,Female,Spn28F,SERPINE1,Liver-metabolic,0,78.648
+GTEx,Female,Spn28F,SERPINE1,Ovary,0.04,76.0248
+GTEx,Female,Spn28F,SERPINE1,Sensory/neural,0.06,2.6412
+GTEx,Female,Spn28F,SERPINE1,Skeletal muscle,0.12,8.663219999999999
+GTEx,Female,Spn28F,SERPINI1,Digestive,0.04,3.40373
+GTEx,Female,Spn28F,SERPINI1,Heart,0.2,2.6499224999999997
+GTEx,Female,Spn28F,SERPINI1,Liver-metabolic,0,7.28598
+GTEx,Female,Spn28F,SERPINI1,Ovary,0.04,6.14115
+GTEx,Female,Spn28F,SERPINI1,Sensory/neural,0.06,68.6718
+GTEx,Female,Spn28F,SERPINI1,Skeletal muscle,0.12,1.365635
+GTEx,Female,Spn42Da,SERPINB11,Digestive,23.46,0
+GTEx,Female,Spn42Da,SERPINB11,Heart,49.73,0
+GTEx,Female,Spn42Da,SERPINB11,Liver-metabolic,44.7,0
+GTEx,Female,Spn42Da,SERPINB11,Ovary,7.43,0
+GTEx,Female,Spn42Da,SERPINB11,Sensory/neural,34,0
+GTEx,Female,Spn42Da,SERPINB11,Skeletal muscle,58.93,0
+GTEx,Female,Spn42Da,SERPINB3,Digestive,23.46,0.085125
+GTEx,Female,Spn42Da,SERPINB3,Heart,49.73,0.0301505
+GTEx,Female,Spn42Da,SERPINB3,Liver-metabolic,44.7,0.047362
+GTEx,Female,Spn42Da,SERPINB3,Ovary,7.43,0.11269
+GTEx,Female,Spn42Da,SERPINB3,Sensory/neural,34,0
+GTEx,Female,Spn42Da,SERPINB3,Skeletal muscle,58.93,0.035525
+GTEx,Female,Spn42Da,SERPINB4,Digestive,23.46,0
+GTEx,Female,Spn42Da,SERPINB4,Heart,49.73,0
+GTEx,Female,Spn42Da,SERPINB4,Liver-metabolic,44.7,0
+GTEx,Female,Spn42Da,SERPINB4,Ovary,7.43,0
+GTEx,Female,Spn42Da,SERPINB4,Sensory/neural,34,0
+GTEx,Female,Spn42Da,SERPINB4,Skeletal muscle,58.93,0
+GTEx,Female,Spn42Da,SERPINB9,Digestive,23.46,15.2139
+GTEx,Female,Spn42Da,SERPINB9,Heart,49.73,5.144895
+GTEx,Female,Spn42Da,SERPINB9,Liver-metabolic,44.7,9.82216
+GTEx,Female,Spn42Da,SERPINB9,Ovary,7.43,5.99401
+GTEx,Female,Spn42Da,SERPINB9,Sensory/neural,34,7.270735
+GTEx,Female,Spn42Da,SERPINB9,Skeletal muscle,58.93,1.313925
+GTEx,Female,Spn42Da,SERPINE1,Digestive,23.46,11.0038
+GTEx,Female,Spn42Da,SERPINE1,Heart,49.73,16.839175
+GTEx,Female,Spn42Da,SERPINE1,Liver-metabolic,44.7,78.648
+GTEx,Female,Spn42Da,SERPINE1,Ovary,7.43,76.0248
+GTEx,Female,Spn42Da,SERPINE1,Sensory/neural,34,2.6412
+GTEx,Female,Spn42Da,SERPINE1,Skeletal muscle,58.93,8.663219999999999
+GTEx,Female,Spn42Da,SERPINI1,Digestive,23.46,3.40373
+GTEx,Female,Spn42Da,SERPINI1,Heart,49.73,2.6499224999999997
+GTEx,Female,Spn42Da,SERPINI1,Liver-metabolic,44.7,7.28598
+GTEx,Female,Spn42Da,SERPINI1,Ovary,7.43,6.14115
+GTEx,Female,Spn42Da,SERPINI1,Sensory/neural,34,68.6718
+GTEx,Female,Spn42Da,SERPINI1,Skeletal muscle,58.93,1.365635
+GTEx,Female,Spn42Db,SERPINB11,Digestive,0.1,0
+GTEx,Female,Spn42Db,SERPINB11,Heart,0.2,0
+GTEx,Female,Spn42Db,SERPINB11,Liver-metabolic,0.27,0
+GTEx,Female,Spn42Db,SERPINB11,Ovary,0.1,0
+GTEx,Female,Spn42Db,SERPINB11,Sensory/neural,0.15,0
+GTEx,Female,Spn42Db,SERPINB11,Skeletal muscle,0.27,0
+GTEx,Female,Spn42Db,SERPINB3,Digestive,0.1,0.085125
+GTEx,Female,Spn42Db,SERPINB3,Heart,0.2,0.0301505
+GTEx,Female,Spn42Db,SERPINB3,Liver-metabolic,0.27,0.047362
+GTEx,Female,Spn42Db,SERPINB3,Ovary,0.1,0.11269
+GTEx,Female,Spn42Db,SERPINB3,Sensory/neural,0.15,0
+GTEx,Female,Spn42Db,SERPINB3,Skeletal muscle,0.27,0.035525
+GTEx,Female,Spn42Db,SERPINB4,Digestive,0.1,0
+GTEx,Female,Spn42Db,SERPINB4,Heart,0.2,0
+GTEx,Female,Spn42Db,SERPINB4,Liver-metabolic,0.27,0
+GTEx,Female,Spn42Db,SERPINB4,Ovary,0.1,0
+GTEx,Female,Spn42Db,SERPINB4,Sensory/neural,0.15,0
+GTEx,Female,Spn42Db,SERPINB4,Skeletal muscle,0.27,0
+GTEx,Female,Spn42Db,SERPINB9,Digestive,0.1,15.2139
+GTEx,Female,Spn42Db,SERPINB9,Heart,0.2,5.144895
+GTEx,Female,Spn42Db,SERPINB9,Liver-metabolic,0.27,9.82216
+GTEx,Female,Spn42Db,SERPINB9,Ovary,0.1,5.99401
+GTEx,Female,Spn42Db,SERPINB9,Sensory/neural,0.15,7.270735
+GTEx,Female,Spn42Db,SERPINB9,Skeletal muscle,0.27,1.313925
+GTEx,Female,Spn42Db,SERPINE1,Digestive,0.1,11.0038
+GTEx,Female,Spn42Db,SERPINE1,Heart,0.2,16.839175
+GTEx,Female,Spn42Db,SERPINE1,Liver-metabolic,0.27,78.648
+GTEx,Female,Spn42Db,SERPINE1,Ovary,0.1,76.0248
+GTEx,Female,Spn42Db,SERPINE1,Sensory/neural,0.15,2.6412
+GTEx,Female,Spn42Db,SERPINE1,Skeletal muscle,0.27,8.663219999999999
+GTEx,Female,Spn42Db,SERPINI1,Digestive,0.1,3.40373
+GTEx,Female,Spn42Db,SERPINI1,Heart,0.2,2.6499224999999997
+GTEx,Female,Spn42Db,SERPINI1,Liver-metabolic,0.27,7.28598
+GTEx,Female,Spn42Db,SERPINI1,Ovary,0.1,6.14115
+GTEx,Female,Spn42Db,SERPINI1,Sensory/neural,0.15,68.6718
+GTEx,Female,Spn42Db,SERPINI1,Skeletal muscle,0.27,1.365635
+GTEx,Female,Spn42Dc,SERPINB11,Digestive,3.19,0
+GTEx,Female,Spn42Dc,SERPINB11,Heart,0.57,0
+GTEx,Female,Spn42Dc,SERPINB11,Liver-metabolic,0.36,0
+GTEx,Female,Spn42Dc,SERPINB11,Ovary,0.07,0
+GTEx,Female,Spn42Dc,SERPINB11,Sensory/neural,0.6,0
+GTEx,Female,Spn42Dc,SERPINB11,Skeletal muscle,1.39,0
+GTEx,Female,Spn42Dc,SERPINB3,Digestive,3.19,0.085125
+GTEx,Female,Spn42Dc,SERPINB3,Heart,0.57,0.0301505
+GTEx,Female,Spn42Dc,SERPINB3,Liver-metabolic,0.36,0.047362
+GTEx,Female,Spn42Dc,SERPINB3,Ovary,0.07,0.11269
+GTEx,Female,Spn42Dc,SERPINB3,Sensory/neural,0.6,0
+GTEx,Female,Spn42Dc,SERPINB3,Skeletal muscle,1.39,0.035525
+GTEx,Female,Spn42Dc,SERPINB4,Digestive,3.19,0
+GTEx,Female,Spn42Dc,SERPINB4,Heart,0.57,0
+GTEx,Female,Spn42Dc,SERPINB4,Liver-metabolic,0.36,0
+GTEx,Female,Spn42Dc,SERPINB4,Ovary,0.07,0
+GTEx,Female,Spn42Dc,SERPINB4,Sensory/neural,0.6,0
+GTEx,Female,Spn42Dc,SERPINB4,Skeletal muscle,1.39,0
+GTEx,Female,Spn42Dc,SERPINB9,Digestive,3.19,15.2139
+GTEx,Female,Spn42Dc,SERPINB9,Heart,0.57,5.144895
+GTEx,Female,Spn42Dc,SERPINB9,Liver-metabolic,0.36,9.82216
+GTEx,Female,Spn42Dc,SERPINB9,Ovary,0.07,5.99401
+GTEx,Female,Spn42Dc,SERPINB9,Sensory/neural,0.6,7.270735
+GTEx,Female,Spn42Dc,SERPINB9,Skeletal muscle,1.39,1.313925
+GTEx,Female,Spn42Dc,SERPINE1,Digestive,3.19,11.0038
+GTEx,Female,Spn42Dc,SERPINE1,Heart,0.57,16.839175
+GTEx,Female,Spn42Dc,SERPINE1,Liver-metabolic,0.36,78.648
+GTEx,Female,Spn42Dc,SERPINE1,Ovary,0.07,76.0248
+GTEx,Female,Spn42Dc,SERPINE1,Sensory/neural,0.6,2.6412
+GTEx,Female,Spn42Dc,SERPINE1,Skeletal muscle,1.39,8.663219999999999
+GTEx,Female,Spn42Dc,SERPINI1,Digestive,3.19,3.40373
+GTEx,Female,Spn42Dc,SERPINI1,Heart,0.57,2.6499224999999997
+GTEx,Female,Spn42Dc,SERPINI1,Liver-metabolic,0.36,7.28598
+GTEx,Female,Spn42Dc,SERPINI1,Ovary,0.07,6.14115
+GTEx,Female,Spn42Dc,SERPINI1,Sensory/neural,0.6,68.6718
+GTEx,Female,Spn42Dc,SERPINI1,Skeletal muscle,1.39,1.365635
+GTEx,Female,Spn42Dd,SERPINB11,Digestive,25.37,0
+GTEx,Female,Spn42Dd,SERPINB11,Heart,27.5,0
+GTEx,Female,Spn42Dd,SERPINB11,Liver-metabolic,30.86,0
+GTEx,Female,Spn42Dd,SERPINB11,Ovary,0.49,0
+GTEx,Female,Spn42Dd,SERPINB11,Sensory/neural,37.12,0
+GTEx,Female,Spn42Dd,SERPINB11,Skeletal muscle,39.07,0
+GTEx,Female,Spn42Dd,SERPINB3,Digestive,25.37,0.085125
+GTEx,Female,Spn42Dd,SERPINB3,Heart,27.5,0.0301505
+GTEx,Female,Spn42Dd,SERPINB3,Liver-metabolic,30.86,0.047362
+GTEx,Female,Spn42Dd,SERPINB3,Ovary,0.49,0.11269
+GTEx,Female,Spn42Dd,SERPINB3,Sensory/neural,37.12,0
+GTEx,Female,Spn42Dd,SERPINB3,Skeletal muscle,39.07,0.035525
+GTEx,Female,Spn42Dd,SERPINB4,Digestive,25.37,0
+GTEx,Female,Spn42Dd,SERPINB4,Heart,27.5,0
+GTEx,Female,Spn42Dd,SERPINB4,Liver-metabolic,30.86,0
+GTEx,Female,Spn42Dd,SERPINB4,Ovary,0.49,0
+GTEx,Female,Spn42Dd,SERPINB4,Sensory/neural,37.12,0
+GTEx,Female,Spn42Dd,SERPINB4,Skeletal muscle,39.07,0
+GTEx,Female,Spn42Dd,SERPINB9,Digestive,25.37,15.2139
+GTEx,Female,Spn42Dd,SERPINB9,Heart,27.5,5.144895
+GTEx,Female,Spn42Dd,SERPINB9,Liver-metabolic,30.86,9.82216
+GTEx,Female,Spn42Dd,SERPINB9,Ovary,0.49,5.99401
+GTEx,Female,Spn42Dd,SERPINB9,Sensory/neural,37.12,7.270735
+GTEx,Female,Spn42Dd,SERPINB9,Skeletal muscle,39.07,1.313925
+GTEx,Female,Spn42Dd,SERPINE1,Digestive,25.37,11.0038
+GTEx,Female,Spn42Dd,SERPINE1,Heart,27.5,16.839175
+GTEx,Female,Spn42Dd,SERPINE1,Liver-metabolic,30.86,78.648
+GTEx,Female,Spn42Dd,SERPINE1,Ovary,0.49,76.0248
+GTEx,Female,Spn42Dd,SERPINE1,Sensory/neural,37.12,2.6412
+GTEx,Female,Spn42Dd,SERPINE1,Skeletal muscle,39.07,8.663219999999999
+GTEx,Female,Spn42Dd,SERPINI1,Digestive,25.37,3.40373
+GTEx,Female,Spn42Dd,SERPINI1,Heart,27.5,2.6499224999999997
+GTEx,Female,Spn42Dd,SERPINI1,Liver-metabolic,30.86,7.28598
+GTEx,Female,Spn42Dd,SERPINI1,Ovary,0.49,6.14115
+GTEx,Female,Spn42Dd,SERPINI1,Sensory/neural,37.12,68.6718
+GTEx,Female,Spn42Dd,SERPINI1,Skeletal muscle,39.07,1.365635
+GTEx,Male,Spn28B,SERPINB11,Digestive,1.75,0
+GTEx,Male,Spn28B,SERPINB11,Heart,1.44,0
+GTEx,Male,Spn28B,SERPINB11,Liver-metabolic,3.05,0
+GTEx,Male,Spn28B,SERPINB11,Sensory/neural,0.07,0
+GTEx,Male,Spn28B,SERPINB11,Skeletal muscle,3.86,0
+GTEx,Male,Spn28B,SERPINB3,Digestive,1.75,0.084255
+GTEx,Male,Spn28B,SERPINB3,Heart,1.44,0.012434
+GTEx,Male,Spn28B,SERPINB3,Liver-metabolic,3.05,0.051181
+GTEx,Male,Spn28B,SERPINB3,Sensory/neural,0.07,0
+GTEx,Male,Spn28B,SERPINB3,Skeletal muscle,3.86,0.01969
+GTEx,Male,Spn28B,SERPINB4,Digestive,1.75,0
+GTEx,Male,Spn28B,SERPINB4,Heart,1.44,0
+GTEx,Male,Spn28B,SERPINB4,Liver-metabolic,3.05,0
+GTEx,Male,Spn28B,SERPINB4,Sensory/neural,0.07,0
+GTEx,Male,Spn28B,SERPINB4,Skeletal muscle,3.86,0
+GTEx,Male,Spn28B,SERPINB9,Digestive,1.75,12.0358
+GTEx,Male,Spn28B,SERPINB9,Heart,1.44,5.815175
+GTEx,Male,Spn28B,SERPINB9,Liver-metabolic,3.05,9.97841
+GTEx,Male,Spn28B,SERPINB9,Sensory/neural,0.07,7.35138
+GTEx,Male,Spn28B,SERPINB9,Skeletal muscle,3.86,1.37825
+GTEx,Male,Spn28B,SERPINE1,Digestive,1.75,13.73
+GTEx,Male,Spn28B,SERPINE1,Heart,1.44,24.95445
+GTEx,Male,Spn28B,SERPINE1,Liver-metabolic,3.05,115.362
+GTEx,Male,Spn28B,SERPINE1,Sensory/neural,0.07,2.18163
+GTEx,Male,Spn28B,SERPINE1,Skeletal muscle,3.86,10.9323
+GTEx,Male,Spn28B,SERPINI1,Digestive,1.75,3.58633
+GTEx,Male,Spn28B,SERPINI1,Heart,1.44,2.423285
+GTEx,Male,Spn28B,SERPINI1,Liver-metabolic,3.05,7.8126
+GTEx,Male,Spn28B,SERPINI1,Sensory/neural,0.07,94.4724
+GTEx,Male,Spn28B,SERPINI1,Skeletal muscle,3.86,1.337325
+GTEx,Male,Spn28F,SERPINB11,Digestive,10.8,0
+GTEx,Male,Spn28F,SERPINB11,Heart,7.84,0
+GTEx,Male,Spn28F,SERPINB11,Liver-metabolic,28.07,0
+GTEx,Male,Spn28F,SERPINB11,Sensory/neural,0.14,0
+GTEx,Male,Spn28F,SERPINB11,Skeletal muscle,37.89,0
+GTEx,Male,Spn28F,SERPINB3,Digestive,10.8,0.084255
+GTEx,Male,Spn28F,SERPINB3,Heart,7.84,0.012434
+GTEx,Male,Spn28F,SERPINB3,Liver-metabolic,28.07,0.051181
+GTEx,Male,Spn28F,SERPINB3,Sensory/neural,0.14,0
+GTEx,Male,Spn28F,SERPINB3,Skeletal muscle,37.89,0.01969
+GTEx,Male,Spn28F,SERPINB4,Digestive,10.8,0
+GTEx,Male,Spn28F,SERPINB4,Heart,7.84,0
+GTEx,Male,Spn28F,SERPINB4,Liver-metabolic,28.07,0
+GTEx,Male,Spn28F,SERPINB4,Sensory/neural,0.14,0
+GTEx,Male,Spn28F,SERPINB4,Skeletal muscle,37.89,0
+GTEx,Male,Spn28F,SERPINB9,Digestive,10.8,12.0358
+GTEx,Male,Spn28F,SERPINB9,Heart,7.84,5.815175
+GTEx,Male,Spn28F,SERPINB9,Liver-metabolic,28.07,9.97841
+GTEx,Male,Spn28F,SERPINB9,Sensory/neural,0.14,7.35138
+GTEx,Male,Spn28F,SERPINB9,Skeletal muscle,37.89,1.37825
+GTEx,Male,Spn28F,SERPINE1,Digestive,10.8,13.73
+GTEx,Male,Spn28F,SERPINE1,Heart,7.84,24.95445
+GTEx,Male,Spn28F,SERPINE1,Liver-metabolic,28.07,115.362
+GTEx,Male,Spn28F,SERPINE1,Sensory/neural,0.14,2.18163
+GTEx,Male,Spn28F,SERPINE1,Skeletal muscle,37.89,10.9323
+GTEx,Male,Spn28F,SERPINI1,Digestive,10.8,3.58633
+GTEx,Male,Spn28F,SERPINI1,Heart,7.84,2.423285
+GTEx,Male,Spn28F,SERPINI1,Liver-metabolic,28.07,7.8126
+GTEx,Male,Spn28F,SERPINI1,Sensory/neural,0.14,94.4724
+GTEx,Male,Spn28F,SERPINI1,Skeletal muscle,37.89,1.337325
+GTEx,Male,Spn42Da,SERPINB11,Digestive,18.63,0
+GTEx,Male,Spn42Da,SERPINB11,Heart,63.83,0
+GTEx,Male,Spn42Da,SERPINB11,Liver-metabolic,45.9,0
+GTEx,Male,Spn42Da,SERPINB11,Sensory/neural,27.89,0
+GTEx,Male,Spn42Da,SERPINB11,Skeletal muscle,48.77,0
+GTEx,Male,Spn42Da,SERPINB3,Digestive,18.63,0.084255
+GTEx,Male,Spn42Da,SERPINB3,Heart,63.83,0.012434
+GTEx,Male,Spn42Da,SERPINB3,Liver-metabolic,45.9,0.051181
+GTEx,Male,Spn42Da,SERPINB3,Sensory/neural,27.89,0
+GTEx,Male,Spn42Da,SERPINB3,Skeletal muscle,48.77,0.01969
+GTEx,Male,Spn42Da,SERPINB4,Digestive,18.63,0
+GTEx,Male,Spn42Da,SERPINB4,Heart,63.83,0
+GTEx,Male,Spn42Da,SERPINB4,Liver-metabolic,45.9,0
+GTEx,Male,Spn42Da,SERPINB4,Sensory/neural,27.89,0
+GTEx,Male,Spn42Da,SERPINB4,Skeletal muscle,48.77,0
+GTEx,Male,Spn42Da,SERPINB9,Digestive,18.63,12.0358
+GTEx,Male,Spn42Da,SERPINB9,Heart,63.83,5.815175
+GTEx,Male,Spn42Da,SERPINB9,Liver-metabolic,45.9,9.97841
+GTEx,Male,Spn42Da,SERPINB9,Sensory/neural,27.89,7.35138
+GTEx,Male,Spn42Da,SERPINB9,Skeletal muscle,48.77,1.37825
+GTEx,Male,Spn42Da,SERPINE1,Digestive,18.63,13.73
+GTEx,Male,Spn42Da,SERPINE1,Heart,63.83,24.95445
+GTEx,Male,Spn42Da,SERPINE1,Liver-metabolic,45.9,115.362
+GTEx,Male,Spn42Da,SERPINE1,Sensory/neural,27.89,2.18163
+GTEx,Male,Spn42Da,SERPINE1,Skeletal muscle,48.77,10.9323
+GTEx,Male,Spn42Da,SERPINI1,Digestive,18.63,3.58633
+GTEx,Male,Spn42Da,SERPINI1,Heart,63.83,2.423285
+GTEx,Male,Spn42Da,SERPINI1,Liver-metabolic,45.9,7.8126
+GTEx,Male,Spn42Da,SERPINI1,Sensory/neural,27.89,94.4724
+GTEx,Male,Spn42Da,SERPINI1,Skeletal muscle,48.77,1.337325
+GTEx,Male,Spn42Db,SERPINB11,Digestive,0.05,0
+GTEx,Male,Spn42Db,SERPINB11,Heart,0.66,0
+GTEx,Male,Spn42Db,SERPINB11,Liver-metabolic,0.26,0
+GTEx,Male,Spn42Db,SERPINB11,Sensory/neural,0.09,0
+GTEx,Male,Spn42Db,SERPINB11,Skeletal muscle,0.41,0
+GTEx,Male,Spn42Db,SERPINB3,Digestive,0.05,0.084255
+GTEx,Male,Spn42Db,SERPINB3,Heart,0.66,0.012434
+GTEx,Male,Spn42Db,SERPINB3,Liver-metabolic,0.26,0.051181
+GTEx,Male,Spn42Db,SERPINB3,Sensory/neural,0.09,0
+GTEx,Male,Spn42Db,SERPINB3,Skeletal muscle,0.41,0.01969
+GTEx,Male,Spn42Db,SERPINB4,Digestive,0.05,0
+GTEx,Male,Spn42Db,SERPINB4,Heart,0.66,0
+GTEx,Male,Spn42Db,SERPINB4,Liver-metabolic,0.26,0
+GTEx,Male,Spn42Db,SERPINB4,Sensory/neural,0.09,0
+GTEx,Male,Spn42Db,SERPINB4,Skeletal muscle,0.41,0
+GTEx,Male,Spn42Db,SERPINB9,Digestive,0.05,12.0358
+GTEx,Male,Spn42Db,SERPINB9,Heart,0.66,5.815175
+GTEx,Male,Spn42Db,SERPINB9,Liver-metabolic,0.26,9.97841
+GTEx,Male,Spn42Db,SERPINB9,Sensory/neural,0.09,7.35138
+GTEx,Male,Spn42Db,SERPINB9,Skeletal muscle,0.41,1.37825
+GTEx,Male,Spn42Db,SERPINE1,Digestive,0.05,13.73
+GTEx,Male,Spn42Db,SERPINE1,Heart,0.66,24.95445
+GTEx,Male,Spn42Db,SERPINE1,Liver-metabolic,0.26,115.362
+GTEx,Male,Spn42Db,SERPINE1,Sensory/neural,0.09,2.18163
+GTEx,Male,Spn42Db,SERPINE1,Skeletal muscle,0.41,10.9323
+GTEx,Male,Spn42Db,SERPINI1,Digestive,0.05,3.58633
+GTEx,Male,Spn42Db,SERPINI1,Heart,0.66,2.423285
+GTEx,Male,Spn42Db,SERPINI1,Liver-metabolic,0.26,7.8126
+GTEx,Male,Spn42Db,SERPINI1,Sensory/neural,0.09,94.4724
+GTEx,Male,Spn42Db,SERPINI1,Skeletal muscle,0.41,1.337325
+GTEx,Male,Spn42Dc,SERPINB11,Digestive,5.09,0
+GTEx,Male,Spn42Dc,SERPINB11,Heart,0.98,0
+GTEx,Male,Spn42Dc,SERPINB11,Liver-metabolic,0.67,0
+GTEx,Male,Spn42Dc,SERPINB11,Sensory/neural,0.52,0
+GTEx,Male,Spn42Dc,SERPINB11,Skeletal muscle,1.84,0
+GTEx,Male,Spn42Dc,SERPINB3,Digestive,5.09,0.084255
+GTEx,Male,Spn42Dc,SERPINB3,Heart,0.98,0.012434
+GTEx,Male,Spn42Dc,SERPINB3,Liver-metabolic,0.67,0.051181
+GTEx,Male,Spn42Dc,SERPINB3,Sensory/neural,0.52,0
+GTEx,Male,Spn42Dc,SERPINB3,Skeletal muscle,1.84,0.01969
+GTEx,Male,Spn42Dc,SERPINB4,Digestive,5.09,0
+GTEx,Male,Spn42Dc,SERPINB4,Heart,0.98,0
+GTEx,Male,Spn42Dc,SERPINB4,Liver-metabolic,0.67,0
+GTEx,Male,Spn42Dc,SERPINB4,Sensory/neural,0.52,0
+GTEx,Male,Spn42Dc,SERPINB4,Skeletal muscle,1.84,0
+GTEx,Male,Spn42Dc,SERPINB9,Digestive,5.09,12.0358
+GTEx,Male,Spn42Dc,SERPINB9,Heart,0.98,5.815175
+GTEx,Male,Spn42Dc,SERPINB9,Liver-metabolic,0.67,9.97841
+GTEx,Male,Spn42Dc,SERPINB9,Sensory/neural,0.52,7.35138
+GTEx,Male,Spn42Dc,SERPINB9,Skeletal muscle,1.84,1.37825
+GTEx,Male,Spn42Dc,SERPINE1,Digestive,5.09,13.73
+GTEx,Male,Spn42Dc,SERPINE1,Heart,0.98,24.95445
+GTEx,Male,Spn42Dc,SERPINE1,Liver-metabolic,0.67,115.362
+GTEx,Male,Spn42Dc,SERPINE1,Sensory/neural,0.52,2.18163
+GTEx,Male,Spn42Dc,SERPINE1,Skeletal muscle,1.84,10.9323
+GTEx,Male,Spn42Dc,SERPINI1,Digestive,5.09,3.58633
+GTEx,Male,Spn42Dc,SERPINI1,Heart,0.98,2.423285
+GTEx,Male,Spn42Dc,SERPINI1,Liver-metabolic,0.67,7.8126
+GTEx,Male,Spn42Dc,SERPINI1,Sensory/neural,0.52,94.4724
+GTEx,Male,Spn42Dc,SERPINI1,Skeletal muscle,1.84,1.337325
+GTEx,Male,Spn42Dd,SERPINB11,Digestive,18.77,0
+GTEx,Male,Spn42Dd,SERPINB11,Heart,38.84,0
+GTEx,Male,Spn42Dd,SERPINB11,Liver-metabolic,27.83,0
+GTEx,Male,Spn42Dd,SERPINB11,Sensory/neural,32.08,0
+GTEx,Male,Spn42Dd,SERPINB11,Skeletal muscle,45.2,0
+GTEx,Male,Spn42Dd,SERPINB3,Digestive,18.77,0.084255
+GTEx,Male,Spn42Dd,SERPINB3,Heart,38.84,0.012434
+GTEx,Male,Spn42Dd,SERPINB3,Liver-metabolic,27.83,0.051181
+GTEx,Male,Spn42Dd,SERPINB3,Sensory/neural,32.08,0
+GTEx,Male,Spn42Dd,SERPINB3,Skeletal muscle,45.2,0.01969
+GTEx,Male,Spn42Dd,SERPINB4,Digestive,18.77,0
+GTEx,Male,Spn42Dd,SERPINB4,Heart,38.84,0
+GTEx,Male,Spn42Dd,SERPINB4,Liver-metabolic,27.83,0
+GTEx,Male,Spn42Dd,SERPINB4,Sensory/neural,32.08,0
+GTEx,Male,Spn42Dd,SERPINB4,Skeletal muscle,45.2,0
+GTEx,Male,Spn42Dd,SERPINB9,Digestive,18.77,12.0358
+GTEx,Male,Spn42Dd,SERPINB9,Heart,38.84,5.815175
+GTEx,Male,Spn42Dd,SERPINB9,Liver-metabolic,27.83,9.97841
+GTEx,Male,Spn42Dd,SERPINB9,Sensory/neural,32.08,7.35138
+GTEx,Male,Spn42Dd,SERPINB9,Skeletal muscle,45.2,1.37825
+GTEx,Male,Spn42Dd,SERPINE1,Digestive,18.77,13.73
+GTEx,Male,Spn42Dd,SERPINE1,Heart,38.84,24.95445
+GTEx,Male,Spn42Dd,SERPINE1,Liver-metabolic,27.83,115.362
+GTEx,Male,Spn42Dd,SERPINE1,Sensory/neural,32.08,2.18163
+GTEx,Male,Spn42Dd,SERPINE1,Skeletal muscle,45.2,10.9323
+GTEx,Male,Spn42Dd,SERPINI1,Digestive,18.77,3.58633
+GTEx,Male,Spn42Dd,SERPINI1,Heart,38.84,2.423285
+GTEx,Male,Spn42Dd,SERPINI1,Liver-metabolic,27.83,7.8126
+GTEx,Male,Spn42Dd,SERPINI1,Sensory/neural,32.08,94.4724
+GTEx,Male,Spn42Dd,SERPINI1,Skeletal muscle,45.2,1.337325
+HPA,Female,Spn28B,SERPINB11,Digestive,0,0.07764925
+HPA,Female,Spn28B,SERPINB11,Heart,0.18,0
+HPA,Female,Spn28B,SERPINB11,Liver-metabolic,0.21,0
+HPA,Female,Spn28B,SERPINB11,Ovary,0.02,0
+HPA,Female,Spn28B,SERPINB11,Renal/excretory,0,0.11725100000000001
+HPA,Female,Spn28B,SERPINB11,Skeletal muscle,0.15,0.072815
+HPA,Female,Spn28B,SERPINB3,Digestive,0,0
+HPA,Female,Spn28B,SERPINB3,Heart,0.18,0
+HPA,Female,Spn28B,SERPINB3,Liver-metabolic,0.21,0
+HPA,Female,Spn28B,SERPINB3,Ovary,0.02,0
+HPA,Female,Spn28B,SERPINB3,Renal/excretory,0,0.0374875
+HPA,Female,Spn28B,SERPINB3,Skeletal muscle,0.15,0
+HPA,Female,Spn28B,SERPINB4,Digestive,0,0.025677
+HPA,Female,Spn28B,SERPINB4,Heart,0.18,0
+HPA,Female,Spn28B,SERPINB4,Liver-metabolic,0.21,0
+HPA,Female,Spn28B,SERPINB4,Ovary,0.02,0
+HPA,Female,Spn28B,SERPINB4,Renal/excretory,0,0.0385025
+HPA,Female,Spn28B,SERPINB4,Skeletal muscle,0.15,0
+HPA,Female,Spn28B,SERPINB9,Digestive,0,5.527095
+HPA,Female,Spn28B,SERPINB9,Heart,0.18,2.84048
+HPA,Female,Spn28B,SERPINB9,Liver-metabolic,0.21,6.2411475
+HPA,Female,Spn28B,SERPINB9,Ovary,0.02,2.69302
+HPA,Female,Spn28B,SERPINB9,Renal/excretory,0,7.2673049999999995
+HPA,Female,Spn28B,SERPINB9,Skeletal muscle,0.15,0.795918
+HPA,Female,Spn28B,SERPINE1,Digestive,0,6.659115
+HPA,Female,Spn28B,SERPINE1,Heart,0.18,5.91784
+HPA,Female,Spn28B,SERPINE1,Liver-metabolic,0.21,81.624825
+HPA,Female,Spn28B,SERPINE1,Ovary,0.02,16.9725
+HPA,Female,Spn28B,SERPINE1,Renal/excretory,0,22.073249999999998
+HPA,Female,Spn28B,SERPINE1,Skeletal muscle,0.15,0.309948
+HPA,Female,Spn28B,SERPINI1,Digestive,0,6.4970295
+HPA,Female,Spn28B,SERPINI1,Heart,0.18,11.887362
+HPA,Female,Spn28B,SERPINI1,Liver-metabolic,0.21,6.60109325
+HPA,Female,Spn28B,SERPINI1,Ovary,0.02,9.197604
+HPA,Female,Spn28B,SERPINI1,Renal/excretory,0,24.6787635
+HPA,Female,Spn28B,SERPINI1,Skeletal muscle,0.15,0.982398
+HPA,Female,Spn28F,SERPINB11,Digestive,0.04,0.07764925
+HPA,Female,Spn28F,SERPINB11,Heart,0.2,0
+HPA,Female,Spn28F,SERPINB11,Liver-metabolic,0,0
+HPA,Female,Spn28F,SERPINB11,Ovary,0.04,0
+HPA,Female,Spn28F,SERPINB11,Renal/excretory,0.08,0.11725100000000001
+HPA,Female,Spn28F,SERPINB11,Skeletal muscle,0.12,0.072815
+HPA,Female,Spn28F,SERPINB3,Digestive,0.04,0
+HPA,Female,Spn28F,SERPINB3,Heart,0.2,0
+HPA,Female,Spn28F,SERPINB3,Liver-metabolic,0,0
+HPA,Female,Spn28F,SERPINB3,Ovary,0.04,0
+HPA,Female,Spn28F,SERPINB3,Renal/excretory,0.08,0.0374875
+HPA,Female,Spn28F,SERPINB3,Skeletal muscle,0.12,0
+HPA,Female,Spn28F,SERPINB4,Digestive,0.04,0.025677
+HPA,Female,Spn28F,SERPINB4,Heart,0.2,0
+HPA,Female,Spn28F,SERPINB4,Liver-metabolic,0,0
+HPA,Female,Spn28F,SERPINB4,Ovary,0.04,0
+HPA,Female,Spn28F,SERPINB4,Renal/excretory,0.08,0.0385025
+HPA,Female,Spn28F,SERPINB4,Skeletal muscle,0.12,0
+HPA,Female,Spn28F,SERPINB9,Digestive,0.04,5.527095
+HPA,Female,Spn28F,SERPINB9,Heart,0.2,2.84048
+HPA,Female,Spn28F,SERPINB9,Liver-metabolic,0,6.2411475
+HPA,Female,Spn28F,SERPINB9,Ovary,0.04,2.69302
+HPA,Female,Spn28F,SERPINB9,Renal/excretory,0.08,7.2673049999999995
+HPA,Female,Spn28F,SERPINB9,Skeletal muscle,0.12,0.795918
+HPA,Female,Spn28F,SERPINE1,Digestive,0.04,6.659115
+HPA,Female,Spn28F,SERPINE1,Heart,0.2,5.91784
+HPA,Female,Spn28F,SERPINE1,Liver-metabolic,0,81.624825
+HPA,Female,Spn28F,SERPINE1,Ovary,0.04,16.9725
+HPA,Female,Spn28F,SERPINE1,Renal/excretory,0.08,22.073249999999998
+HPA,Female,Spn28F,SERPINE1,Skeletal muscle,0.12,0.309948
+HPA,Female,Spn28F,SERPINI1,Digestive,0.04,6.4970295
+HPA,Female,Spn28F,SERPINI1,Heart,0.2,11.887362
+HPA,Female,Spn28F,SERPINI1,Liver-metabolic,0,6.60109325
+HPA,Female,Spn28F,SERPINI1,Ovary,0.04,9.197604
+HPA,Female,Spn28F,SERPINI1,Renal/excretory,0.08,24.6787635
+HPA,Female,Spn28F,SERPINI1,Skeletal muscle,0.12,0.982398
+HPA,Female,Spn42Da,SERPINB11,Digestive,23.46,0.07764925
+HPA,Female,Spn42Da,SERPINB11,Heart,49.73,0
+HPA,Female,Spn42Da,SERPINB11,Liver-metabolic,44.7,0
+HPA,Female,Spn42Da,SERPINB11,Ovary,7.43,0
+HPA,Female,Spn42Da,SERPINB11,Renal/excretory,12.89,0.11725100000000001
+HPA,Female,Spn42Da,SERPINB11,Skeletal muscle,58.93,0.072815
+HPA,Female,Spn42Da,SERPINB3,Digestive,23.46,0
+HPA,Female,Spn42Da,SERPINB3,Heart,49.73,0
+HPA,Female,Spn42Da,SERPINB3,Liver-metabolic,44.7,0
+HPA,Female,Spn42Da,SERPINB3,Ovary,7.43,0
+HPA,Female,Spn42Da,SERPINB3,Renal/excretory,12.89,0.0374875
+HPA,Female,Spn42Da,SERPINB3,Skeletal muscle,58.93,0
+HPA,Female,Spn42Da,SERPINB4,Digestive,23.46,0.025677
+HPA,Female,Spn42Da,SERPINB4,Heart,49.73,0
+HPA,Female,Spn42Da,SERPINB4,Liver-metabolic,44.7,0
+HPA,Female,Spn42Da,SERPINB4,Ovary,7.43,0
+HPA,Female,Spn42Da,SERPINB4,Renal/excretory,12.89,0.0385025
+HPA,Female,Spn42Da,SERPINB4,Skeletal muscle,58.93,0
+HPA,Female,Spn42Da,SERPINB9,Digestive,23.46,5.527095
+HPA,Female,Spn42Da,SERPINB9,Heart,49.73,2.84048
+HPA,Female,Spn42Da,SERPINB9,Liver-metabolic,44.7,6.2411475
+HPA,Female,Spn42Da,SERPINB9,Ovary,7.43,2.69302
+HPA,Female,Spn42Da,SERPINB9,Renal/excretory,12.89,7.2673049999999995
+HPA,Female,Spn42Da,SERPINB9,Skeletal muscle,58.93,0.795918
+HPA,Female,Spn42Da,SERPINE1,Digestive,23.46,6.659115
+HPA,Female,Spn42Da,SERPINE1,Heart,49.73,5.91784
+HPA,Female,Spn42Da,SERPINE1,Liver-metabolic,44.7,81.624825
+HPA,Female,Spn42Da,SERPINE1,Ovary,7.43,16.9725
+HPA,Female,Spn42Da,SERPINE1,Renal/excretory,12.89,22.073249999999998
+HPA,Female,Spn42Da,SERPINE1,Skeletal muscle,58.93,0.309948
+HPA,Female,Spn42Da,SERPINI1,Digestive,23.46,6.4970295
+HPA,Female,Spn42Da,SERPINI1,Heart,49.73,11.887362
+HPA,Female,Spn42Da,SERPINI1,Liver-metabolic,44.7,6.60109325
+HPA,Female,Spn42Da,SERPINI1,Ovary,7.43,9.197604
+HPA,Female,Spn42Da,SERPINI1,Renal/excretory,12.89,24.6787635
+HPA,Female,Spn42Da,SERPINI1,Skeletal muscle,58.93,0.982398
+HPA,Female,Spn42Db,SERPINB11,Digestive,0.1,0.07764925
+HPA,Female,Spn42Db,SERPINB11,Heart,0.2,0
+HPA,Female,Spn42Db,SERPINB11,Liver-metabolic,0.27,0
+HPA,Female,Spn42Db,SERPINB11,Ovary,0.1,0
+HPA,Female,Spn42Db,SERPINB11,Renal/excretory,0.35,0.11725100000000001
+HPA,Female,Spn42Db,SERPINB11,Skeletal muscle,0.27,0.072815
+HPA,Female,Spn42Db,SERPINB3,Digestive,0.1,0
+HPA,Female,Spn42Db,SERPINB3,Heart,0.2,0
+HPA,Female,Spn42Db,SERPINB3,Liver-metabolic,0.27,0
+HPA,Female,Spn42Db,SERPINB3,Ovary,0.1,0
+HPA,Female,Spn42Db,SERPINB3,Renal/excretory,0.35,0.0374875
+HPA,Female,Spn42Db,SERPINB3,Skeletal muscle,0.27,0
+HPA,Female,Spn42Db,SERPINB4,Digestive,0.1,0.025677
+HPA,Female,Spn42Db,SERPINB4,Heart,0.2,0
+HPA,Female,Spn42Db,SERPINB4,Liver-metabolic,0.27,0
+HPA,Female,Spn42Db,SERPINB4,Ovary,0.1,0
+HPA,Female,Spn42Db,SERPINB4,Renal/excretory,0.35,0.0385025
+HPA,Female,Spn42Db,SERPINB4,Skeletal muscle,0.27,0
+HPA,Female,Spn42Db,SERPINB9,Digestive,0.1,5.527095
+HPA,Female,Spn42Db,SERPINB9,Heart,0.2,2.84048
+HPA,Female,Spn42Db,SERPINB9,Liver-metabolic,0.27,6.2411475
+HPA,Female,Spn42Db,SERPINB9,Ovary,0.1,2.69302
+HPA,Female,Spn42Db,SERPINB9,Renal/excretory,0.35,7.2673049999999995
+HPA,Female,Spn42Db,SERPINB9,Skeletal muscle,0.27,0.795918
+HPA,Female,Spn42Db,SERPINE1,Digestive,0.1,6.659115
+HPA,Female,Spn42Db,SERPINE1,Heart,0.2,5.91784
+HPA,Female,Spn42Db,SERPINE1,Liver-metabolic,0.27,81.624825
+HPA,Female,Spn42Db,SERPINE1,Ovary,0.1,16.9725
+HPA,Female,Spn42Db,SERPINE1,Renal/excretory,0.35,22.073249999999998
+HPA,Female,Spn42Db,SERPINE1,Skeletal muscle,0.27,0.309948
+HPA,Female,Spn42Db,SERPINI1,Digestive,0.1,6.4970295
+HPA,Female,Spn42Db,SERPINI1,Heart,0.2,11.887362
+HPA,Female,Spn42Db,SERPINI1,Liver-metabolic,0.27,6.60109325
+HPA,Female,Spn42Db,SERPINI1,Ovary,0.1,9.197604
+HPA,Female,Spn42Db,SERPINI1,Renal/excretory,0.35,24.6787635
+HPA,Female,Spn42Db,SERPINI1,Skeletal muscle,0.27,0.982398
+HPA,Female,Spn42Dc,SERPINB11,Digestive,3.19,0.07764925
+HPA,Female,Spn42Dc,SERPINB11,Heart,0.57,0
+HPA,Female,Spn42Dc,SERPINB11,Liver-metabolic,0.36,0
+HPA,Female,Spn42Dc,SERPINB11,Ovary,0.07,0
+HPA,Female,Spn42Dc,SERPINB11,Renal/excretory,38.4,0.11725100000000001
+HPA,Female,Spn42Dc,SERPINB11,Skeletal muscle,1.39,0.072815
+HPA,Female,Spn42Dc,SERPINB3,Digestive,3.19,0
+HPA,Female,Spn42Dc,SERPINB3,Heart,0.57,0
+HPA,Female,Spn42Dc,SERPINB3,Liver-metabolic,0.36,0
+HPA,Female,Spn42Dc,SERPINB3,Ovary,0.07,0
+HPA,Female,Spn42Dc,SERPINB3,Renal/excretory,38.4,0.0374875
+HPA,Female,Spn42Dc,SERPINB3,Skeletal muscle,1.39,0
+HPA,Female,Spn42Dc,SERPINB4,Digestive,3.19,0.025677
+HPA,Female,Spn42Dc,SERPINB4,Heart,0.57,0
+HPA,Female,Spn42Dc,SERPINB4,Liver-metabolic,0.36,0
+HPA,Female,Spn42Dc,SERPINB4,Ovary,0.07,0
+HPA,Female,Spn42Dc,SERPINB4,Renal/excretory,38.4,0.0385025
+HPA,Female,Spn42Dc,SERPINB4,Skeletal muscle,1.39,0
+HPA,Female,Spn42Dc,SERPINB9,Digestive,3.19,5.527095
+HPA,Female,Spn42Dc,SERPINB9,Heart,0.57,2.84048
+HPA,Female,Spn42Dc,SERPINB9,Liver-metabolic,0.36,6.2411475
+HPA,Female,Spn42Dc,SERPINB9,Ovary,0.07,2.69302
+HPA,Female,Spn42Dc,SERPINB9,Renal/excretory,38.4,7.2673049999999995
+HPA,Female,Spn42Dc,SERPINB9,Skeletal muscle,1.39,0.795918
+HPA,Female,Spn42Dc,SERPINE1,Digestive,3.19,6.659115
+HPA,Female,Spn42Dc,SERPINE1,Heart,0.57,5.91784
+HPA,Female,Spn42Dc,SERPINE1,Liver-metabolic,0.36,81.624825
+HPA,Female,Spn42Dc,SERPINE1,Ovary,0.07,16.9725
+HPA,Female,Spn42Dc,SERPINE1,Renal/excretory,38.4,22.073249999999998
+HPA,Female,Spn42Dc,SERPINE1,Skeletal muscle,1.39,0.309948
+HPA,Female,Spn42Dc,SERPINI1,Digestive,3.19,6.4970295
+HPA,Female,Spn42Dc,SERPINI1,Heart,0.57,11.887362
+HPA,Female,Spn42Dc,SERPINI1,Liver-metabolic,0.36,6.60109325
+HPA,Female,Spn42Dc,SERPINI1,Ovary,0.07,9.197604
+HPA,Female,Spn42Dc,SERPINI1,Renal/excretory,38.4,24.6787635
+HPA,Female,Spn42Dc,SERPINI1,Skeletal muscle,1.39,0.982398
+HPA,Female,Spn42Dd,SERPINB11,Digestive,25.37,0.07764925
+HPA,Female,Spn42Dd,SERPINB11,Heart,27.5,0
+HPA,Female,Spn42Dd,SERPINB11,Liver-metabolic,30.86,0
+HPA,Female,Spn42Dd,SERPINB11,Ovary,0.49,0
+HPA,Female,Spn42Dd,SERPINB11,Renal/excretory,2.46,0.11725100000000001
+HPA,Female,Spn42Dd,SERPINB11,Skeletal muscle,39.07,0.072815
+HPA,Female,Spn42Dd,SERPINB3,Digestive,25.37,0
+HPA,Female,Spn42Dd,SERPINB3,Heart,27.5,0
+HPA,Female,Spn42Dd,SERPINB3,Liver-metabolic,30.86,0
+HPA,Female,Spn42Dd,SERPINB3,Ovary,0.49,0
+HPA,Female,Spn42Dd,SERPINB3,Renal/excretory,2.46,0.0374875
+HPA,Female,Spn42Dd,SERPINB3,Skeletal muscle,39.07,0
+HPA,Female,Spn42Dd,SERPINB4,Digestive,25.37,0.025677
+HPA,Female,Spn42Dd,SERPINB4,Heart,27.5,0
+HPA,Female,Spn42Dd,SERPINB4,Liver-metabolic,30.86,0
+HPA,Female,Spn42Dd,SERPINB4,Ovary,0.49,0
+HPA,Female,Spn42Dd,SERPINB4,Renal/excretory,2.46,0.0385025
+HPA,Female,Spn42Dd,SERPINB4,Skeletal muscle,39.07,0
+HPA,Female,Spn42Dd,SERPINB9,Digestive,25.37,5.527095
+HPA,Female,Spn42Dd,SERPINB9,Heart,27.5,2.84048
+HPA,Female,Spn42Dd,SERPINB9,Liver-metabolic,30.86,6.2411475
+HPA,Female,Spn42Dd,SERPINB9,Ovary,0.49,2.69302
+HPA,Female,Spn42Dd,SERPINB9,Renal/excretory,2.46,7.2673049999999995
+HPA,Female,Spn42Dd,SERPINB9,Skeletal muscle,39.07,0.795918
+HPA,Female,Spn42Dd,SERPINE1,Digestive,25.37,6.659115
+HPA,Female,Spn42Dd,SERPINE1,Heart,27.5,5.91784
+HPA,Female,Spn42Dd,SERPINE1,Liver-metabolic,30.86,81.624825
+HPA,Female,Spn42Dd,SERPINE1,Ovary,0.49,16.9725
+HPA,Female,Spn42Dd,SERPINE1,Renal/excretory,2.46,22.073249999999998
+HPA,Female,Spn42Dd,SERPINE1,Skeletal muscle,39.07,0.309948
+HPA,Female,Spn42Dd,SERPINI1,Digestive,25.37,6.4970295
+HPA,Female,Spn42Dd,SERPINI1,Heart,27.5,11.887362
+HPA,Female,Spn42Dd,SERPINI1,Liver-metabolic,30.86,6.60109325
+HPA,Female,Spn42Dd,SERPINI1,Ovary,0.49,9.197604
+HPA,Female,Spn42Dd,SERPINI1,Renal/excretory,2.46,24.6787635
+HPA,Female,Spn42Dd,SERPINI1,Skeletal muscle,39.07,0.982398
+HPA,Male,Spn28B,SERPINB11,Digestive,1.75,0.0828885
+HPA,Male,Spn28B,SERPINB11,Heart,1.44,0
+HPA,Male,Spn28B,SERPINB11,Liver-metabolic,3.05,0
+HPA,Male,Spn28B,SERPINB11,Male reproductive,659.69,0.023044
+HPA,Male,Spn28B,SERPINB11,Renal/excretory,0.06,0
+HPA,Male,Spn28B,SERPINB11,Skeletal muscle,3.86,0.077497
+HPA,Male,Spn28B,SERPINB3,Digestive,1.75,0
+HPA,Male,Spn28B,SERPINB3,Heart,1.44,0
+HPA,Male,Spn28B,SERPINB3,Liver-metabolic,3.05,0
+HPA,Male,Spn28B,SERPINB3,Male reproductive,659.69,0.065992
+HPA,Male,Spn28B,SERPINB3,Renal/excretory,0.06,0.065661
+HPA,Male,Spn28B,SERPINB3,Skeletal muscle,3.86,0
+HPA,Male,Spn28B,SERPINB4,Digestive,1.75,0
+HPA,Male,Spn28B,SERPINB4,Heart,1.44,0
+HPA,Male,Spn28B,SERPINB4,Liver-metabolic,3.05,0
+HPA,Male,Spn28B,SERPINB4,Male reproductive,659.69,0
+HPA,Male,Spn28B,SERPINB4,Renal/excretory,0.06,0
+HPA,Male,Spn28B,SERPINB4,Skeletal muscle,3.86,0
+HPA,Male,Spn28B,SERPINB9,Digestive,1.75,6.166712499999999
+HPA,Male,Spn28B,SERPINB9,Heart,1.44,4.01571
+HPA,Male,Spn28B,SERPINB9,Liver-metabolic,3.05,8.14901
+HPA,Male,Spn28B,SERPINB9,Male reproductive,659.69,3.84799
+HPA,Male,Spn28B,SERPINB9,Renal/excretory,0.06,3.38472
+HPA,Male,Spn28B,SERPINB9,Skeletal muscle,3.86,0.882835
+HPA,Male,Spn28B,SERPINE1,Digestive,1.75,13.3042425
+HPA,Male,Spn28B,SERPINE1,Heart,1.44,3.42436
+HPA,Male,Spn28B,SERPINE1,Liver-metabolic,3.05,117.2186
+HPA,Male,Spn28B,SERPINE1,Male reproductive,659.69,8.42598
+HPA,Male,Spn28B,SERPINE1,Renal/excretory,0.06,11.1105
+HPA,Male,Spn28B,SERPINE1,Skeletal muscle,3.86,1.0424375
+HPA,Male,Spn28B,SERPINI1,Digestive,1.75,4.9889892499999995
+HPA,Male,Spn28B,SERPINI1,Heart,1.44,3.171681
+HPA,Male,Spn28B,SERPINI1,Liver-metabolic,3.05,1.967337
+HPA,Male,Spn28B,SERPINI1,Male reproductive,659.69,9.655755
+HPA,Male,Spn28B,SERPINI1,Renal/excretory,0.06,38.526299
+HPA,Male,Spn28B,SERPINI1,Skeletal muscle,3.86,1.0074260000000002
+HPA,Male,Spn28F,SERPINB11,Digestive,10.8,0.0828885
+HPA,Male,Spn28F,SERPINB11,Heart,7.84,0
+HPA,Male,Spn28F,SERPINB11,Liver-metabolic,28.07,0
+HPA,Male,Spn28F,SERPINB11,Male reproductive,5920.82,0.023044
+HPA,Male,Spn28F,SERPINB11,Renal/excretory,1.03,0
+HPA,Male,Spn28F,SERPINB11,Skeletal muscle,37.89,0.077497
+HPA,Male,Spn28F,SERPINB3,Digestive,10.8,0
+HPA,Male,Spn28F,SERPINB3,Heart,7.84,0
+HPA,Male,Spn28F,SERPINB3,Liver-metabolic,28.07,0
+HPA,Male,Spn28F,SERPINB3,Male reproductive,5920.82,0.065992
+HPA,Male,Spn28F,SERPINB3,Renal/excretory,1.03,0.065661
+HPA,Male,Spn28F,SERPINB3,Skeletal muscle,37.89,0
+HPA,Male,Spn28F,SERPINB4,Digestive,10.8,0
+HPA,Male,Spn28F,SERPINB4,Heart,7.84,0
+HPA,Male,Spn28F,SERPINB4,Liver-metabolic,28.07,0
+HPA,Male,Spn28F,SERPINB4,Male reproductive,5920.82,0
+HPA,Male,Spn28F,SERPINB4,Renal/excretory,1.03,0
+HPA,Male,Spn28F,SERPINB4,Skeletal muscle,37.89,0
+HPA,Male,Spn28F,SERPINB9,Digestive,10.8,6.166712499999999
+HPA,Male,Spn28F,SERPINB9,Heart,7.84,4.01571
+HPA,Male,Spn28F,SERPINB9,Liver-metabolic,28.07,8.14901
+HPA,Male,Spn28F,SERPINB9,Male reproductive,5920.82,3.84799
+HPA,Male,Spn28F,SERPINB9,Renal/excretory,1.03,3.38472
+HPA,Male,Spn28F,SERPINB9,Skeletal muscle,37.89,0.882835
+HPA,Male,Spn28F,SERPINE1,Digestive,10.8,13.3042425
+HPA,Male,Spn28F,SERPINE1,Heart,7.84,3.42436
+HPA,Male,Spn28F,SERPINE1,Liver-metabolic,28.07,117.2186
+HPA,Male,Spn28F,SERPINE1,Male reproductive,5920.82,8.42598
+HPA,Male,Spn28F,SERPINE1,Renal/excretory,1.03,11.1105
+HPA,Male,Spn28F,SERPINE1,Skeletal muscle,37.89,1.0424375
+HPA,Male,Spn28F,SERPINI1,Digestive,10.8,4.9889892499999995
+HPA,Male,Spn28F,SERPINI1,Heart,7.84,3.171681
+HPA,Male,Spn28F,SERPINI1,Liver-metabolic,28.07,1.967337
+HPA,Male,Spn28F,SERPINI1,Male reproductive,5920.82,9.655755
+HPA,Male,Spn28F,SERPINI1,Renal/excretory,1.03,38.526299
+HPA,Male,Spn28F,SERPINI1,Skeletal muscle,37.89,1.0074260000000002
+HPA,Male,Spn42Da,SERPINB11,Digestive,18.63,0.0828885
+HPA,Male,Spn42Da,SERPINB11,Heart,63.83,0
+HPA,Male,Spn42Da,SERPINB11,Liver-metabolic,45.9,0
+HPA,Male,Spn42Da,SERPINB11,Male reproductive,8,0.023044
+HPA,Male,Spn42Da,SERPINB11,Renal/excretory,15.31,0
+HPA,Male,Spn42Da,SERPINB11,Skeletal muscle,48.77,0.077497
+HPA,Male,Spn42Da,SERPINB3,Digestive,18.63,0
+HPA,Male,Spn42Da,SERPINB3,Heart,63.83,0
+HPA,Male,Spn42Da,SERPINB3,Liver-metabolic,45.9,0
+HPA,Male,Spn42Da,SERPINB3,Male reproductive,8,0.065992
+HPA,Male,Spn42Da,SERPINB3,Renal/excretory,15.31,0.065661
+HPA,Male,Spn42Da,SERPINB3,Skeletal muscle,48.77,0
+HPA,Male,Spn42Da,SERPINB4,Digestive,18.63,0
+HPA,Male,Spn42Da,SERPINB4,Heart,63.83,0
+HPA,Male,Spn42Da,SERPINB4,Liver-metabolic,45.9,0
+HPA,Male,Spn42Da,SERPINB4,Male reproductive,8,0
+HPA,Male,Spn42Da,SERPINB4,Renal/excretory,15.31,0
+HPA,Male,Spn42Da,SERPINB4,Skeletal muscle,48.77,0
+HPA,Male,Spn42Da,SERPINB9,Digestive,18.63,6.166712499999999
+HPA,Male,Spn42Da,SERPINB9,Heart,63.83,4.01571
+HPA,Male,Spn42Da,SERPINB9,Liver-metabolic,45.9,8.14901
+HPA,Male,Spn42Da,SERPINB9,Male reproductive,8,3.84799
+HPA,Male,Spn42Da,SERPINB9,Renal/excretory,15.31,3.38472
+HPA,Male,Spn42Da,SERPINB9,Skeletal muscle,48.77,0.882835
+HPA,Male,Spn42Da,SERPINE1,Digestive,18.63,13.3042425
+HPA,Male,Spn42Da,SERPINE1,Heart,63.83,3.42436
+HPA,Male,Spn42Da,SERPINE1,Liver-metabolic,45.9,117.2186
+HPA,Male,Spn42Da,SERPINE1,Male reproductive,8,8.42598
+HPA,Male,Spn42Da,SERPINE1,Renal/excretory,15.31,11.1105
+HPA,Male,Spn42Da,SERPINE1,Skeletal muscle,48.77,1.0424375
+HPA,Male,Spn42Da,SERPINI1,Digestive,18.63,4.9889892499999995
+HPA,Male,Spn42Da,SERPINI1,Heart,63.83,3.171681
+HPA,Male,Spn42Da,SERPINI1,Liver-metabolic,45.9,1.967337
+HPA,Male,Spn42Da,SERPINI1,Male reproductive,8,9.655755
+HPA,Male,Spn42Da,SERPINI1,Renal/excretory,15.31,38.526299
+HPA,Male,Spn42Da,SERPINI1,Skeletal muscle,48.77,1.0074260000000002
+HPA,Male,Spn42Db,SERPINB11,Digestive,0.05,0.0828885
+HPA,Male,Spn42Db,SERPINB11,Heart,0.66,0
+HPA,Male,Spn42Db,SERPINB11,Liver-metabolic,0.26,0
+HPA,Male,Spn42Db,SERPINB11,Male reproductive,0.08,0.023044
+HPA,Male,Spn42Db,SERPINB11,Renal/excretory,0.46,0
+HPA,Male,Spn42Db,SERPINB11,Skeletal muscle,0.41,0.077497
+HPA,Male,Spn42Db,SERPINB3,Digestive,0.05,0
+HPA,Male,Spn42Db,SERPINB3,Heart,0.66,0
+HPA,Male,Spn42Db,SERPINB3,Liver-metabolic,0.26,0
+HPA,Male,Spn42Db,SERPINB3,Male reproductive,0.08,0.065992
+HPA,Male,Spn42Db,SERPINB3,Renal/excretory,0.46,0.065661
+HPA,Male,Spn42Db,SERPINB3,Skeletal muscle,0.41,0
+HPA,Male,Spn42Db,SERPINB4,Digestive,0.05,0
+HPA,Male,Spn42Db,SERPINB4,Heart,0.66,0
+HPA,Male,Spn42Db,SERPINB4,Liver-metabolic,0.26,0
+HPA,Male,Spn42Db,SERPINB4,Male reproductive,0.08,0
+HPA,Male,Spn42Db,SERPINB4,Renal/excretory,0.46,0
+HPA,Male,Spn42Db,SERPINB4,Skeletal muscle,0.41,0
+HPA,Male,Spn42Db,SERPINB9,Digestive,0.05,6.166712499999999
+HPA,Male,Spn42Db,SERPINB9,Heart,0.66,4.01571
+HPA,Male,Spn42Db,SERPINB9,Liver-metabolic,0.26,8.14901
+HPA,Male,Spn42Db,SERPINB9,Male reproductive,0.08,3.84799
+HPA,Male,Spn42Db,SERPINB9,Renal/excretory,0.46,3.38472
+HPA,Male,Spn42Db,SERPINB9,Skeletal muscle,0.41,0.882835
+HPA,Male,Spn42Db,SERPINE1,Digestive,0.05,13.3042425
+HPA,Male,Spn42Db,SERPINE1,Heart,0.66,3.42436
+HPA,Male,Spn42Db,SERPINE1,Liver-metabolic,0.26,117.2186
+HPA,Male,Spn42Db,SERPINE1,Male reproductive,0.08,8.42598
+HPA,Male,Spn42Db,SERPINE1,Renal/excretory,0.46,11.1105
+HPA,Male,Spn42Db,SERPINE1,Skeletal muscle,0.41,1.0424375
+HPA,Male,Spn42Db,SERPINI1,Digestive,0.05,4.9889892499999995
+HPA,Male,Spn42Db,SERPINI1,Heart,0.66,3.171681
+HPA,Male,Spn42Db,SERPINI1,Liver-metabolic,0.26,1.967337
+HPA,Male,Spn42Db,SERPINI1,Male reproductive,0.08,9.655755
+HPA,Male,Spn42Db,SERPINI1,Renal/excretory,0.46,38.526299
+HPA,Male,Spn42Db,SERPINI1,Skeletal muscle,0.41,1.0074260000000002
+HPA,Male,Spn42Dc,SERPINB11,Digestive,5.09,0.0828885
+HPA,Male,Spn42Dc,SERPINB11,Heart,0.98,0
+HPA,Male,Spn42Dc,SERPINB11,Liver-metabolic,0.67,0
+HPA,Male,Spn42Dc,SERPINB11,Male reproductive,2.27,0.023044
+HPA,Male,Spn42Dc,SERPINB11,Renal/excretory,40.94,0
+HPA,Male,Spn42Dc,SERPINB11,Skeletal muscle,1.84,0.077497
+HPA,Male,Spn42Dc,SERPINB3,Digestive,5.09,0
+HPA,Male,Spn42Dc,SERPINB3,Heart,0.98,0
+HPA,Male,Spn42Dc,SERPINB3,Liver-metabolic,0.67,0
+HPA,Male,Spn42Dc,SERPINB3,Male reproductive,2.27,0.065992
+HPA,Male,Spn42Dc,SERPINB3,Renal/excretory,40.94,0.065661
+HPA,Male,Spn42Dc,SERPINB3,Skeletal muscle,1.84,0
+HPA,Male,Spn42Dc,SERPINB4,Digestive,5.09,0
+HPA,Male,Spn42Dc,SERPINB4,Heart,0.98,0
+HPA,Male,Spn42Dc,SERPINB4,Liver-metabolic,0.67,0
+HPA,Male,Spn42Dc,SERPINB4,Male reproductive,2.27,0
+HPA,Male,Spn42Dc,SERPINB4,Renal/excretory,40.94,0
+HPA,Male,Spn42Dc,SERPINB4,Skeletal muscle,1.84,0
+HPA,Male,Spn42Dc,SERPINB9,Digestive,5.09,6.166712499999999
+HPA,Male,Spn42Dc,SERPINB9,Heart,0.98,4.01571
+HPA,Male,Spn42Dc,SERPINB9,Liver-metabolic,0.67,8.14901
+HPA,Male,Spn42Dc,SERPINB9,Male reproductive,2.27,3.84799
+HPA,Male,Spn42Dc,SERPINB9,Renal/excretory,40.94,3.38472
+HPA,Male,Spn42Dc,SERPINB9,Skeletal muscle,1.84,0.882835
+HPA,Male,Spn42Dc,SERPINE1,Digestive,5.09,13.3042425
+HPA,Male,Spn42Dc,SERPINE1,Heart,0.98,3.42436
+HPA,Male,Spn42Dc,SERPINE1,Liver-metabolic,0.67,117.2186
+HPA,Male,Spn42Dc,SERPINE1,Male reproductive,2.27,8.42598
+HPA,Male,Spn42Dc,SERPINE1,Renal/excretory,40.94,11.1105
+HPA,Male,Spn42Dc,SERPINE1,Skeletal muscle,1.84,1.0424375
+HPA,Male,Spn42Dc,SERPINI1,Digestive,5.09,4.9889892499999995
+HPA,Male,Spn42Dc,SERPINI1,Heart,0.98,3.171681
+HPA,Male,Spn42Dc,SERPINI1,Liver-metabolic,0.67,1.967337
+HPA,Male,Spn42Dc,SERPINI1,Male reproductive,2.27,9.655755
+HPA,Male,Spn42Dc,SERPINI1,Renal/excretory,40.94,38.526299
+HPA,Male,Spn42Dc,SERPINI1,Skeletal muscle,1.84,1.0074260000000002
+HPA,Male,Spn42Dd,SERPINB11,Digestive,18.77,0.0828885
+HPA,Male,Spn42Dd,SERPINB11,Heart,38.84,0
+HPA,Male,Spn42Dd,SERPINB11,Liver-metabolic,27.83,0
+HPA,Male,Spn42Dd,SERPINB11,Male reproductive,459.74,0.023044
+HPA,Male,Spn42Dd,SERPINB11,Renal/excretory,2.9,0
+HPA,Male,Spn42Dd,SERPINB11,Skeletal muscle,45.2,0.077497
+HPA,Male,Spn42Dd,SERPINB3,Digestive,18.77,0
+HPA,Male,Spn42Dd,SERPINB3,Heart,38.84,0
+HPA,Male,Spn42Dd,SERPINB3,Liver-metabolic,27.83,0
+HPA,Male,Spn42Dd,SERPINB3,Male reproductive,459.74,0.065992
+HPA,Male,Spn42Dd,SERPINB3,Renal/excretory,2.9,0.065661
+HPA,Male,Spn42Dd,SERPINB3,Skeletal muscle,45.2,0
+HPA,Male,Spn42Dd,SERPINB4,Digestive,18.77,0
+HPA,Male,Spn42Dd,SERPINB4,Heart,38.84,0
+HPA,Male,Spn42Dd,SERPINB4,Liver-metabolic,27.83,0
+HPA,Male,Spn42Dd,SERPINB4,Male reproductive,459.74,0
+HPA,Male,Spn42Dd,SERPINB4,Renal/excretory,2.9,0
+HPA,Male,Spn42Dd,SERPINB4,Skeletal muscle,45.2,0
+HPA,Male,Spn42Dd,SERPINB9,Digestive,18.77,6.166712499999999
+HPA,Male,Spn42Dd,SERPINB9,Heart,38.84,4.01571
+HPA,Male,Spn42Dd,SERPINB9,Liver-metabolic,27.83,8.14901
+HPA,Male,Spn42Dd,SERPINB9,Male reproductive,459.74,3.84799
+HPA,Male,Spn42Dd,SERPINB9,Renal/excretory,2.9,3.38472
+HPA,Male,Spn42Dd,SERPINB9,Skeletal muscle,45.2,0.882835
+HPA,Male,Spn42Dd,SERPINE1,Digestive,18.77,13.3042425
+HPA,Male,Spn42Dd,SERPINE1,Heart,38.84,3.42436
+HPA,Male,Spn42Dd,SERPINE1,Liver-metabolic,27.83,117.2186
+HPA,Male,Spn42Dd,SERPINE1,Male reproductive,459.74,8.42598
+HPA,Male,Spn42Dd,SERPINE1,Renal/excretory,2.9,11.1105
+HPA,Male,Spn42Dd,SERPINE1,Skeletal muscle,45.2,1.0424375
+HPA,Male,Spn42Dd,SERPINI1,Digestive,18.77,4.9889892499999995
+HPA,Male,Spn42Dd,SERPINI1,Heart,38.84,3.171681
+HPA,Male,Spn42Dd,SERPINI1,Liver-metabolic,27.83,1.967337
+HPA,Male,Spn42Dd,SERPINI1,Male reproductive,459.74,9.655755
+HPA,Male,Spn42Dd,SERPINI1,Renal/excretory,2.9,38.526299
+HPA,Male,Spn42Dd,SERPINI1,Skeletal muscle,45.2,1.0074260000000002

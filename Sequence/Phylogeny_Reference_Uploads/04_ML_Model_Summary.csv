@@ -1,0 +1,5 @@
+Analysis,Number_of_Tips,Log_Likelihood,Model,Bootstrap_Replicates
+Full-length SERPINE1 + fly,8,-6436.849699353478,JTT,500
+SERPINE1-defined homologous RCL + fly,8,-517.4836600095732,JTT,500
+Expanded human + fly full-length,12,-9020.780348703118,JTT,500
+Expanded human + fly homologous RCL,12,-703.0974658653058,JTT,500

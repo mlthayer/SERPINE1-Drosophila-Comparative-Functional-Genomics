@@ -1,0 +1,20 @@
+Column_Number,Column_Name
+1,Input Order
+2,Search Term
+3,Input GeneID
+4,FlyBaseID
+5,Input Gene Symbol
+6,Output Species
+7,Output GeneID
+8,Human Species Gene ID
+9,Output Gene Symbol
+10,Ensembl ID (link HPA)
+11,DIOPT Score
+12,Weighted Score
+13,Rank
+14,Best Score
+15,Best Score Reverse
+16,Prediction Derived From
+17,Alignment & Scores
+18,Feedback
+19,Gene Details

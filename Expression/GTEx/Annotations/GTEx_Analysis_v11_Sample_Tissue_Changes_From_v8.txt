@@ -1,0 +1,37 @@
+SAMPID	SMTSD_V8	SMTSD_V10
+GTEX-111FC-1426-SM-5N9C7	Adipose - Subcutaneous	Adipose - Visceral (Omentum)
+GTEX-11OF3-2926-SM-5HL78	Brain - Cortex	Brain - Cerebellum
+GTEX-11WQK-2126-SM-5EQME	Colon - Transverse	Stomach
+GTEX-11WQK-2526-SM-5CVL8	Colon - Sigmoid	Colon - Transverse
+GTEX-145LV-1126-SM-5Q5C1	Thyroid	Muscle - Skeletal
+GTEX-145MN-0726-SM-5NQBH	Heart - Atrial Appendage	Heart - Left Ventricle
+GTEX-14C39-0011-R10b-SM-5YYBE	Brain - Frontal Cortex (BA9)	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14C39-0011-R6b-SM-5YYAZ	Brain - Nucleus accumbens (basal ganglia)	Brain - Frontal Cortex (BA9)
+GTEX-14E7W-0011-R5b-SM-664NS	Brain - Caudate (basal ganglia)	Brain - Cerebellar Hemisphere
+GTEX-1GF9X-2326-SM-7PBZD	Vagina	Muscle - Skeletal
+GTEX-1ICLY-0926-SM-CM2RJ	Lung	Heart - Atrial Appendage
+GTEX-1RB15-0926-SM-E9U5Y	Esophagus - Gastroesophageal Junction	Stomach
+GTEX-OHPN-2026-SM-E9TIA	Colon - Transverse	Stomach
+GTEX-OOBK-3025-SM-48TBP	Heart - Left Ventricle	Artery - Coronary
+GTEX-S4UY-1026-SM-4AD53	Ovary	Vagina
+GTEX-S4UY-1326-SM-4AD4X	Vagina	Ovary
+GTEX-S4Z8-1026-SM-2XUAL	Heart - Left Ventricle	Colon - Transverse
+GTEX-S4Z8-1026-SM-3K2AI	Heart - Left Ventricle	Colon - Transverse
+GTEX-S4Z8-1026-SM-72D6N	Heart - Left Ventricle	Colon - Transverse
+GTEX-S4Z8-1026-SM-CM2RE	Heart - Left Ventricle	Colon - Transverse
+GTEX-S4Z8-1126-SM-4AD5C	Pancreas	Prostate
+GTEX-S4Z8-1426-SM-4AD5G	Prostate	Pancreas
+GTEX-S4Z8-1426-SM-72D7I	Prostate	Pancreas
+GTEX-S4Z8-1426-SM-CM2U3	Prostate	Pancreas
+GTEX-S4Z8-1526-SM-4AD5B	Colon - Transverse	Heart - Left Ventricle
+GTEX-S4Z8-1526-SM-731D2	Colon - Transverse	Heart - Left Ventricle
+GTEX-S4Z8-1526-SM-D4P48	Colon - Transverse	Heart - Left Ventricle
+GTEX-WHPG-2426-SM-3NMBQ	Nerve - Tibial	Skin - Sun Exposed (Lower leg)
+GTEX-Y8LW-1426-SM-5RQJJ	Vagina	Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZTPG-2826-SM-57WGA	Breast - Mammary Tissue	Colon - Transverse
+GTEX-ZTTD-0326-SM-57WFW	Muscle - Skeletal	Adipose - Subcutaneous
+GTEX-ZTTD-0526-SM-57WDV	Heart - Left Ventricle	Artery - Coronary
+GTEX-ZV7C-1126-SM-5E45O	Esophagus - Muscularis	Adrenal Gland
+GTEX-ZVT3-1426-SM-59HLP	Esophagus - Mucosa	Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZVZQ-0326-SM-59HLL	Skin - Sun Exposed (Lower leg)	Brain - Cerebellum
+GTEX-ZXES-0526-SM-5E45D	Ovary	Pancreas

@@ -1,0 +1,65 @@
+"Tissue","Sex","n_samples"
+"Adipose Tissue","Female",5
+"Adrenal Gland","Female",3
+"Appendix","Female",2
+"Appendix","Male",1
+"Bone Marrow","Female",2
+"Bone Marrow","Male",2
+"Breast","Female",4
+"Cerebral Cortex","Female",1
+"Cerebral Cortex","Male",2
+"Cervix","Female",2
+"Choroid Plexus","Female",1
+"Choroid Plexus","Male",1
+"Colon","Female",7
+"Colon","Male",6
+"Duodenum","Female",1
+"Duodenum","Male",1
+"Endometrium","Female",5
+"Epididymis","Male",1
+"Esophagus","Female",1
+"Esophagus","Male",2
+"Fallopian Tube","Female",5
+"Gallbladder","Female",1
+"Gallbladder","Male",2
+"Heart Muscle","Female",3
+"Heart Muscle","Male",1
+"Kidney","Female",6
+"Kidney","Male",3
+"Liver","Female",4
+"Liver","Male",6
+"Lung","Female",6
+"Lung","Male",3
+"Lymph Node","Female",4
+"Lymph Node","Male",1
+"Ovary","Female",7
+"Pancreas","Female",1
+"Pancreas","Male",1
+"Parathyroid Gland","Female",2
+"Parathyroid Gland","Male",1
+"Placenta","Female",8
+"Prostate","Male",9
+"Rectum","Male",4
+"Salivary Gland","Female",2
+"Salivary Gland","Male",1
+"Seminal Vesicle","Male",3
+"Skeletal Muscle","Female",3
+"Skeletal Muscle","Male",2
+"Skin","Female",2
+"Skin","Male",1
+"Small Intestine","Male",4
+"Smooth Muscle","Female",3
+"Spleen","Female",3
+"Spleen","Male",2
+"Stomach","Female",2
+"Stomach","Male",2
+"Testis","Male",10
+"Thymus","Female",1
+"Thymus","Male",2
+"Thyroid Gland","Female",4
+"Thyroid Gland","Male",1
+"Tongue","Male",1
+"Tonsil","Female",2
+"Tonsil","Male",3
+"Urinary Bladder","Female",2
+"Urinary Bladder","Male",2

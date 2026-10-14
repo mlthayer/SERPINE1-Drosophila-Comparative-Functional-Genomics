@@ -1,0 +1,99 @@
+Sex,Biological_System,Human_SERPIN,Fly_Serpin,N_Datasets_Rank1
+Female,Heart,SERPINE1,Spn42Dc,2
+Female,Heart,SERPINI1,Spn42Dc,1
+Female,Heart,SERPINI1,Spn42Dd,1
+Female,Heart,SERPINB3,Spn42Dc,2
+Female,Heart,SERPINB4,Spn42Dc,1
+Female,Heart,SERPINB11,Spn42Dc,1
+Female,Heart,SERPINB9,Spn42Db,1
+Female,Heart,SERPINB9,Spn42Dc,1
+Female,Skeletal muscle,SERPINE1,Spn42Dc,2
+Female,Skeletal muscle,SERPINI1,Spn42Dc,2
+Female,Skeletal muscle,SERPINB3,Spn42Dc,2
+Female,Skeletal muscle,SERPINB4,Spn42Dc,1
+Female,Skeletal muscle,SERPINB11,Spn28B,1
+Female,Skeletal muscle,SERPINB9,Spn42Dc,2
+Female,Liver-metabolic,SERPINE1,Spn28B,2
+Female,Liver-metabolic,SERPINI1,Spn42Db,1
+Female,Liver-metabolic,SERPINI1,Spn42Dc,1
+Female,Liver-metabolic,SERPINB3,Spn42Dd,1
+Female,Liver-metabolic,SERPINB3,Spn28F,1
+Female,Liver-metabolic,SERPINB4,Spn28F,1
+Female,Liver-metabolic,SERPINB11,Spn28F,1
+Female,Liver-metabolic,SERPINB9,Spn42Da,1
+Female,Liver-metabolic,SERPINB9,Spn42Dd,1
+Female,Digestive,SERPINE1,Spn42Dc,1
+Female,Digestive,SERPINE1,Spn28F,1
+Female,Digestive,SERPINI1,Spn42Da,1
+Female,Digestive,SERPINI1,Spn28B,1
+Female,Digestive,SERPINB3,Spn42Dd,1
+Female,Digestive,SERPINB3,Spn28B,1
+Female,Digestive,SERPINB4,Spn42Dd,1
+Female,Digestive,SERPINB11,Spn42Dd,1
+Female,Digestive,SERPINB9,Spn42Dc,1
+Female,Digestive,SERPINB9,Spn42Dd,1
+Female,Renal/excretory,SERPINE1,Spn28F,1
+Female,Renal/excretory,SERPINI1,Spn42Db,1
+Female,Renal/excretory,SERPINB3,Spn42Dc,1
+Female,Renal/excretory,SERPINB4,Spn42Dc,1
+Female,Renal/excretory,SERPINB11,Spn42Db,1
+Female,Renal/excretory,SERPINB9,Spn42Db,1
+Female,Ovary,SERPINE1,Spn42Db,1
+Female,Ovary,SERPINE1,Spn28F,1
+Female,Ovary,SERPINI1,Spn28F,2
+Female,Ovary,SERPINB3,Spn42Db,1
+Female,Ovary,SERPINB3,Spn42Dc,1
+Female,Ovary,SERPINB4,Spn42Dc,1
+Female,Ovary,SERPINB11,Spn42Dc,1
+Female,Ovary,SERPINB9,Spn42Db,1
+Female,Ovary,SERPINB9,Spn28F,1
+Female,Sensory/neural,SERPINE1,Spn28B,1
+Female,Sensory/neural,SERPINI1,Spn42Dd,1
+Female,Sensory/neural,SERPINB3,Spn28B,1
+Female,Sensory/neural,SERPINB9,Spn42Da,1
+Male,Heart,SERPINE1,Spn42Dc,1
+Male,Heart,SERPINE1,Spn28B,1
+Male,Heart,SERPINI1,Spn42Dd,1
+Male,Heart,SERPINI1,Spn28F,1
+Male,Heart,SERPINB3,Spn28F,2
+Male,Heart,SERPINB11,Spn28F,1
+Male,Heart,SERPINB9,Spn42Dd,1
+Male,Heart,SERPINB9,Spn28B,1
+Male,Skeletal muscle,SERPINE1,Spn42Dc,1
+Male,Skeletal muscle,SERPINE1,Spn28F,1
+Male,Skeletal muscle,SERPINI1,Spn42Dc,1
+Male,Skeletal muscle,SERPINI1,Spn28F,1
+Male,Skeletal muscle,SERPINB3,Spn42Dc,1
+Male,Skeletal muscle,SERPINB3,Spn28B,1
+Male,Skeletal muscle,SERPINB11,Spn42Da,1
+Male,Skeletal muscle,SERPINB9,Spn42Dc,2
+Male,Liver-metabolic,SERPINE1,Spn42Da,1
+Male,Liver-metabolic,SERPINE1,Spn28F,1
+Male,Liver-metabolic,SERPINI1,Spn42Dc,1
+Male,Liver-metabolic,SERPINI1,Spn42Dd,1
+Male,Liver-metabolic,SERPINB3,Spn28B,2
+Male,Liver-metabolic,SERPINB11,Spn28B,1
+Male,Liver-metabolic,SERPINB9,Spn42Da,1
+Male,Liver-metabolic,SERPINB9,Spn28B,1
+Male,Digestive,SERPINE1,Spn42Da,2
+Male,Digestive,SERPINI1,Spn42Da,1
+Male,Digestive,SERPINI1,Spn42Db,1
+Male,Digestive,SERPINB3,Spn42Dc,1
+Male,Digestive,SERPINB3,Spn28F,1
+Male,Digestive,SERPINB11,Spn42Dc,1
+Male,Digestive,SERPINB9,Spn42Dc,1
+Male,Digestive,SERPINB9,Spn28B,1
+Male,Renal/excretory,SERPINE1,Spn42Da,1
+Male,Renal/excretory,SERPINI1,Spn42Dc,1
+Male,Renal/excretory,SERPINB3,Spn42Db,1
+Male,Renal/excretory,SERPINB11,Spn28B,1
+Male,Renal/excretory,SERPINB9,Spn42Da,1
+Male,Male reproductive,SERPINE1,Spn42Dc,1
+Male,Male reproductive,SERPINI1,Spn42Dc,1
+Male,Male reproductive,SERPINB3,Spn42Dd,1
+Male,Male reproductive,SERPINB11,Spn42Dc,1
+Male,Male reproductive,SERPINB9,Spn42Dc,1
+Male,Sensory/neural,SERPINE1,Spn28B,1
+Male,Sensory/neural,SERPINI1,Spn42Dd,1
+Male,Sensory/neural,SERPINB3,Spn28F,1
+Male,Sensory/neural,SERPINB9,Spn42Dd,1

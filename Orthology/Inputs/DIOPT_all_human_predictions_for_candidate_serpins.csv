@@ -1,0 +1,223 @@
+Drosophila_Gene,FlyBase_ID,Human_Gene,Human_Ensembl_ID,DIOPT_Score,Weighted_Score,Confidence_Rank,Best_Score,Reverse_Best_Score,Prediction_Derived_From,Best_Score_Binary,Reverse_Best_Binary,Supporting_DB_Count
+Spn42Da,FBgn0265137,SERPINI1,ENSG00000163536,10,9.9,NA,Yes,Yes,"Domainoid, Inparanoid, OMA, OrthoFinder, OrthoInspector, Compara, Panther, Phylome, SonicParanoid, orthoMCL",1,1,10
+Spn42Da,FBgn0265137,SERPINI2,ENSG00000114204,9,8.9,NA,No,Yes,"Domainoid, Inparanoid, OMA, OrthoInspector, Compara, Panther, Phylome, SonicParanoid, orthoMCL",0,1,9
+Spn42Da,FBgn0265137,SERPINB1,ENSG00000021355,9,8.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, Phylome, orthoMCL, SonicParanoid",0,0,9
+Spn42Da,FBgn0265137,SERPINB10,ENSG00000242550,9,8.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Phylome, orthoMCL, Panther, SonicParanoid",0,0,9
+Spn42Da,FBgn0265137,SERPINB13,ENSG00000197641,9,8.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, Phylome, orthoMCL, SonicParanoid",0,0,9
+Spn42Da,FBgn0265137,SERPINB2,ENSG00000197632,9,8.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Phylome, orthoMCL, Panther, SonicParanoid",0,0,9
+Spn42Da,FBgn0265137,SERPINB3,ENSG00000057149,9,8.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, Phylome, orthoMCL, SonicParanoid",0,0,9
+Spn42Da,FBgn0265137,SERPINB4,ENSG00000206073,9,8.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, Phylome, orthoMCL, SonicParanoid",0,0,9
+Spn42Da,FBgn0265137,SERPINB9,ENSG00000170542,9,8.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Phylome, orthoMCL, Panther, SonicParanoid",0,0,9
+Spn42Da,FBgn0265137,SERPINB11,ENSG00000206072,8,7.94,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",0,0,8
+Spn42Da,FBgn0265137,SERPINB12,ENSG00000166634,8,7.94,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",0,0,8
+Spn42Da,FBgn0265137,SERPINB6,ENSG00000124570,8,7.94,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, orthoMCL, Panther, SonicParanoid",0,0,8
+Spn42Da,FBgn0265137,SERPINB8,ENSG00000166401,8,7.94,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, orthoMCL, Panther, SonicParanoid",0,0,8
+Spn42Da,FBgn0265137,SERPINB7,ENSG00000166396,7,6.94,NA,No,No,"OMA, OrthoInspector, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",0,0,7
+Spn42Da,FBgn0265137,SERPINE2,ENSG00000135919,7,6.85,NA,No,Yes,"OMA, OrthoInspector, Compara, Panther, Phylome, SonicParanoid, orthoMCL",0,1,7
+Spn42Da,FBgn0265137,SERPINB5,ENSG00000206075,6,5.94,NA,No,No,"OMA, OrthoInspector, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Da,FBgn0265137,SERPINA12,ENSG00000165953,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Da,FBgn0265137,SERPINC1,ENSG00000117601,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Da,FBgn0265137,SERPINA11,ENSG00000186910,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Da,FBgn0265137,SERPINA4,ENSG00000100665,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn42Da,FBgn0265137,SERPINA5,ENSG00000188488,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Da,FBgn0265137,SERPINA6,ENSG00000170099,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Da,FBgn0265137,SERPINA7,ENSG00000123561,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Da,FBgn0265137,SERPINA9,ENSG00000170054,4,3.93,NA,No,Yes,"Compara, Panther, SonicParanoid, orthoMCL",0,1,4
+Spn42Da,FBgn0265137,SERPINA1,ENSG00000197249,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Da,FBgn0265137,SERPINA3,ENSG00000196136,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Da,FBgn0265137,SERPIND1,ENSG00000099937,3,2.93,NA,No,Yes,"Compara, Panther, orthoMCL",0,1,3
+Spn42Da,FBgn0265137,SERPINE1,ENSG00000106366,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn42Da,FBgn0265137,SERPINE3,ENSG00000253309,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn42Da,FBgn0265137,SERPING1,ENSG00000149131,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Da,FBgn0265137,HMSD,ENSG00000221887,3,2.83,NA,No,Yes,"OrthoFinder, Compara, orthoMCL",0,1,3
+Spn42Da,FBgn0265137,AGT,ENSG00000135744,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Da,FBgn0265137,SERPINA2,ENSG00000258597,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Da,FBgn0265137,SERPINF1,ENSG00000132386,2,2.03,NA,No,Yes,"Compara, Panther",0,1,2
+Spn42Da,FBgn0265137,SERPINF2,ENSG00000167711,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Da,FBgn0265137,SERPINH1,ENSG00000149257,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Da,FBgn0265137,SERPINA10,ENSG00000140093,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn42Db,FBgn0033112,SERPINI1,ENSG00000163536,8,7.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Panther, SonicParanoid, orthoMCL",1,0,8
+Spn42Db,FBgn0033112,SERPINI2,ENSG00000114204,7,6.99,NA,No,No,"Domainoid, Inparanoid, OMA, Compara, Panther, SonicParanoid, orthoMCL",0,0,7
+Spn42Db,FBgn0033112,SERPINB1,ENSG00000021355,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB10,ENSG00000242550,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, orthoMCL, Panther, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB11,ENSG00000206072,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB12,ENSG00000166634,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB13,ENSG00000197641,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB2,ENSG00000197632,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, orthoMCL, Panther, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB3,ENSG00000057149,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB4,ENSG00000206073,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB6,ENSG00000124570,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, orthoMCL, Panther, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB8,ENSG00000166401,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, orthoMCL, Panther, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINB9,ENSG00000170542,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, orthoMCL, Panther, SonicParanoid",0,0,6
+Spn42Db,FBgn0033112,SERPINA12,ENSG00000165953,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Db,FBgn0033112,SERPINB5,ENSG00000206075,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Db,FBgn0033112,SERPINB7,ENSG00000166396,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Db,FBgn0033112,SERPINC1,ENSG00000117601,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Db,FBgn0033112,SERPINE2,ENSG00000135919,5,4.94,NA,No,No,"OMA, Compara, Panther, SonicParanoid, orthoMCL",0,0,5
+Spn42Db,FBgn0033112,SERPINA11,ENSG00000186910,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Db,FBgn0033112,SERPINA4,ENSG00000100665,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn42Db,FBgn0033112,SERPINA5,ENSG00000188488,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Db,FBgn0033112,SERPINA6,ENSG00000170099,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Db,FBgn0033112,SERPINA7,ENSG00000123561,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Db,FBgn0033112,SERPINA9,ENSG00000170054,4,3.93,NA,No,Yes,"Compara, Panther, SonicParanoid, orthoMCL",0,1,4
+Spn42Db,FBgn0033112,SERPINA1,ENSG00000197249,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Db,FBgn0033112,SERPINA3,ENSG00000196136,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Db,FBgn0033112,SERPIND1,ENSG00000099937,3,2.93,NA,No,Yes,"Compara, Panther, orthoMCL",0,1,3
+Spn42Db,FBgn0033112,SERPINE1,ENSG00000106366,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn42Db,FBgn0033112,SERPINE3,ENSG00000253309,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn42Db,FBgn0033112,SERPING1,ENSG00000149131,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Db,FBgn0033112,HMSD,ENSG00000221887,3,2.83,NA,No,Yes,"OrthoFinder, Compara, orthoMCL",0,1,3
+Spn42Db,FBgn0033112,AGT,ENSG00000135744,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Db,FBgn0033112,SERPINA2,ENSG00000258597,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Db,FBgn0033112,SERPINF1,ENSG00000132386,2,2.03,NA,No,Yes,"Compara, Panther",0,1,2
+Spn42Db,FBgn0033112,SERPINF2,ENSG00000167711,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Db,FBgn0033112,SERPINH1,ENSG00000149257,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Db,FBgn0033112,SERPINA10,ENSG00000140093,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn42Dc,FBgn0033113,SERPINB1,ENSG00000021355,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB10,ENSG00000242550,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, orthoMCL, Panther, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB11,ENSG00000206072,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB12,ENSG00000166634,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB13,ENSG00000197641,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB2,ENSG00000197632,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, orthoMCL, Panther, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB3,ENSG00000057149,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB4,ENSG00000206073,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB6,ENSG00000124570,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, orthoMCL, Panther, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB8,ENSG00000166401,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, orthoMCL, Panther, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB9,ENSG00000170542,7,6.94,NA,Yes,No,"OMA, OrthoFinder, Compara, Hieranoid, orthoMCL, Panther, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINI1,ENSG00000163536,7,6.85,NA,Yes,No,"OMA, OrthoFinder, Compara, Panther, Phylome, orthoMCL, SonicParanoid",1,0,7
+Spn42Dc,FBgn0033113,SERPINB7,ENSG00000166396,6,5.94,NA,No,No,"OMA, Compara, Hieranoid, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Dc,FBgn0033113,SERPINA12,ENSG00000165953,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Dc,FBgn0033113,SERPINB5,ENSG00000206075,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Dc,FBgn0033113,SERPINC1,ENSG00000117601,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Dc,FBgn0033113,SERPINE2,ENSG00000135919,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Dc,FBgn0033113,SERPINI2,ENSG00000114204,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn42Dc,FBgn0033113,SERPINA11,ENSG00000186910,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Dc,FBgn0033113,SERPINA4,ENSG00000100665,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn42Dc,FBgn0033113,SERPINA5,ENSG00000188488,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Dc,FBgn0033113,SERPINA6,ENSG00000170099,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Dc,FBgn0033113,SERPINA7,ENSG00000123561,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Dc,FBgn0033113,SERPINA9,ENSG00000170054,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn42Dc,FBgn0033113,SERPINA1,ENSG00000197249,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Dc,FBgn0033113,SERPINA3,ENSG00000196136,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Dc,FBgn0033113,SERPIND1,ENSG00000099937,3,2.93,NA,No,Yes,"Compara, Panther, orthoMCL",0,1,3
+Spn42Dc,FBgn0033113,SERPINE1,ENSG00000106366,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn42Dc,FBgn0033113,SERPINE3,ENSG00000253309,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn42Dc,FBgn0033113,SERPING1,ENSG00000149131,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Dc,FBgn0033113,HMSD,ENSG00000221887,3,2.83,NA,No,Yes,"OrthoFinder, Compara, orthoMCL",0,1,3
+Spn42Dc,FBgn0033113,AGT,ENSG00000135744,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Dc,FBgn0033113,SERPINA2,ENSG00000258597,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Dc,FBgn0033113,SERPINF1,ENSG00000132386,2,2.03,NA,No,Yes,"Compara, Panther",0,1,2
+Spn42Dc,FBgn0033113,SERPINF2,ENSG00000167711,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Dc,FBgn0033113,SERPINH1,ENSG00000149257,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Dc,FBgn0033113,SERPINA10,ENSG00000140093,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn42Dd,FBgn0028988,SERPINB12,ENSG00000166634,10,9.99,NA,Yes,Yes,"Domainoid, Inparanoid, OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,1,10
+Spn42Dd,FBgn0028988,SERPINB13,ENSG00000197641,10,9.99,NA,Yes,Yes,"Domainoid, Inparanoid, OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,1,10
+Spn42Dd,FBgn0028988,SERPINB3,ENSG00000057149,10,9.99,NA,Yes,Yes,"Domainoid, Inparanoid, OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,1,10
+Spn42Dd,FBgn0028988,SERPINB4,ENSG00000206073,10,9.99,NA,Yes,Yes,"Domainoid, Inparanoid, OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,1,10
+Spn42Dd,FBgn0028988,SERPINB7,ENSG00000166396,9,8.99,NA,No,Yes,"Domainoid, Inparanoid, OMA, OrthoInspector, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,1,9
+Spn42Dd,FBgn0028988,SERPINB1,ENSG00000021355,8,7.94,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,8
+Spn42Dd,FBgn0028988,SERPINB11,ENSG00000206072,8,7.94,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,8
+Spn42Dd,FBgn0028988,SERPINI1,ENSG00000163536,8,7.85,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Panther, Phylome, orthoMCL, SonicParanoid",0,0,8
+Spn42Dd,FBgn0028988,SERPINI2,ENSG00000114204,7,6.85,NA,No,No,"OMA, OrthoInspector, Compara, Panther, Phylome, orthoMCL, SonicParanoid",0,0,7
+Spn42Dd,FBgn0028988,SERPINB10,ENSG00000242550,7,6.84,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,7
+Spn42Dd,FBgn0028988,SERPINB2,ENSG00000197632,7,6.84,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,7
+Spn42Dd,FBgn0028988,SERPINB6,ENSG00000124570,7,6.84,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,7
+Spn42Dd,FBgn0028988,SERPINB8,ENSG00000166401,7,6.84,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,7
+Spn42Dd,FBgn0028988,SERPINB9,ENSG00000170542,7,6.84,NA,No,No,"OMA, OrthoFinder, OrthoInspector, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,7
+Spn42Dd,FBgn0028988,SERPINC1,ENSG00000117601,6,5.99,NA,No,Yes,"OMA, Compara, Inparanoid, Panther, SonicParanoid, orthoMCL",0,1,6
+Spn42Dd,FBgn0028988,SERPINB5,ENSG00000206075,6,5.94,NA,No,No,"OMA, OrthoInspector, Compara, Panther, SonicParanoid, orthoMCL",0,0,6
+Spn42Dd,FBgn0028988,SERPINE2,ENSG00000135919,6,5.94,NA,No,No,"OMA, OrthoInspector, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn42Dd,FBgn0028988,SERPINA12,ENSG00000165953,5,4.94,NA,No,No,"OMA, Compara, Panther, SonicParanoid, orthoMCL",0,0,5
+Spn42Dd,FBgn0028988,SERPINA1,ENSG00000197249,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn42Dd,FBgn0028988,SERPINA11,ENSG00000186910,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn42Dd,FBgn0028988,SERPINA3,ENSG00000196136,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn42Dd,FBgn0028988,SERPINA4,ENSG00000100665,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn42Dd,FBgn0028988,SERPINA5,ENSG00000188488,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Dd,FBgn0028988,SERPINA6,ENSG00000170099,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn42Dd,FBgn0028988,SERPINA7,ENSG00000123561,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn42Dd,FBgn0028988,SERPINA9,ENSG00000170054,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn42Dd,FBgn0028988,AGT,ENSG00000135744,3,3.03,NA,No,Yes,"Compara, Panther, SonicParanoid",0,1,3
+Spn42Dd,FBgn0028988,SERPINA10,ENSG00000140093,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn42Dd,FBgn0028988,SERPIND1,ENSG00000099937,3,2.93,NA,No,Yes,"Compara, Panther, orthoMCL",0,1,3
+Spn42Dd,FBgn0028988,SERPING1,ENSG00000149131,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn42Dd,FBgn0028988,HMSD,ENSG00000221887,3,2.83,NA,No,Yes,"OrthoFinder, Compara, orthoMCL",0,1,3
+Spn42Dd,FBgn0028988,SERPINA13P,ENSG00000290676,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Dd,FBgn0028988,SERPINA2,ENSG00000258597,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Dd,FBgn0028988,SERPINF1,ENSG00000132386,2,2.03,NA,No,Yes,"Compara, Panther",0,1,2
+Spn42Dd,FBgn0028988,SERPINF2,ENSG00000167711,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn42Dd,FBgn0028988,SERPINE1,ENSG00000106366,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn42Dd,FBgn0028988,SERPINE3,ENSG00000253309,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn28B,FBgn0083141,SERPINB12,ENSG00000166634,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28B,FBgn0083141,SERPINB13,ENSG00000197641,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28B,FBgn0083141,SERPINB3,ENSG00000057149,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28B,FBgn0083141,SERPINB4,ENSG00000206073,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28B,FBgn0083141,SERPINB7,ENSG00000166396,8,7.99,NA,No,No,"Domainoid, Inparanoid, OMA, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,8
+Spn28B,FBgn0083141,SERPINB1,ENSG00000021355,7,6.94,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,7
+Spn28B,FBgn0083141,SERPINB11,ENSG00000206072,7,6.94,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,7
+Spn28B,FBgn0083141,SERPINI1,ENSG00000163536,7,6.85,NA,No,No,"OMA, OrthoFinder, Compara, Panther, Phylome, orthoMCL, SonicParanoid",0,0,7
+Spn28B,FBgn0083141,SERPINC1,ENSG00000117601,6,5.99,NA,No,Yes,"OMA, Compara, Inparanoid, Panther, SonicParanoid, orthoMCL",0,1,6
+Spn28B,FBgn0083141,SERPINI2,ENSG00000114204,6,5.85,NA,No,No,"OMA, Compara, Panther, Phylome, orthoMCL, SonicParanoid",0,0,6
+Spn28B,FBgn0083141,SERPINB10,ENSG00000242550,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28B,FBgn0083141,SERPINB2,ENSG00000197632,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28B,FBgn0083141,SERPINB6,ENSG00000124570,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28B,FBgn0083141,SERPINB8,ENSG00000166401,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28B,FBgn0083141,SERPINB9,ENSG00000170542,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28B,FBgn0083141,SERPINA12,ENSG00000165953,5,4.94,NA,No,No,"OMA, Compara, Panther, SonicParanoid, orthoMCL",0,0,5
+Spn28B,FBgn0083141,SERPINB5,ENSG00000206075,5,4.94,NA,No,No,"OMA, Compara, Panther, SonicParanoid, orthoMCL",0,0,5
+Spn28B,FBgn0083141,SERPINE2,ENSG00000135919,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn28B,FBgn0083141,SERPINA1,ENSG00000197249,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28B,FBgn0083141,SERPINA11,ENSG00000186910,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28B,FBgn0083141,SERPINA3,ENSG00000196136,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28B,FBgn0083141,SERPINA4,ENSG00000100665,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn28B,FBgn0083141,SERPINA5,ENSG00000188488,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn28B,FBgn0083141,SERPINA6,ENSG00000170099,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28B,FBgn0083141,SERPINA7,ENSG00000123561,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn28B,FBgn0083141,SERPINA9,ENSG00000170054,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn28B,FBgn0083141,AGT,ENSG00000135744,3,3.03,NA,No,Yes,"Compara, Panther, SonicParanoid",0,1,3
+Spn28B,FBgn0083141,SERPINA10,ENSG00000140093,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn28B,FBgn0083141,SERPIND1,ENSG00000099937,3,2.93,NA,No,Yes,"Compara, Panther, orthoMCL",0,1,3
+Spn28B,FBgn0083141,SERPING1,ENSG00000149131,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn28B,FBgn0083141,HMSD,ENSG00000221887,3,2.83,NA,No,Yes,"OrthoFinder, Compara, orthoMCL",0,1,3
+Spn28B,FBgn0083141,SERPINA13P,ENSG00000290676,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn28B,FBgn0083141,SERPINA2,ENSG00000258597,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn28B,FBgn0083141,SERPINF1,ENSG00000132386,2,2.03,NA,No,Yes,"Compara, Panther",0,1,2
+Spn28B,FBgn0083141,SERPINF2,ENSG00000167711,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn28B,FBgn0083141,SERPINE1,ENSG00000106366,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn28B,FBgn0083141,SERPINE3,ENSG00000253309,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn28F,FBgn0028987,SERPINB12,ENSG00000166634,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28F,FBgn0028987,SERPINB13,ENSG00000197641,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28F,FBgn0028987,SERPINB3,ENSG00000057149,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28F,FBgn0028987,SERPINB4,ENSG00000206073,9,8.99,NA,Yes,No,"Domainoid, Inparanoid, OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",1,0,9
+Spn28F,FBgn0028987,SERPINB7,ENSG00000166396,8,7.99,NA,No,No,"Domainoid, Inparanoid, OMA, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,8
+Spn28F,FBgn0028987,SERPINB1,ENSG00000021355,7,6.94,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,7
+Spn28F,FBgn0028987,SERPINB11,ENSG00000206072,7,6.94,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, Panther, SonicParanoid, orthoMCL",0,0,7
+Spn28F,FBgn0028987,SERPINC1,ENSG00000117601,6,5.99,NA,No,Yes,"OMA, Compara, Inparanoid, Panther, SonicParanoid, orthoMCL",0,1,6
+Spn28F,FBgn0028987,SERPINI1,ENSG00000163536,6,5.94,NA,No,No,"OMA, OrthoFinder, Compara, Panther, orthoMCL, SonicParanoid",0,0,6
+Spn28F,FBgn0028987,SERPINI2,ENSG00000114204,6,5.85,NA,No,No,"OMA, Compara, Panther, Phylome, orthoMCL, SonicParanoid",0,0,6
+Spn28F,FBgn0028987,SERPINB10,ENSG00000242550,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28F,FBgn0028987,SERPINB2,ENSG00000197632,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28F,FBgn0028987,SERPINB6,ENSG00000124570,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28F,FBgn0028987,SERPINB8,ENSG00000166401,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28F,FBgn0028987,SERPINB9,ENSG00000170542,6,5.84,NA,No,No,"OMA, OrthoFinder, Compara, Hieranoid, SonicParanoid, orthoMCL",0,0,6
+Spn28F,FBgn0028987,SERPINA12,ENSG00000165953,5,4.94,NA,No,No,"OMA, Compara, Panther, SonicParanoid, orthoMCL",0,0,5
+Spn28F,FBgn0028987,SERPINB5,ENSG00000206075,5,4.94,NA,No,No,"OMA, Compara, Panther, SonicParanoid, orthoMCL",0,0,5
+Spn28F,FBgn0028987,SERPINE2,ENSG00000135919,5,4.94,NA,No,No,"OMA, Compara, Panther, orthoMCL, SonicParanoid",0,0,5
+Spn28F,FBgn0028987,SERPINA1,ENSG00000197249,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28F,FBgn0028987,SERPINA11,ENSG00000186910,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28F,FBgn0028987,SERPINA3,ENSG00000196136,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28F,FBgn0028987,SERPINA4,ENSG00000100665,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn28F,FBgn0028987,SERPINA5,ENSG00000188488,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn28F,FBgn0028987,SERPINA6,ENSG00000170099,4,3.93,NA,No,No,"Compara, Panther, SonicParanoid, orthoMCL",0,0,4
+Spn28F,FBgn0028987,SERPINA7,ENSG00000123561,4,3.93,NA,No,No,"Compara, Panther, orthoMCL, SonicParanoid",0,0,4
+Spn28F,FBgn0028987,SERPINA9,ENSG00000170054,4,3.93,NA,No,Yes,"Compara, Panther, orthoMCL, SonicParanoid",0,1,4
+Spn28F,FBgn0028987,AGT,ENSG00000135744,3,3.03,NA,No,Yes,"Compara, Panther, SonicParanoid",0,1,3
+Spn28F,FBgn0028987,SERPINA10,ENSG00000140093,3,2.93,NA,No,No,"Compara, orthoMCL, Panther",0,0,3
+Spn28F,FBgn0028987,SERPIND1,ENSG00000099937,3,2.93,NA,No,Yes,"Compara, Panther, orthoMCL",0,1,3
+Spn28F,FBgn0028987,SERPING1,ENSG00000149131,3,2.93,NA,No,No,"Compara, Panther, orthoMCL",0,0,3
+Spn28F,FBgn0028987,HMSD,ENSG00000221887,3,2.83,NA,No,Yes,"OrthoFinder, Compara, orthoMCL",0,1,3
+Spn28F,FBgn0028987,SERPINA13P,ENSG00000290676,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn28F,FBgn0028987,SERPINA2,ENSG00000258597,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn28F,FBgn0028987,SERPINF1,ENSG00000132386,2,2.03,NA,No,Yes,"Compara, Panther",0,1,2
+Spn28F,FBgn0028987,SERPINF2,ENSG00000167711,2,2.03,NA,No,No,"Compara, Panther",0,0,2
+Spn28F,FBgn0028987,SERPINE1,ENSG00000106366,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2
+Spn28F,FBgn0028987,SERPINE3,ENSG00000253309,2,1.83,NA,No,No,"Compara, orthoMCL",0,0,2

@@ -1,0 +1,4 @@
+File,Gene_Rows,Samples,Target_SERPINs,Subject_Metadata_Matches,Gzip_Integrity
+gene_tpm_adult_gtex_v11_brain_spinal_cord_cervical_c-1.gct.gz,74628,204,6,204,Passed
+gene_tpm_adult_gtex_v11_ovary.gct.gz,74628,193,6,193,Passed
+gene_tpm_adult_gtex_v11_small_intestine_terminal_ileum.gct.gz,74628,207,6,207,Passed

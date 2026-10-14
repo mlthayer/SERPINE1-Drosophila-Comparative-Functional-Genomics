@@ -1,0 +1,12 @@
+{
+  "Human_SERPIN_system_expression_by_sex.csv": {
+    "source": "Expression/Human_SERPIN_reanalysis/Reference_Uploads/Human_SERPIN_system_expression_by_sex_RAW.csv",
+    "rows": 228,
+    "sha256": "bc4606fef460dcafa9cc5e4994b77c9a7c752b05caeefd4b24985f68a36c0ef5"
+  },
+  "Human_SERPIN_system_expression_Zscore_by_sex.csv": {
+    "source": "Expression/Human_SERPIN_reanalysis/Reference_Uploads/Human_SERPIN_system_Zscores_by_sex.csv",
+    "rows": 228,
+    "sha256": "be4345e1b7b35fe77ca5127098933f1077b2ff81d71ae10e2173c3e6588eba77"
+  }
+}

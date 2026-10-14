@@ -1,0 +1,17 @@
+File,Reference_Rows,Generated_Rows,Matches,Details
+AFCA_Aging_CellType_Long.csv,288,288,TRUE,TRUE
+AFCA_Aging_Coverage_Audit_v2.csv,42,42,TRUE,TRUE
+AFCA_Aging_Interpolated_Trajectories.csv,210,210,TRUE,TRUE
+AFCA_Aging_System_Trajectories.csv,168,168,TRUE,TRUE
+CrossSpecies_Aging_Matched_Trajectories_Long_v2.csv,1050,1050,TRUE,TRUE
+CrossSpecies_Aging_Overall_Similarity_v2.csv,30,30,TRUE,TRUE
+CrossSpecies_Aging_Rankings_v2.csv,30,30,TRUE,TRUE
+CrossSpecies_Aging_System_Similarity_v2.csv,210,210,TRUE,TRUE
+Fly_Aging_Functional_System_Mapping.csv,13,13,TRUE,TRUE
+GTEx_Aging_Coverage_Audit_v2.csv,35,35,TRUE,TRUE
+GTEx_Aging_Interpolated_Trajectories.csv,175,175,TRUE,TRUE
+GTEx_Aging_System_Trajectories.csv,210,210,TRUE,TRUE
+GTEx_Aging_Tissue_Long.csv,410,410,TRUE,TRUE
+Human_Aging_Functional_System_Mapping.csv,14,14,TRUE,TRUE
+SERPINE1_Aging_Similarity_Ranking_v2.csv,6,6,TRUE,TRUE
+SERPINE1_Aging_System_Similarity_v2.csv,42,42,TRUE,TRUE
