@@ -10,6 +10,7 @@ inputs and reference outputs are retained for the documented downstream runs.
 | Adult GTEx v11 bulk gene TPM | https://gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression | Tissue `.gct`/`.gct.gz` files in `Expression/GTEx/`; step 06B uses subject sex metadata from `Expression/GTEx/Annotations/GTEx_Analysis_v11_Annotations_SubjectPhenotypesDS.txt` |
 | HPA transcript TPM and sample metadata | https://www.proteinatlas.org/about/download | `transcript_rna_tissue.tsv.zip` and `rna_tissue_hpa_samples.tsv` (or ZIP) in `Expression/HPA/`; steps 06 and 06C |
 | GTEx single-nucleus atlas | https://gtexportal.org/home/downloads/adult-gtex/single_cell | `GTEx_8_tissues_snRNAseq_atlas_071421.public_obs.h5ad` in `Expression/GTEx/`; step 07B |
+| FlyAtlas 2 gene/transcript FPKM | https://motif.mvls.gla.ac.uk/FlyAtlas2/ | Gene exports in `Expression/FlyAtlas2_GeneTables/`, transcript exports in `Expression/FlyAtlas2_TranscriptTables/`; steps 05A–05C |
 | FlyCellAtlas 10x datasets | https://flycellatlas.org/ | Fifteen H5AD inputs listed in `Expression/FlyCellAtlas/README.md`; step 07 |
 
 Input environment variables and interactive selectors are documented in the
@@ -53,3 +54,26 @@ These are declared verification limits, not pending requirements for the
 author to upload large files. A user with local source data can rerun the
 upstream scripts. Successful downstream runs do not validate missing upstream
 joins, dataset releases or biological annotations.
+
+## FlyAtlas 2 data availability
+
+FlyAtlas 2 RNA-seq source data are deposited in the European Nucleotide Archive:
+
+- [PRJEB22205](https://www.ebi.ac.uk/ena/browser/view/PRJEB22205): main dataset.
+- [PRJEB11865](https://www.ebi.ac.uk/ena/browser/view/PRJEB11865): midgut.
+- [PRJEB48667](https://www.ebi.ac.uk/ena/browser/view/PRJEB48667): garland cells.
+
+The source download links supplied by the author are:
+
+- [Database SQL snapshot, 2025.03.03](https://motif.mvls.gla.ac.uk/downloads/FlyAtlas2_2025.03.03.sql).
+- [Gene-data Excel workbook, 2025](https://motif.mvls.gla.ac.uk/downloads/FlyAtlas2_gene_data_2025.xlsx).
+
+These links identify available source snapshots; equivalence to the release
+used for the retained exports has not been independently established. Keep the
+actual export/download date and checksum when obtaining a new copy. The SQL
+and workbook are source resources, not direct replacements for step 05A's
+validated CSV/text input schemas. Expression values remain FPKM as supplied.
+
+The [FlyAtlas 2 input guide](Expression/FlyAtlas2_GeneTables/README.md) lists
+all six study genes and direct gene/transcript download links. FlyAtlas 2
+software/data citations are included in References/WORKFLOW_REFERENCES.md.

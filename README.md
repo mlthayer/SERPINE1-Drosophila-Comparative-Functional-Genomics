@@ -223,3 +223,10 @@ that were not independently rerun here.
 ## References
 
 [Workflow-specific references](References/WORKFLOW_REFERENCES.md) cover the software, public datasets and sequence annotations used here. Installed software citation records are retained in References/software_citations.bib. General background and manuscript bibliography items are excluded.
+
+## FlyAtlas 2 source access
+
+FlyAtlas 2 source RNA-seq projects are **PRJEB22205** (main), **PRJEB11865**
+(midgut), and **PRJEB48667** (garland cells). The [data availability guide](DATA_AVAILABILITY.md#flyatlas-2-data-availability)
+provides the SQL/workbook snapshots; the [FlyAtlas 2 input guide](Expression/FlyAtlas2_GeneTables/README.md)
+provides direct gene and transcript download links for all six candidate serpins.

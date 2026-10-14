@@ -12,3 +12,7 @@ All 817 records match `Expression/FlyAtlas2_Analysis/Processed/05_FlyAtlas2_all_
 | `FBgn0033113T.txt` | Spn42Dc | 2 | 86 |
 | `FBgn0083141T.txt` | Spn28B | 2 | 86 |
 | `FBgn0265137T.txt` | Spn42Da | 11 | 473 |
+
+## Download source
+
+Obtain transcript exports with `tableOut=transcriptGene` from the FlyAtlas 2 direct endpoint. See [the six-gene download guide](../FlyAtlas2_GeneTables/README.md) for gene-specific links and [data availability](../../DATA_AVAILABILITY.md#flyatlas-2-data-availability) for ENA accessions and database/workbook snapshots. Gene-level totals use a separate `tableOut=gene` export.
