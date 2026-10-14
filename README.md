@@ -1,5 +1,7 @@
 # SERPINE1–Drosophila Comparative Functional Genomics Workflow
 
+Repository: [https://github.com/mlthayer/SERPINE1-Drosophila-Comparative-Functional-Genomics](https://github.com/mlthayer/SERPINE1-Drosophila-Comparative-Functional-Genomics)
+
 This workflow compares Drosophila serpins with human SERPINE1/PAI-1 using orthology, full-length and reactive-center-loop (RCL) sequences, phylogenetics, tissue and cell expression, aging profiles, and integrated evidence ranking. Expanded human SERPIN and isoform comparisons are retained as supplied.
 
 ## Requirements
@@ -121,8 +123,9 @@ Human reactive sites are supplied sequence annotations without independent
 primary-source verification. The historical expanded-RCL ML tree is selected
 with the rerun difference disclosed in
 [the selection note](Sequence/Phylogeny_Reference_Uploads/SELECTED_EXPANDED_RCL.md).
-CITATION.cff retains attribution and the workflow title; release metadata will
-be added when an actual release is created.
+CITATION.cff records the verified repository URL, attribution and workflow
+title. Release version/date and archive DOI will be added when an actual
+release and archive exist.
 
 ## Supplied DIOPT data
 
