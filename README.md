@@ -124,8 +124,8 @@ primary-source verification. The historical expanded-RCL ML tree is selected
 with the rerun difference disclosed in
 [the selection note](Sequence/Phylogeny_Reference_Uploads/SELECTED_EXPANDED_RCL.md).
 CITATION.cff records the verified repository URL, attribution and workflow
-title. Release version/date and archive DOI will be added when an actual
-release and archive exist.
+title, version 1.1.0 and its author-confirmed Zenodo DOI. The exact release
+date is omitted until confirmed.
 
 ## Supplied DIOPT data
 
