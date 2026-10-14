@@ -234,20 +234,18 @@ FlyAtlas 2 source RNA-seq projects are **PRJEB22205** (main), **PRJEB11865**
 provides the SQL/workbook snapshots; the [FlyAtlas 2 input guide](Expression/FlyAtlas2_GeneTables/README.md)
 provides direct gene and transcript download links for all six candidate serpins.
 
-## Archive identifiers
+## Archived release and citation
 
-The author supplied the following Zenodo identifiers for an **earlier release**
-of this workflow:
+Version **1.1.0** is archived on Zenodo:
+[10.5281/zenodo.23356010](https://doi.org/10.5281/zenodo.23356010).
+The author confirmed that this record is published and identifies version 1.1.0.
+Use this release-specific DOI when citing the updated workflow. CITATION.cff
+records the DOI, version, workflow title and author attribution. The exact
+release date is omitted because it has not been confirmed from the record.
 
-- [10.5281/zenodo.21194882](https://doi.org/10.5281/zenodo.21194882)
-- [10.5281/zenodo.21194883](https://doi.org/10.5281/zenodo.21194883)
-
-[OpenAIRE discovery record supplied for zenodo.21194883](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.21194883).
-
-These identifiers archive an earlier release, as confirmed by the author;
-they do not archive the newly merged workflow. Their concept/version
-relationship has not been independently checked against record metadata.
-The updated workflow should be archived as a new version of the existing
-Zenodo record. CITATION.cff will receive the new release-specific DOI once
-that archive exists. Source expression datasets remain available through the
-separate links and accessions in DATA_AVAILABILITY.md.
+Earlier-release identifiers supplied by the author are
+`10.5281/zenodo.21194882` and `10.5281/zenodo.21194883`; they are not the
+citation identifiers selected for version 1.1.0. Their concept/version
+relationship has not been independently checked against Zenodo metadata.
+Source expression datasets remain available through the separate links and
+accessions in DATA_AVAILABILITY.md.

@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this workflow, please cite it using this metadata."
 title: "SERPINE1–Drosophila Comparative Functional Genomics Workflow"
+version: "1.1.0"
+doi: "10.5281/zenodo.23356010"
 license: MIT
 url: "https://github.com/mlthayer/SERPINE1-Drosophila-Comparative-Functional-Genomics"
 repository-code: "https://github.com/mlthayer/SERPINE1-Drosophila-Comparative-Functional-Genomics"
