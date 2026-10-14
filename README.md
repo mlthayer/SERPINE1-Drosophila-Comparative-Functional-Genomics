@@ -233,3 +233,19 @@ FlyAtlas 2 source RNA-seq projects are **PRJEB22205** (main), **PRJEB11865**
 (midgut), and **PRJEB48667** (garland cells). The [data availability guide](DATA_AVAILABILITY.md#flyatlas-2-data-availability)
 provides the SQL/workbook snapshots; the [FlyAtlas 2 input guide](Expression/FlyAtlas2_GeneTables/README.md)
 provides direct gene and transcript download links for all six candidate serpins.
+
+## Archive identifiers
+
+The author supplied the following Zenodo identifiers for this workflow:
+
+- [10.5281/zenodo.21194882](https://doi.org/10.5281/zenodo.21194882)
+- [10.5281/zenodo.21194883](https://doi.org/10.5281/zenodo.21194883)
+
+[OpenAIRE discovery record supplied for zenodo.21194883](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.21194883).
+
+The concept/version relationship and archived software release have not yet
+been checked against the record metadata. These links do not by themselves
+establish that the newest GitHub main commit is included in an existing
+archive. CITATION.cff will receive the appropriate DOI once that relationship
+is established. Source expression datasets remain available through the
+separate links and accessions in DATA_AVAILABILITY.md.
