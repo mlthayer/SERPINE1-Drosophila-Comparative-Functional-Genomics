@@ -1,0 +1,13 @@
+"Sex","Fly_Gene","Human_Gene","Cellular_Spearman_Rho","Cellular_N_Systems","Cellular_Expression_Score"
+"Female","Spn28B","SERPINE1",0.4,4,0.7
+"Female","Spn28F","SERPINE1",0.5,3,0.75
+"Female","Spn42Da","SERPINE1",0.8,4,0.9
+"Female","Spn42Db","SERPINE1",0.4,4,0.7
+"Female","Spn42Dc","SERPINE1",0.4,4,0.7
+"Female","Spn42Dd","SERPINE1",0.4,4,0.7
+"Male","Spn28B","SERPINE1",-0.3,5,0.35
+"Male","Spn28F","SERPINE1",-0.4,4,0.3
+"Male","Spn42Da","SERPINE1",0.2,5,0.6
+"Male","Spn42Db","SERPINE1",0.5,5,0.75
+"Male","Spn42Dc","SERPINE1",-0.6,5,0.2
+"Male","Spn42Dd","SERPINE1",-0.3,5,0.35

@@ -1,0 +1,205 @@
+"Sex","Gene","Tissue","Biological_System","n_samples","median_TPM"
+"Female","SERPINB11","Adipose Subcutaneous","Adipose / Metabolic",233,0
+"Female","SERPINB11","Adipose Visceral Omentum","Adipose / Metabolic",180,0
+"Female","SERPINB11","Artery Aorta","Vascular / Smooth Muscle",164,0
+"Female","SERPINB11","Artery Coronary","Vascular / Smooth Muscle",100,0
+"Female","SERPINB11","Artery Tibial","Vascular / Smooth Muscle",220,0
+"Female","SERPINB11","Brain Hypothalamus","Neural / CNS",64,0
+"Female","SERPINB11","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",73,0
+"Female","SERPINB11","Brain Spinal Cord Cervical C-1","Neural / CNS",68,0
+"Female","SERPINB11","Heart Atrial Appendage","Cardiac / Skeletal Muscle",143,0
+"Female","SERPINB11","Heart Left Ventricle","Cardiac / Skeletal Muscle",144,0
+"Female","SERPINB11","Liver","Hepatic / Hepatobiliary",78,0
+"Female","SERPINB11","Lung","Respiratory",190,0.0652825
+"Female","SERPINB11","Muscle Skeletal","Cardiac / Skeletal Muscle",266,0
+"Female","SERPINB11","Ovary","Reproductive",193,0
+"Female","SERPINB11","Pancreas","Gastrointestinal",139,0
+"Female","SERPINB11","Small Intestine Terminal Ileum","Gastrointestinal",72,0
+"Female","SERPINB11","Whole Blood","Blood / Circulating",262,0
+"Female","SERPINB3","Adipose Subcutaneous","Adipose / Metabolic",233,0
+"Female","SERPINB3","Adipose Visceral Omentum","Adipose / Metabolic",180,0.047362
+"Female","SERPINB3","Artery Aorta","Vascular / Smooth Muscle",164,0.066877
+"Female","SERPINB3","Artery Coronary","Vascular / Smooth Muscle",100,0.0731085
+"Female","SERPINB3","Artery Tibial","Vascular / Smooth Muscle",220,0
+"Female","SERPINB3","Brain Hypothalamus","Neural / CNS",64,0.0104645
+"Female","SERPINB3","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",73,0
+"Female","SERPINB3","Brain Spinal Cord Cervical C-1","Neural / CNS",68,0
+"Female","SERPINB3","Heart Atrial Appendage","Cardiac / Skeletal Muscle",143,0.030643
+"Female","SERPINB3","Heart Left Ventricle","Cardiac / Skeletal Muscle",144,0.029658
+"Female","SERPINB3","Liver","Hepatic / Hepatobiliary",78,0.076624
+"Female","SERPINB3","Lung","Respiratory",190,0.4248535
+"Female","SERPINB3","Muscle Skeletal","Cardiac / Skeletal Muscle",266,0.035525
+"Female","SERPINB3","Ovary","Reproductive",193,0.11269
+"Female","SERPINB3","Pancreas","Gastrointestinal",139,0.055103
+"Female","SERPINB3","Small Intestine Terminal Ileum","Gastrointestinal",72,0.085125
+"Female","SERPINB3","Whole Blood","Blood / Circulating",262,0
+"Female","SERPINB4","Adipose Subcutaneous","Adipose / Metabolic",233,0
+"Female","SERPINB4","Adipose Visceral Omentum","Adipose / Metabolic",180,0
+"Female","SERPINB4","Artery Aorta","Vascular / Smooth Muscle",164,0
+"Female","SERPINB4","Artery Coronary","Vascular / Smooth Muscle",100,0
+"Female","SERPINB4","Artery Tibial","Vascular / Smooth Muscle",220,0
+"Female","SERPINB4","Brain Hypothalamus","Neural / CNS",64,0
+"Female","SERPINB4","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",73,0
+"Female","SERPINB4","Brain Spinal Cord Cervical C-1","Neural / CNS",68,0
+"Female","SERPINB4","Heart Atrial Appendage","Cardiac / Skeletal Muscle",143,0
+"Female","SERPINB4","Heart Left Ventricle","Cardiac / Skeletal Muscle",144,0
+"Female","SERPINB4","Liver","Hepatic / Hepatobiliary",78,0
+"Female","SERPINB4","Lung","Respiratory",190,0.0760015
+"Female","SERPINB4","Muscle Skeletal","Cardiac / Skeletal Muscle",266,0
+"Female","SERPINB4","Ovary","Reproductive",193,0
+"Female","SERPINB4","Pancreas","Gastrointestinal",139,0
+"Female","SERPINB4","Small Intestine Terminal Ileum","Gastrointestinal",72,0
+"Female","SERPINB4","Whole Blood","Blood / Circulating",262,0
+"Female","SERPINB9","Adipose Subcutaneous","Adipose / Metabolic",233,9.82216
+"Female","SERPINB9","Adipose Visceral Omentum","Adipose / Metabolic",180,19.0435
+"Female","SERPINB9","Artery Aorta","Vascular / Smooth Muscle",164,11.0181
+"Female","SERPINB9","Artery Coronary","Vascular / Smooth Muscle",100,13.83785
+"Female","SERPINB9","Artery Tibial","Vascular / Smooth Muscle",220,5.64264
+"Female","SERPINB9","Brain Hypothalamus","Neural / CNS",64,7.270735
+"Female","SERPINB9","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",73,4.98039
+"Female","SERPINB9","Brain Spinal Cord Cervical C-1","Neural / CNS",68,12.71815
+"Female","SERPINB9","Heart Atrial Appendage","Cardiac / Skeletal Muscle",143,7.40165
+"Female","SERPINB9","Heart Left Ventricle","Cardiac / Skeletal Muscle",144,2.88814
+"Female","SERPINB9","Liver","Hepatic / Hepatobiliary",78,4.87543
+"Female","SERPINB9","Lung","Respiratory",190,37.82
+"Female","SERPINB9","Muscle Skeletal","Cardiac / Skeletal Muscle",266,1.313925
+"Female","SERPINB9","Ovary","Reproductive",193,5.99401
+"Female","SERPINB9","Pancreas","Gastrointestinal",139,1.29065
+"Female","SERPINB9","Small Intestine Terminal Ileum","Gastrointestinal",72,15.2139
+"Female","SERPINB9","Whole Blood","Blood / Circulating",262,22.2031
+"Female","SERPINE1","Adipose Subcutaneous","Adipose / Metabolic",233,75.5783
+"Female","SERPINE1","Adipose Visceral Omentum","Adipose / Metabolic",180,168.7595
+"Female","SERPINE1","Artery Aorta","Vascular / Smooth Muscle",164,791.0795
+"Female","SERPINE1","Artery Coronary","Vascular / Smooth Muscle",100,396.2645
+"Female","SERPINE1","Artery Tibial","Vascular / Smooth Muscle",220,398.264
+"Female","SERPINE1","Brain Hypothalamus","Neural / CNS",64,2.6412
+"Female","SERPINE1","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",73,0.952194
+"Female","SERPINE1","Brain Spinal Cord Cervical C-1","Neural / CNS",68,9.749795
+"Female","SERPINE1","Heart Atrial Appendage","Cardiac / Skeletal Muscle",143,21.2196
+"Female","SERPINE1","Heart Left Ventricle","Cardiac / Skeletal Muscle",144,12.45875
+"Female","SERPINE1","Liver","Hepatic / Hepatobiliary",78,78.648
+"Female","SERPINE1","Lung","Respiratory",190,262.483
+"Female","SERPINE1","Muscle Skeletal","Cardiac / Skeletal Muscle",266,8.66322
+"Female","SERPINE1","Ovary","Reproductive",193,76.0248
+"Female","SERPINE1","Pancreas","Gastrointestinal",139,11.4472
+"Female","SERPINE1","Small Intestine Terminal Ileum","Gastrointestinal",72,11.0038
+"Female","SERPINE1","Whole Blood","Blood / Circulating",262,2.50532
+"Female","SERPINI1","Adipose Subcutaneous","Adipose / Metabolic",233,7.28598
+"Female","SERPINI1","Adipose Visceral Omentum","Adipose / Metabolic",180,7.91817
+"Female","SERPINI1","Artery Aorta","Vascular / Smooth Muscle",164,20.69975
+"Female","SERPINI1","Artery Coronary","Vascular / Smooth Muscle",100,13.2808
+"Female","SERPINI1","Artery Tibial","Vascular / Smooth Muscle",220,14.9777
+"Female","SERPINI1","Brain Hypothalamus","Neural / CNS",64,67.30095
+"Female","SERPINI1","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",73,68.6718
+"Female","SERPINI1","Brain Spinal Cord Cervical C-1","Neural / CNS",68,181.946
+"Female","SERPINI1","Heart Atrial Appendage","Cardiac / Skeletal Muscle",143,2.05018
+"Female","SERPINI1","Heart Left Ventricle","Cardiac / Skeletal Muscle",144,3.249665
+"Female","SERPINI1","Liver","Hepatic / Hepatobiliary",78,0.878783
+"Female","SERPINI1","Lung","Respiratory",190,4.802785
+"Female","SERPINI1","Muscle Skeletal","Cardiac / Skeletal Muscle",266,1.365635
+"Female","SERPINI1","Ovary","Reproductive",193,6.14115
+"Female","SERPINI1","Pancreas","Gastrointestinal",139,11.8345
+"Female","SERPINI1","Small Intestine Terminal Ileum","Gastrointestinal",72,3.40373
+"Female","SERPINI1","Whole Blood","Blood / Circulating",262,1.09926
+"Male","SERPINB11","Adipose Subcutaneous","Adipose / Metabolic",481,0
+"Male","SERPINB11","Adipose Visceral Omentum","Adipose / Metabolic",407,0
+"Male","SERPINB11","Artery Aorta","Vascular / Smooth Muscle",308,0
+"Male","SERPINB11","Artery Coronary","Vascular / Smooth Muscle",168,0
+"Male","SERPINB11","Artery Tibial","Vascular / Smooth Muscle",471,0
+"Male","SERPINB11","Brain Hypothalamus","Neural / CNS",193,0
+"Male","SERPINB11","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",212,0
+"Male","SERPINB11","Brain Spinal Cord Cervical C-1","Neural / CNS",136,0
+"Male","SERPINB11","Heart Atrial Appendage","Cardiac / Skeletal Muscle",318,0
+"Male","SERPINB11","Heart Left Ventricle","Cardiac / Skeletal Muscle",308,0
+"Male","SERPINB11","Liver","Hepatic / Hepatobiliary",184,0
+"Male","SERPINB11","Lung","Respiratory",414,0.059457
+"Male","SERPINB11","Muscle Skeletal","Cardiac / Skeletal Muscle",552,0
+"Male","SERPINB11","Pancreas","Gastrointestinal",223,0
+"Male","SERPINB11","Small Intestine Terminal Ileum","Gastrointestinal",135,0
+"Male","SERPINB11","Testis","Reproductive",414,0.302034
+"Male","SERPINB11","Whole Blood","Blood / Circulating",541,0
+"Male","SERPINB3","Adipose Subcutaneous","Adipose / Metabolic",481,0
+"Male","SERPINB3","Adipose Visceral Omentum","Adipose / Metabolic",407,0.051181
+"Male","SERPINB3","Artery Aorta","Vascular / Smooth Muscle",308,0.0500615
+"Male","SERPINB3","Artery Coronary","Vascular / Smooth Muscle",168,0.048295
+"Male","SERPINB3","Artery Tibial","Vascular / Smooth Muscle",471,0
+"Male","SERPINB3","Brain Hypothalamus","Neural / CNS",193,0
+"Male","SERPINB3","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",212,0
+"Male","SERPINB3","Brain Spinal Cord Cervical C-1","Neural / CNS",136,0
+"Male","SERPINB3","Heart Atrial Appendage","Cardiac / Skeletal Muscle",318,0.024868
+"Male","SERPINB3","Heart Left Ventricle","Cardiac / Skeletal Muscle",308,0
+"Male","SERPINB3","Liver","Hepatic / Hepatobiliary",184,0.0566695
+"Male","SERPINB3","Lung","Respiratory",414,0.281852
+"Male","SERPINB3","Muscle Skeletal","Cardiac / Skeletal Muscle",552,0.01969
+"Male","SERPINB3","Pancreas","Gastrointestinal",223,0.057255
+"Male","SERPINB3","Small Intestine Terminal Ileum","Gastrointestinal",135,0.084255
+"Male","SERPINB3","Testis","Reproductive",414,3.533595
+"Male","SERPINB3","Whole Blood","Blood / Circulating",541,0
+"Male","SERPINB4","Adipose Subcutaneous","Adipose / Metabolic",481,0
+"Male","SERPINB4","Adipose Visceral Omentum","Adipose / Metabolic",407,0
+"Male","SERPINB4","Artery Aorta","Vascular / Smooth Muscle",308,0
+"Male","SERPINB4","Artery Coronary","Vascular / Smooth Muscle",168,0
+"Male","SERPINB4","Artery Tibial","Vascular / Smooth Muscle",471,0
+"Male","SERPINB4","Brain Hypothalamus","Neural / CNS",193,0
+"Male","SERPINB4","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",212,0
+"Male","SERPINB4","Brain Spinal Cord Cervical C-1","Neural / CNS",136,0
+"Male","SERPINB4","Heart Atrial Appendage","Cardiac / Skeletal Muscle",318,0
+"Male","SERPINB4","Heart Left Ventricle","Cardiac / Skeletal Muscle",308,0
+"Male","SERPINB4","Liver","Hepatic / Hepatobiliary",184,0
+"Male","SERPINB4","Lung","Respiratory",414,0.0531035
+"Male","SERPINB4","Muscle Skeletal","Cardiac / Skeletal Muscle",552,0
+"Male","SERPINB4","Pancreas","Gastrointestinal",223,0
+"Male","SERPINB4","Small Intestine Terminal Ileum","Gastrointestinal",135,0
+"Male","SERPINB4","Testis","Reproductive",414,0.4247085
+"Male","SERPINB4","Whole Blood","Blood / Circulating",541,0
+"Male","SERPINB9","Adipose Subcutaneous","Adipose / Metabolic",481,9.97841
+"Male","SERPINB9","Adipose Visceral Omentum","Adipose / Metabolic",407,21.4057
+"Male","SERPINB9","Artery Aorta","Vascular / Smooth Muscle",308,11.7971
+"Male","SERPINB9","Artery Coronary","Vascular / Smooth Muscle",168,16.83905
+"Male","SERPINB9","Artery Tibial","Vascular / Smooth Muscle",471,6.16437
+"Male","SERPINB9","Brain Hypothalamus","Neural / CNS",193,7.35138
+"Male","SERPINB9","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",212,4.4699
+"Male","SERPINB9","Brain Spinal Cord Cervical C-1","Neural / CNS",136,11.3199
+"Male","SERPINB9","Heart Atrial Appendage","Cardiac / Skeletal Muscle",318,8.545735
+"Male","SERPINB9","Heart Left Ventricle","Cardiac / Skeletal Muscle",308,3.084615
+"Male","SERPINB9","Liver","Hepatic / Hepatobiliary",184,4.00089
+"Male","SERPINB9","Lung","Respiratory",414,43.8476
+"Male","SERPINB9","Muscle Skeletal","Cardiac / Skeletal Muscle",552,1.37825
+"Male","SERPINB9","Pancreas","Gastrointestinal",223,1.44891
+"Male","SERPINB9","Small Intestine Terminal Ileum","Gastrointestinal",135,12.0358
+"Male","SERPINB9","Testis","Reproductive",414,20.7553
+"Male","SERPINB9","Whole Blood","Blood / Circulating",541,25.7735
+"Male","SERPINE1","Adipose Subcutaneous","Adipose / Metabolic",481,115.362
+"Male","SERPINE1","Adipose Visceral Omentum","Adipose / Metabolic",407,198.889
+"Male","SERPINE1","Artery Aorta","Vascular / Smooth Muscle",308,1130.3
+"Male","SERPINE1","Artery Coronary","Vascular / Smooth Muscle",168,611.319
+"Male","SERPINE1","Artery Tibial","Vascular / Smooth Muscle",471,581.051
+"Male","SERPINE1","Brain Hypothalamus","Neural / CNS",193,2.18163
+"Male","SERPINE1","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",212,0.938036
+"Male","SERPINE1","Brain Spinal Cord Cervical C-1","Neural / CNS",136,6.32367
+"Male","SERPINE1","Heart Atrial Appendage","Cardiac / Skeletal Muscle",318,38.07335
+"Male","SERPINE1","Heart Left Ventricle","Cardiac / Skeletal Muscle",308,11.83555
+"Male","SERPINE1","Liver","Hepatic / Hepatobiliary",184,47.03535
+"Male","SERPINE1","Lung","Respiratory",414,286.569
+"Male","SERPINE1","Muscle Skeletal","Cardiac / Skeletal Muscle",552,10.9323
+"Male","SERPINE1","Pancreas","Gastrointestinal",223,12.2966
+"Male","SERPINE1","Small Intestine Terminal Ileum","Gastrointestinal",135,13.73
+"Male","SERPINE1","Testis","Reproductive",414,9.96909
+"Male","SERPINE1","Whole Blood","Blood / Circulating",541,2.90949
+"Male","SERPINI1","Adipose Subcutaneous","Adipose / Metabolic",481,9.70451
+"Male","SERPINI1","Adipose Visceral Omentum","Adipose / Metabolic",407,7.8126
+"Male","SERPINI1","Artery Aorta","Vascular / Smooth Muscle",308,17.06995
+"Male","SERPINI1","Artery Coronary","Vascular / Smooth Muscle",168,15.11235
+"Male","SERPINI1","Artery Tibial","Vascular / Smooth Muscle",471,16.5935
+"Male","SERPINI1","Brain Hypothalamus","Neural / CNS",193,94.4724
+"Male","SERPINI1","Brain Nucleus Accumbens Basal Ganglia","Neural / CNS",212,74.32145
+"Male","SERPINI1","Brain Spinal Cord Cervical C-1","Neural / CNS",136,215.9465
+"Male","SERPINI1","Heart Atrial Appendage","Cardiac / Skeletal Muscle",318,2.17859
+"Male","SERPINI1","Heart Left Ventricle","Cardiac / Skeletal Muscle",308,2.66798
+"Male","SERPINI1","Liver","Hepatic / Hepatobiliary",184,0.697837
+"Male","SERPINI1","Lung","Respiratory",414,5.481815
+"Male","SERPINI1","Muscle Skeletal","Cardiac / Skeletal Muscle",552,1.337325
+"Male","SERPINI1","Pancreas","Gastrointestinal",223,11.9917
+"Male","SERPINI1","Small Intestine Terminal Ileum","Gastrointestinal",135,3.58633
+"Male","SERPINI1","Testis","Reproductive",414,14.8517
+"Male","SERPINI1","Whole Blood","Blood / Circulating",541,1.02024

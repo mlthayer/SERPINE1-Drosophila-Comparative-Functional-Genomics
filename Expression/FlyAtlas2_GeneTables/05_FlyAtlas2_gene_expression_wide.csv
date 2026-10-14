@@ -1,0 +1,127 @@
+Gene,FlyBase_ID,Annotation_Symbol,Gene_Name,Source_File,Tissue_Raw,Male_FPKM,Male_SD,Male_Enrichment,Female_FPKM,Female_SD,Female_Enrichment,Male_Female_Ratio,Male_Female_p,Larval_FPKM,Larval_SD,Larval_Enrichment,Adult_Tissue,Larval_Tissue
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Head,0.14,0.07,0,0.06,0.06,-1,1,n.s.,NA,NA,NA,Head,Head
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Eye,0.03,0.02,0,0.03,0.01,-1,1,n.s.,NA,NA,NA,Eye,Eye
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Brain / CNS,0.51,0.5,0,0.07,0.1,-1,1,n.s.,0,0,-1,Brain,CNS
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Thoracicoabdominal ganglion,0.29,0.23,0,0.08,0.06,-1,1,n.s.,NA,NA,NA,Thoracicoabdominal ganglion,Thoracicoabdominal ganglion
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Crop,0.89,0.92,0,0.06,0,-1,1,n.s.,NA,NA,NA,Crop,Crop
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Midgut,10.8,18.71,0.05,0.03,0.05,-1,5.4,n.s.,0.57,0.74,-1,Midgut,Midgut
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Hindgut,14.07,24.07,0.06,0.04,0.04,-1,7,n.s.,1.26,2.11,-1,Hindgut,Hindgut
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Malpighian Tubules,1.03,0.9,0,0.08,0.11,-1,1,n.s.,0,0,-1,Malpighian Tubules,Malpighian Tubules
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Rectal pad,0.22,0.06,0,6.3,8.39,3.15,0.32,n.s.,NA,NA,NA,Rectal pad,Rectal pad
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Salivary gland,2.14,1.42,0.01,0.02,0.03,-1,1.07,n.s.,0,0,-1,Salivary gland,Salivary gland
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Fat body,28.07,25.55,0.13,0,0,-1,14,n.s.,0,0,-1,Fat body,Fat body
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Heart,7.84,3.61,0.04,0.2,0.34,-1,3.9,n.s.,NA,NA,NA,Heart,Heart
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Trachea,NA,NA,NA,NA,NA,NA,NA,-,0,0,-1,Trachea,Trachea
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Ovary,NA,NA,NA,0.04,0.07,-1,NA,-,NA,NA,NA,Ovary,Ovary
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Virgin Spermatheca,NA,NA,NA,0,0,-1,NA,-,NA,NA,NA,Virgin Spermatheca,Virgin Spermatheca
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Mated Spermatheca,NA,NA,NA,0,0,-1,NA,-,NA,NA,NA,Mated Spermatheca,Mated Spermatheca
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Testis,77.1,6.54,0.35,NA,NA,NA,NA,-,NA,NA,NA,Testis,Testis
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Accessory glands,5920.82,NA,26.87,NA,NA,NA,NA,-,NA,NA,NA,Accessory glands,Accessory glands
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Carcass,37.89,21.45,0.17,0.12,0.08,-1,19,n.s.,0,0,-1,Carcass,Carcass
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Garland cells,NA,NA,NA,NA,NA,NA,NA,-,0,0,-1,Garland cells,Garland cells
+Spn28F,FBgn0028987,CG8137,Serpin 28F,FBgn0028987G.txt,Whole body,220.37,47.29,1,0.02,0.03,-1,110,p > 0.05,0,0,-1,Whole body,Whole body
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Head,39.81,1.04,1.05,38.18,3.4,4.5,1.04,n.s.,NA,NA,NA,Head,Head
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Eye,32.08,8.43,0.84,37.12,3.54,4.37,0.86,n.s.,NA,NA,NA,Eye,Eye
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Brain / CNS,3.59,0.77,0.09,4.42,1.14,0.52,0.81,n.s.,0.11,0.03,0.01,Brain,CNS
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Thoracicoabdominal ganglion,8.52,0.56,0.22,7.64,0.72,0.9,1.12,n.s.,NA,NA,NA,Thoracicoabdominal ganglion,Thoracicoabdominal ganglion
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Crop,31.16,3.67,0.82,33.69,7.32,3.97,0.92,n.s.,NA,NA,NA,Crop,Crop
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Midgut,2.17,1.53,0.06,0.55,0.25,0.06,1.08,n.s.,0.68,0.12,0.07,Midgut,Midgut
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Hindgut,18.77,2.12,0.49,25.37,1.66,2.99,0.74,p > 0.05,10.21,2.62,1.09,Hindgut,Hindgut
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Malpighian Tubules,2.9,0.73,0.08,2.46,0.11,0.29,1.18,n.s.,0.49,0.39,0.05,Malpighian Tubules,Malpighian Tubules
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Rectal pad,24.06,0.76,0.63,30.74,3.37,3.62,0.78,n.s.,NA,NA,NA,Rectal pad,Rectal pad
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Salivary gland,15.62,0.55,0.41,8.36,1.51,0.98,1.87,n.s.,1.1,0.91,0.12,Salivary gland,Salivary gland
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Fat body,27.83,2.74,0.73,30.86,1.11,3.63,0.9,n.s.,16.8,13.73,1.8,Fat body,Fat body
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Heart,38.84,9.69,1.02,27.5,9.92,3.24,1.41,n.s.,NA,NA,NA,Heart,Heart
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Trachea,NA,NA,NA,NA,NA,NA,NA,-,4.26,1.23,0.46,Trachea,Trachea
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Ovary,NA,NA,NA,0.49,0.13,0.06,NA,-,NA,NA,NA,Ovary,Ovary
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Virgin Spermatheca,NA,NA,NA,15.63,3.89,1.84,NA,-,NA,NA,NA,Virgin Spermatheca,Virgin Spermatheca
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Mated Spermatheca,NA,NA,NA,18.46,2.89,2.17,NA,-,NA,NA,NA,Mated Spermatheca,Mated Spermatheca
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Testis,7.36,0.58,0.19,NA,NA,NA,NA,-,NA,NA,NA,Testis,Testis
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Accessory glands,459.74,24.42,12.09,NA,NA,NA,NA,-,NA,NA,NA,Accessory glands,Accessory glands
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Carcass,45.2,6.96,1.19,39.07,11.76,4.6,1.16,n.s.,1.05,0.26,0.11,Carcass,Carcass
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Garland cells,NA,NA,NA,NA,NA,NA,NA,-,4.94,3.67,0.53,Garland cells,Garland cells
+Spn42Dd,FBgn0028988,CG9456,Serpin 42Dd,FBgn0028988G (1).txt,Whole body,38.02,4.87,1,8.49,1.52,1,4.5,p > 0.01,9.35,4.18,1,Whole body,Whole body
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Head,0.1,0.13,-1,0.15,0.13,-1,1,n.s.,NA,NA,NA,Head,Head
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Eye,0.09,0.03,-1,0.18,0.01,-1,1,n.s.,NA,NA,NA,Eye,Eye
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Brain / CNS,0.06,0.03,-1,0.09,0.03,-1,1,n.s.,0.21,0.14,0.05,Brain,CNS
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Thoracicoabdominal ganglion,0.13,0.08,-1,0.08,0.01,-1,1,n.s.,NA,NA,NA,Thoracicoabdominal ganglion,Thoracicoabdominal ganglion
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Crop,0.05,0.02,-1,0,0,-1,1,n.s.,NA,NA,NA,Crop,Crop
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Midgut,0.04,0.07,-1,0.14,0.13,-1,1,n.s.,0.73,1.01,0.18,Midgut,Midgut
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Hindgut,0.22,0.13,-1,0.1,0.05,-1,1,n.s.,0.2,0.08,0.05,Hindgut,Hindgut
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Malpighian Tubules,0.46,0.19,-1,0.35,0.23,-1,1,n.s.,1.37,0.27,0.34,Malpighian Tubules,Malpighian Tubules
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Rectal pad,0.07,0.07,-1,0.11,0.15,-1,1,n.s.,NA,NA,NA,Rectal pad,Rectal pad
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Salivary gland,0,0,-1,0,0,-1,1,n.s.,1.07,0.56,0.26,Salivary gland,Salivary gland
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Fat body,0.26,0.44,-1,0.27,0.26,-1,1,n.s.,22.9,6.95,5.65,Fat body,Fat body
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Heart,0.66,0.17,-1,0.2,0.13,-1,1,p > 0.05,NA,NA,NA,Heart,Heart
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Trachea,NA,NA,NA,NA,NA,NA,NA,-,0.34,0.47,0.08,Trachea,Trachea
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Ovary,NA,NA,NA,0.1,0.11,-1,NA,-,NA,NA,NA,Ovary,Ovary
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Virgin Spermatheca,NA,NA,NA,0,0,-1,NA,-,NA,NA,NA,Virgin Spermatheca,Virgin Spermatheca
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Mated Spermatheca,NA,NA,NA,0.06,0.1,-1,NA,-,NA,NA,NA,Mated Spermatheca,Mated Spermatheca
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Testis,11.3,1.01,5.65,NA,NA,NA,NA,-,NA,NA,NA,Testis,Testis
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Accessory glands,0.08,0.08,-1,NA,NA,NA,NA,-,NA,NA,NA,Accessory glands,Accessory glands
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Carcass,0.41,0.16,-1,0.27,0.24,-1,1,n.s.,0.43,0.22,0.11,Carcass,Carcass
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Garland cells,NA,NA,NA,NA,NA,NA,NA,-,0.95,0.79,0.23,Garland cells,Garland cells
+Spn42Db,FBgn0033112,CG9454,Serpin 42Db,FBgn0033112G.txt,Whole body,1.3,0.06,-1,0.06,0.05,-1,1,p > 0.01,4.05,1.56,1,Whole body,Whole body
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Head,0.82,0.06,0.12,0.93,0.35,-1,1,n.s.,NA,NA,NA,Head,Head
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Eye,0.52,0.28,0.08,0.6,0.07,-1,1,n.s.,NA,NA,NA,Eye,Eye
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Brain / CNS,0.16,0.03,0.02,0.12,0.02,-1,1,n.s.,0.42,0.1,0.02,Brain,CNS
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Thoracicoabdominal ganglion,0.33,0.06,0.05,0.29,0.04,-1,1,n.s.,NA,NA,NA,Thoracicoabdominal ganglion,Thoracicoabdominal ganglion
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Crop,5.09,0.37,0.77,2.88,0.19,1.44,1.77,p > 0.05,NA,NA,NA,Crop,Crop
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Midgut,21.17,0.29,3.2,14.68,1.53,7.34,1.44,p > 0.05,32.55,4.15,1.89,Midgut,Midgut
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Hindgut,2.86,0.48,0.43,3.19,0.09,1.59,0.9,n.s.,4.4,1.69,0.26,Hindgut,Hindgut
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Malpighian Tubules,40.94,9.14,6.19,38.4,3.54,19.2,1.07,n.s.,29.67,7.62,1.73,Malpighian Tubules,Malpighian Tubules
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Rectal pad,0.93,0.35,0.14,0.85,0.21,-1,1,n.s.,NA,NA,NA,Rectal pad,Rectal pad
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Salivary gland,1.11,0.31,0.17,0.09,0.01,-1,1,n.s.,2.15,0.88,0.13,Salivary gland,Salivary gland
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Fat body,0.67,0.3,0.1,0.36,0.07,-1,1,n.s.,37.06,1.88,2.16,Fat body,Fat body
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Heart,0.98,0.36,0.15,0.57,0.23,-1,1,n.s.,NA,NA,NA,Heart,Heart
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Trachea,NA,NA,NA,NA,NA,NA,NA,-,2.91,1.31,0.17,Trachea,Trachea
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Ovary,NA,NA,NA,0.07,0.07,-1,NA,-,NA,NA,NA,Ovary,Ovary
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Virgin Spermatheca,NA,NA,NA,12.17,4.77,6.08,NA,-,NA,NA,NA,Virgin Spermatheca,Virgin Spermatheca
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Mated Spermatheca,NA,NA,NA,9.15,1.3,4.58,NA,-,NA,NA,NA,Mated Spermatheca,Mated Spermatheca
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Testis,45.6,2.49,6.9,NA,NA,NA,NA,-,NA,NA,NA,Testis,Testis
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Accessory glands,2.27,0.51,0.34,NA,NA,NA,NA,-,NA,NA,NA,Accessory glands,Accessory glands
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Carcass,1.84,0.35,0.28,1.39,0.19,-1,1,n.s.,3.18,0.63,0.18,Carcass,Carcass
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Garland cells,NA,NA,NA,NA,NA,NA,NA,-,5.11,1.85,0.3,Garland cells,Garland cells
+Spn42Dc,FBgn0033113,CG9455,Serpin 42Dc,FBgn0033113G.txt,Whole body,6.61,1.01,1,1.21,0.13,-1,3.3,p > 0.05,17.19,2.29,1,Whole body,Whole body
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Head,0.07,0.07,0,0.18,0.06,-1,1,n.s.,NA,NA,NA,Head,Head
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Eye,0.05,0.04,0,0.06,0.01,-1,1,n.s.,NA,NA,NA,Eye,Eye
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Brain / CNS,0.1,0.05,0.01,0.05,0.04,-1,1,n.s.,0,0,-1,Brain,CNS
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Thoracicoabdominal ganglion,0.14,0.07,0.01,0.06,0.02,-1,1,n.s.,NA,NA,NA,Thoracicoabdominal ganglion,Thoracicoabdominal ganglion
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Crop,0.11,0.16,0.01,0,0,-1,1,n.s.,NA,NA,NA,Crop,Crop
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Midgut,1.75,3.04,0.1,0,0,-1,1,n.s.,0.05,0.09,-1,Midgut,Midgut
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Hindgut,2.09,3.46,0.11,0.03,0,-1,1.04,n.s.,0.07,0.06,-1,Hindgut,Hindgut
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Malpighian Tubules,0.06,0.1,0,0,0,-1,1,n.s.,0,0,-1,Malpighian Tubules,Malpighian Tubules
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Rectal pad,0.08,0.13,0,0.85,1,-1,1,n.s.,NA,NA,NA,Rectal pad,Rectal pad
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Salivary gland,0.24,0.08,0.01,0.05,0.07,-1,1,n.s.,0,0,-1,Salivary gland,Salivary gland
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Fat body,3.05,3.46,0.17,0.21,0.37,-1,1.52,n.s.,0.19,0.34,-1,Fat body,Fat body
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Heart,1.44,0.62,0.08,0.18,0.22,-1,1,n.s.,NA,NA,NA,Heart,Heart
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Trachea,NA,NA,NA,NA,NA,NA,NA,-,0.03,0.06,-1,Trachea,Trachea
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Ovary,NA,NA,NA,0.02,0.04,-1,NA,-,NA,NA,NA,Ovary,Ovary
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Virgin Spermatheca,NA,NA,NA,0,0,-1,NA,-,NA,NA,NA,Virgin Spermatheca,Virgin Spermatheca
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Mated Spermatheca,NA,NA,NA,0.16,0.29,-1,NA,-,NA,NA,NA,Mated Spermatheca,Mated Spermatheca
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Testis,7.48,1.42,0.41,NA,NA,NA,NA,-,NA,NA,NA,Testis,Testis
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Accessory glands,659.69,90.39,36.27,NA,NA,NA,NA,-,NA,NA,NA,Accessory glands,Accessory glands
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Carcass,3.86,1.87,0.21,0.15,0.06,-1,1.93,n.s.,0,0,-1,Carcass,Carcass
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Garland cells,NA,NA,NA,NA,NA,NA,NA,-,0,0,-1,Garland cells,Garland cells
+Spn28B,FBgn0083141,CG6717,Serpin 28B,FBgn0083141G.txt,Whole body,18.19,2.11,1,0.05,0.05,-1,9.1,p > 0.01,0,0,-1,Whole body,Whole body
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Head,27.89,3.14,1.18,34,11.52,2.27,0.82,n.s.,NA,NA,NA,Head,Head
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Eye,34.06,8.22,1.45,46.81,0.78,3.12,0.73,n.s.,NA,NA,NA,Eye,Eye
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Brain / CNS,7.32,0.26,0.31,7.41,0.67,0.49,0.99,n.s.,8.04,0.63,0.17,Brain,CNS
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Thoracicoabdominal ganglion,12.54,0.64,0.53,13.15,0.49,0.88,0.95,n.s.,NA,NA,NA,Thoracicoabdominal ganglion,Thoracicoabdominal ganglion
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Crop,18.63,3.21,0.79,20.14,5.2,1.34,0.93,n.s.,NA,NA,NA,Crop,Crop
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Midgut,41.04,7.92,1.74,68.74,2.48,4.59,0.6,p > 0.05,51.23,12.43,1.06,Midgut,Midgut
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Hindgut,15.66,2.28,0.66,23.46,2.38,1.57,0.67,p > 0.05,21.53,7.05,0.45,Hindgut,Hindgut
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Malpighian Tubules,15.31,2.29,0.65,12.89,0.81,0.86,1.19,n.s.,18.83,6.51,0.39,Malpighian Tubules,Malpighian Tubules
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Rectal pad,14.15,1.41,0.6,18.94,2.16,1.26,0.75,n.s.,NA,NA,NA,Rectal pad,Rectal pad
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Salivary gland,11.43,0.28,0.49,7.95,1.9,0.53,1.44,n.s.,25.41,2.24,0.53,Salivary gland,Salivary gland
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Fat body,45.9,6.03,1.95,44.7,4.7,2.98,1.03,n.s.,157.91,1.52,3.27,Fat body,Fat body
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Heart,63.83,7.4,2.71,49.73,14.94,3.32,1.28,n.s.,NA,NA,NA,Heart,Heart
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Trachea,NA,NA,NA,NA,NA,NA,NA,-,26.93,3.74,0.56,Trachea,Trachea
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Ovary,NA,NA,NA,7.43,0.54,0.5,NA,-,NA,NA,NA,Ovary,Ovary
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Virgin Spermatheca,NA,NA,NA,36.02,3.92,2.4,NA,-,NA,NA,NA,Virgin Spermatheca,Virgin Spermatheca
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Mated Spermatheca,NA,NA,NA,37.96,1.79,2.53,NA,-,NA,NA,NA,Mated Spermatheca,Mated Spermatheca
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Testis,21.65,2.6,0.92,NA,NA,NA,NA,-,NA,NA,NA,Testis,Testis
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Accessory glands,8,1.74,0.34,NA,NA,NA,NA,-,NA,NA,NA,Accessory glands,Accessory glands
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Carcass,48.77,1.84,2.07,58.93,15.41,3.93,0.83,n.s.,19.22,5.8,0.4,Carcass,Carcass
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Garland cells,NA,NA,NA,NA,NA,NA,NA,-,22.1,4.8,0.46,Garland cells,Garland cells
+Spn42Da,FBgn0265137,CG9453,Serpin 42Da,FBgn0265137G.txt,Whole body,23.55,4.19,1,14.98,3.34,1,1.57,n.s.,48.27,3.3,1,Whole body,Whole body

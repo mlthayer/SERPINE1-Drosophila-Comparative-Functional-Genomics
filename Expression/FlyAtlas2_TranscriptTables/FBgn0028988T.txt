@@ -1,0 +1,51 @@
+FlyBase ID	FBgn0028988
+Annotation Symbol	CG9456
+Symbol	Spn42Dd
+Name	Serpin 42Dd
+
+		RB/FBtr0300357		
+		FPKM	SD	
+Adult Male	Head	39.81	1.04	
+Adult Male	Eye	32.08	8.43	
+Adult Male	Brain	3.59	0.77	
+Adult Male	Thoracicoabdominal ganglion	8.52	0.56	
+Adult Male	Crop	31.16	3.67	
+Adult Male	Midgut	2.17	1.53	
+Adult Male	Hindgut	18.77	2.12	
+Adult Male	Malpighian Tubules	2.9	0.73	
+Adult Male	Rectal pad	24.06	0.76	
+Adult Male	Salivary gland	15.62	0.55	
+Adult Male	Fat body	27.83	2.74	
+Adult Male	Heart	38.84	9.69	
+Adult Male	Testis	7.36	0.58	
+Adult Male	Accessory glands	459.74	24.42	
+Adult Male	Carcass	45.2	6.96	
+Adult Male	Whole body	38.02	4.87	
+Adult Female	Head	38.18	3.4	
+Adult Female	Eye	37.12	3.54	
+Adult Female	Brain	4.42	1.14	
+Adult Female	Thoracicoabdominal ganglion	7.64	0.72	
+Adult Female	Crop	33.69	7.32	
+Adult Female	Midgut	0.55	0.25	
+Adult Female	Hindgut	25.37	1.66	
+Adult Female	Malpighian Tubules	2.46	0.11	
+Adult Female	Rectal pad	30.74	3.37	
+Adult Female	Salivary gland	8.36	1.51	
+Adult Female	Fat body	30.86	1.11	
+Adult Female	Heart	27.5	9.92	
+Adult Female	Ovary	0.49	0.13	
+Adult Female	Virgin Spermatheca	15.63	3.89	
+Adult Female	Mated Spermatheca	18.46	2.89	
+Adult Female	Carcass	39.07	11.76	
+Adult Female	Whole body	8.49	1.52	
+Larval	CNS	0.11	0.03	
+Larval	Midgut	0.68	0.12	
+Larval	Hindgut	10.21	2.62	
+Larval	Malpighian Tubules	0.49	0.39	
+Larval	Salivary gland	1.1	0.91	
+Larval	Fat body	16.8	13.73	
+Larval	Trachea	4.26	1.23	
+Larval	Carcass	1.05	0.26	
+Larval	Garland cells	4.94	3.67	
+Larval	Whole body	9.35	4.18	
+

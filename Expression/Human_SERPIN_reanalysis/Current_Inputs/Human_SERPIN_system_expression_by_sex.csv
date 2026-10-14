@@ -1,0 +1,229 @@
+"Sex","Gene","Biological_System","Median_TPM","N_Tissues","Dataset","log2_Median_TPM"
+"Female","SERPINB11","Adipose / Metabolic",0,2,"GTEx",0
+"Female","SERPINB11","Blood / Circulating",0,1,"GTEx",0
+"Female","SERPINB11","Cardiac / Skeletal Muscle",0,3,"GTEx",0
+"Female","SERPINB11","Gastrointestinal",0,2,"GTEx",0
+"Female","SERPINB11","Hepatic / Hepatobiliary",0,1,"GTEx",0
+"Female","SERPINB11","Neural / CNS",0,3,"GTEx",0
+"Female","SERPINB11","Reproductive",0,1,"GTEx",0
+"Female","SERPINB11","Respiratory",0.0652825,1,"GTEx",0.0912360664174139
+"Female","SERPINB11","Vascular / Smooth Muscle",0,3,"GTEx",0
+"Female","SERPINB3","Adipose / Metabolic",0.023681,2,"GTEx",0.0337662120004629
+"Female","SERPINB3","Blood / Circulating",0,1,"GTEx",0
+"Female","SERPINB3","Cardiac / Skeletal Muscle",0.030643,3,"GTEx",0.0435446902997024
+"Female","SERPINB3","Gastrointestinal",0.070114,2,"GTEx",0.097764496134782
+"Female","SERPINB3","Hepatic / Hepatobiliary",0.076624,1,"GTEx",0.106514491249336
+"Female","SERPINB3","Neural / CNS",0,3,"GTEx",0
+"Female","SERPINB3","Reproductive",0.11269,1,"GTEx",0.154051707902057
+"Female","SERPINB3","Respiratory",0.4248535,1,"GTEx",0.510813592478352
+"Female","SERPINB3","Vascular / Smooth Muscle",0.066877,3,"GTEx",0.0933938577754526
+"Female","SERPINB4","Adipose / Metabolic",0,2,"GTEx",0
+"Female","SERPINB4","Blood / Circulating",0,1,"GTEx",0
+"Female","SERPINB4","Cardiac / Skeletal Muscle",0,3,"GTEx",0
+"Female","SERPINB4","Gastrointestinal",0,2,"GTEx",0
+"Female","SERPINB4","Hepatic / Hepatobiliary",0,1,"GTEx",0
+"Female","SERPINB4","Neural / CNS",0,3,"GTEx",0
+"Female","SERPINB4","Reproductive",0,1,"GTEx",0
+"Female","SERPINB4","Respiratory",0.0760015,1,"GTEx",0.105680089085107
+"Female","SERPINB4","Vascular / Smooth Muscle",0,3,"GTEx",0
+"Female","SERPINB9","Adipose / Metabolic",14.43283,2,"GTEx",3.94793073570709
+"Female","SERPINB9","Blood / Circulating",22.2031,1,"GTEx",4.53624566126839
+"Female","SERPINB9","Cardiac / Skeletal Muscle",2.88814,3,"GTEx",1.95908016690393
+"Female","SERPINB9","Gastrointestinal",8.252275,2,"GTEx",3.20980814699876
+"Female","SERPINB9","Hepatic / Hepatobiliary",4.87543,1,"GTEx",2.55469444081231
+"Female","SERPINB9","Neural / CNS",7.270735,3,"GTEx",3.04801554387502
+"Female","SERPINB9","Reproductive",5.99401,1,"GTEx",2.80611985879515
+"Female","SERPINB9","Respiratory",37.82,1,"GTEx",5.27872821293894
+"Female","SERPINB9","Vascular / Smooth Muscle",11.0181,3,"GTEx",3.58713692627383
+"Female","SERPINE1","Adipose / Metabolic",122.1689,2,"GTEx",6.94449421301671
+"Female","SERPINE1","Blood / Circulating",2.50532,1,"GTEx",1.80954615360534
+"Female","SERPINE1","Cardiac / Skeletal Muscle",12.45875,3,"GTEx",3.75047251876251
+"Female","SERPINE1","Gastrointestinal",11.2255,2,"GTEx",3.61182156479038
+"Female","SERPINE1","Hepatic / Hepatobiliary",78.648,1,"GTEx",6.31556623031895
+"Female","SERPINE1","Neural / CNS",2.6412,3,"GTEx",1.86441398579307
+"Female","SERPINE1","Reproductive",76.0248,1,"GTEx",6.26725112610353
+"Female","SERPINE1","Respiratory",262.483,1,"GTEx",8.04156607153519
+"Female","SERPINE1","Vascular / Smooth Muscle",398.264,3,"GTEx",8.64119918570542
+"Female","SERPINI1","Adipose / Metabolic",7.602075,2,"GTEx",3.10468470994524
+"Female","SERPINI1","Blood / Circulating",1.09926,1,"GTEx",1.06988086004644
+"Female","SERPINI1","Cardiac / Skeletal Muscle",2.05018,3,"GTEx",1.60889438282137
+"Female","SERPINI1","Gastrointestinal",7.619115,2,"GTEx",3.10753974278789
+"Female","SERPINI1","Hepatic / Hepatobiliary",0.878783,1,"GTEx",0.909798444670306
+"Female","SERPINI1","Neural / CNS",68.6718,3,"GTEx",6.12250293128858
+"Female","SERPINI1","Reproductive",6.14115,1,"GTEx",2.83615642239169
+"Female","SERPINI1","Respiratory",4.802785,1,"GTEx",2.5367454763357
+"Female","SERPINI1","Vascular / Smooth Muscle",14.9777,3,"GTEx",3.99798784123767
+"Male","SERPINB11","Adipose / Metabolic",0,2,"GTEx",0
+"Male","SERPINB11","Blood / Circulating",0,1,"GTEx",0
+"Male","SERPINB11","Cardiac / Skeletal Muscle",0,3,"GTEx",0
+"Male","SERPINB11","Gastrointestinal",0,2,"GTEx",0
+"Male","SERPINB11","Hepatic / Hepatobiliary",0,1,"GTEx",0
+"Male","SERPINB11","Neural / CNS",0,3,"GTEx",0
+"Male","SERPINB11","Reproductive",0.302034,1,"GTEx",0.380767122075701
+"Male","SERPINB11","Respiratory",0.059457,1,"GTEx",0.0833250344815211
+"Male","SERPINB11","Vascular / Smooth Muscle",0,3,"GTEx",0
+"Male","SERPINB3","Adipose / Metabolic",0.0255905,2,"GTEx",0.0364548035100431
+"Male","SERPINB3","Blood / Circulating",0,1,"GTEx",0
+"Male","SERPINB3","Cardiac / Skeletal Muscle",0.01969,3,"GTEx",0.0281306194137311
+"Male","SERPINB3","Gastrointestinal",0.070755,2,"GTEx",0.098628414056751
+"Male","SERPINB3","Hepatic / Hepatobiliary",0.0566695,1,"GTEx",0.0795242080635284
+"Male","SERPINB3","Neural / CNS",0,3,"GTEx",0
+"Male","SERPINB3","Reproductive",3.533595,1,"GTEx",2.18065551644503
+"Male","SERPINB3","Respiratory",0.281852,1,"GTEx",0.358229700964609
+"Male","SERPINB3","Vascular / Smooth Muscle",0.048295,3,"GTEx",0.0680447618641378
+"Male","SERPINB4","Adipose / Metabolic",0,2,"GTEx",0
+"Male","SERPINB4","Blood / Circulating",0,1,"GTEx",0
+"Male","SERPINB4","Cardiac / Skeletal Muscle",0,3,"GTEx",0
+"Male","SERPINB4","Gastrointestinal",0,2,"GTEx",0
+"Male","SERPINB4","Hepatic / Hepatobiliary",0,1,"GTEx",0
+"Male","SERPINB4","Neural / CNS",0,3,"GTEx",0
+"Male","SERPINB4","Reproductive",0.4247085,1,"GTEx",0.51066676936581
+"Male","SERPINB4","Respiratory",0.0531035,1,"GTEx",0.0746472327538378
+"Male","SERPINB4","Vascular / Smooth Muscle",0,3,"GTEx",0
+"Male","SERPINB9","Adipose / Metabolic",15.692055,2,"GTEx",4.06108967426154
+"Male","SERPINB9","Blood / Circulating",25.7735,1,"GTEx",4.74273384434726
+"Male","SERPINB9","Cardiac / Skeletal Muscle",3.084615,3,"GTEx",2.0302001019287
+"Male","SERPINB9","Gastrointestinal",6.742355,2,"GTEx",2.95277245914117
+"Male","SERPINB9","Hepatic / Hepatobiliary",4.00089,1,"GTEx",2.32218487175218
+"Male","SERPINB9","Neural / CNS",7.35138,3,"GTEx",3.06201461131789
+"Male","SERPINB9","Reproductive",20.7553,1,"GTEx",4.44329500629709
+"Male","SERPINB9","Respiratory",43.8476,1,"GTEx",5.48695887689382
+"Male","SERPINB9","Vascular / Smooth Muscle",11.7971,3,"GTEx",3.67774500748467
+"Male","SERPINE1","Adipose / Metabolic",157.1255,2,"GTEx",7.30492623145601
+"Male","SERPINE1","Blood / Circulating",2.90949,1,"GTEx",1.96698041764508
+"Male","SERPINE1","Cardiac / Skeletal Muscle",11.83555,3,"GTEx",3.68207321123482
+"Male","SERPINE1","Gastrointestinal",13.0133,2,"GTEx",3.80872483174233
+"Male","SERPINE1","Hepatic / Hepatobiliary",47.03535,1,"GTEx",5.58602459446057
+"Male","SERPINE1","Neural / CNS",2.18163,3,"GTEx",1.66976607067768
+"Male","SERPINE1","Reproductive",9.96909,1,"GTEx",3.45537193904751
+"Male","SERPINE1","Respiratory",286.569,1,"GTEx",8.16776435109858
+"Male","SERPINE1","Vascular / Smooth Muscle",611.319,3,"GTEx",9.25813963977896
+"Male","SERPINI1","Adipose / Metabolic",8.758555,2,"GTEx",3.28666753624388
+"Male","SERPINI1","Blood / Circulating",1.02024,1,"GTEx",1.01452669210693
+"Male","SERPINI1","Cardiac / Skeletal Muscle",2.17859,3,"GTEx",1.66838693811362
+"Male","SERPINI1","Gastrointestinal",7.789015,2,"GTEx",3.13570148911813
+"Male","SERPINI1","Hepatic / Hepatobiliary",0.697837,1,"GTEx",0.763697960316464
+"Male","SERPINI1","Neural / CNS",94.4724,3,"GTEx",6.57701182135409
+"Male","SERPINI1","Reproductive",14.8517,1,"GTEx",3.98656566396198
+"Male","SERPINI1","Respiratory",5.481815,1,"GTEx",2.69639784472373
+"Male","SERPINI1","Vascular / Smooth Muscle",16.5935,3,"GTEx",4.13697061182743
+"Female","SERPINB11","Adipose / Metabolic",0,1,"HPA",0
+"Female","SERPINB11","Blood / Circulating",0.694612,1,"HPA",0.760954990321372
+"Female","SERPINB11","Cardiac / Skeletal Muscle",0.0364075,2,"HPA",0.0515913607827638
+"Female","SERPINB11","Gastrointestinal",0.07764925,6,"HPA",0.107887690496314
+"Female","SERPINB11","Hepatic / Hepatobiliary",0,2,"HPA",0
+"Female","SERPINB11","Immune / Lymphoid",0.225884,4,"HPA",0.293822469614001
+"Female","SERPINB11","Neural / CNS",0.091053,2,"HPA",0.125721185052879
+"Female","SERPINB11","Renal / Excretory",3.78807275,2,"HPA",2.25944507276322
+"Female","SERPINB11","Reproductive",0.1270025,6,"HPA",0.172490715806143
+"Female","SERPINB11","Respiratory",0.2953685,1,"HPA",0.373362567021652
+"Female","SERPINB11","Vascular / Smooth Muscle",0,1,"HPA",0
+"Female","SERPINB3","Adipose / Metabolic",0,1,"HPA",0
+"Female","SERPINB3","Blood / Circulating",0.0396945,1,"HPA",0.0561596744415128
+"Female","SERPINB3","Cardiac / Skeletal Muscle",0,2,"HPA",0
+"Female","SERPINB3","Gastrointestinal",0,6,"HPA",0
+"Female","SERPINB3","Hepatic / Hepatobiliary",0,2,"HPA",0
+"Female","SERPINB3","Immune / Lymphoid",4.33793075,4,"HPA",2.41628058924166
+"Female","SERPINB3","Neural / CNS",0,2,"HPA",0
+"Female","SERPINB3","Renal / Excretory",37.06137,2,"HPA",5.25025558652121
+"Female","SERPINB3","Reproductive",0.0332845,6,"HPA",0.0472375341919832
+"Female","SERPINB3","Respiratory",0.586897,1,"HPA",0.666208490862707
+"Female","SERPINB3","Vascular / Smooth Muscle",0,1,"HPA",0
+"Female","SERPINB4","Adipose / Metabolic",0,1,"HPA",0
+"Female","SERPINB4","Blood / Circulating",0,1,"HPA",0
+"Female","SERPINB4","Cardiac / Skeletal Muscle",0,2,"HPA",0
+"Female","SERPINB4","Gastrointestinal",0,6,"HPA",0
+"Female","SERPINB4","Hepatic / Hepatobiliary",0.025677,2,"HPA",0.036576477666252
+"Female","SERPINB4","Immune / Lymphoid",3.0828465,4,"HPA",2.02957532855948
+"Female","SERPINB4","Neural / CNS",0,2,"HPA",0
+"Female","SERPINB4","Renal / Excretory",13.6852825,2,"HPA",3.876299113865
+"Female","SERPINB4","Reproductive",0.05888625,6,"HPA",0.082547617304666
+"Female","SERPINB4","Respiratory",0,1,"HPA",0
+"Female","SERPINB4","Vascular / Smooth Muscle",0,1,"HPA",0
+"Female","SERPINB9","Adipose / Metabolic",5.39057,1,"HPA",2.6759446165398
+"Female","SERPINB9","Blood / Circulating",9.94228,1,"HPA",3.45184147305215
+"Female","SERPINB9","Cardiac / Skeletal Muscle",1.818199,2,"HPA",1.49477348750866
+"Female","SERPINB9","Gastrointestinal",4.9563275,6,"HPA",2.57442308058829
+"Female","SERPINB9","Hepatic / Hepatobiliary",18.4768125,2,"HPA",4.28368568572055
+"Female","SERPINB9","Immune / Lymphoid",41.4277,4,"HPA",5.4069345673286
+"Female","SERPINB9","Neural / CNS",4.355895,2,"HPA",2.42112767752851
+"Female","SERPINB9","Renal / Excretory",15.66413,2,"HPA",4.05867409415675
+"Female","SERPINB9","Reproductive",6.9626025,6,"HPA",2.99324003883392
+"Female","SERPINB9","Respiratory",16.6469,1,"HPA",4.14134286493174
+"Female","SERPINB9","Vascular / Smooth Muscle",6.47131,1,"HPA",2.90136122357758
+"Female","SERPINE1","Adipose / Metabolic",16.9346,1,"HPA",4.16467366374278
+"Female","SERPINE1","Blood / Circulating",0.795054,1,"HPA",0.844027244806206
+"Female","SERPINE1","Cardiac / Skeletal Muscle",3.113894,2,"HPA",2.04050462136783
+"Female","SERPINE1","Gastrointestinal",6.659115,6,"HPA",2.93717770039126
+"Female","SERPINE1","Hepatic / Hepatobiliary",734.477525,2,"HPA",9.52253744550845
+"Female","SERPINE1","Immune / Lymphoid",6.74264,4,"HPA",2.95282556449725
+"Female","SERPINE1","Neural / CNS",5.524405,2,"HPA",2.70584633958449
+"Female","SERPINE1","Renal / Excretory",336.73815,2,"HPA",8.399761341306
+"Female","SERPINE1","Reproductive",17.39575,6,"HPA",4.20130059148763
+"Female","SERPINE1","Respiratory",17.44375,1,"HPA",4.20506011054465
+"Female","SERPINE1","Vascular / Smooth Muscle",78.9494,1,"HPA",6.32101530157267
+"Female","SERPINI1","Adipose / Metabolic",11.552889,1,"HPA",3.64994752809272
+"Female","SERPINI1","Blood / Circulating",1.102682,1,"HPA",1.0722306799732
+"Female","SERPINI1","Cardiac / Skeletal Muscle",6.43488,2,"HPA",2.89430945716646
+"Female","SERPINI1","Gastrointestinal",6.2536745,6,"HPA",2.85871200753979
+"Female","SERPINI1","Hepatic / Hepatobiliary",5.61598075,2,"HPA",2.72595503681875
+"Female","SERPINI1","Immune / Lymphoid",6.29585875,4,"HPA",2.86707779876703
+"Female","SERPINI1","Neural / CNS",70.931998,2,"HPA",6.16856177218359
+"Female","SERPINI1","Renal / Excretory",16.7336275,2,"HPA",4.14841577161849
+"Female","SERPINI1","Reproductive",11.9896925,6,"HPA",3.69929537371196
+"Female","SERPINI1","Respiratory",11.2515605,1,"HPA",3.61489361409299
+"Female","SERPINI1","Vascular / Smooth Muscle",10.334194,1,"HPA",3.50260989632803
+"Male","SERPINB11","Blood / Circulating",0.0666365,1,"HPA",0.0930686025953907
+"Male","SERPINB11","Cardiac / Skeletal Muscle",0.0387485,2,"HPA",0.0548463936799773
+"Male","SERPINB11","Gastrointestinal",0.035916,8,"HPA",0.0509070230083842
+"Male","SERPINB11","Hepatic / Hepatobiliary",0.2641765,2,"HPA",0.338197901725624
+"Male","SERPINB11","Immune / Lymphoid",0.0652445,4,"HPA",0.0911846027076749
+"Male","SERPINB11","Neural / CNS",0.0841975,2,"HPA",0.116627585397531
+"Male","SERPINB11","Renal / Excretory",1.8735035,2,"HPA",1.52281080641347
+"Male","SERPINB11","Reproductive",0.697355,3,"HPA",0.763288334578432
+"Male","SERPINB11","Respiratory",0.032043,1,"HPA",0.0455030818022329
+"Male","SERPINB3","Blood / Circulating",0,1,"HPA",0
+"Male","SERPINB3","Cardiac / Skeletal Muscle",0,2,"HPA",0
+"Male","SERPINB3","Gastrointestinal",0,8,"HPA",0
+"Male","SERPINB3","Hepatic / Hepatobiliary",0.26292175,2,"HPA",0.336765253231397
+"Male","SERPINB3","Immune / Lymphoid",2.53812,4,"HPA",1.82298297976071
+"Male","SERPINB3","Neural / CNS",0.01057725,2,"HPA",0.0151796076475533
+"Male","SERPINB3","Renal / Excretory",45.13623025,2,"HPA",5.52782822240596
+"Male","SERPINB3","Reproductive",1.89731,3,"HPA",1.53471405517637
+"Male","SERPINB3","Respiratory",0.167836,1,"HPA",0.223837689800964
+"Male","SERPINB4","Blood / Circulating",0,1,"HPA",0
+"Male","SERPINB4","Cardiac / Skeletal Muscle",0,2,"HPA",0
+"Male","SERPINB4","Gastrointestinal",0,8,"HPA",0
+"Male","SERPINB4","Hepatic / Hepatobiliary",0.014545,2,"HPA",0.0208328570482749
+"Male","SERPINB4","Immune / Lymphoid",1.2119885,4,"HPA",1.14534388510422
+"Male","SERPINB4","Neural / CNS",0.06895,2,"HPA",0.0961943727599331
+"Male","SERPINB4","Renal / Excretory",10.55801575,2,"HPA",3.5308218358619
+"Male","SERPINB4","Reproductive",0.162183,3,"HPA",0.216837256698836
+"Male","SERPINB4","Respiratory",0,1,"HPA",0
+"Male","SERPINB9","Blood / Circulating",12.40357,1,"HPA",3.74454540417754
+"Male","SERPINB9","Cardiac / Skeletal Muscle",2.4492725,2,"HPA",1.78629210933486
+"Male","SERPINB9","Gastrointestinal",5.34552,8,"HPA",2.66573839427628
+"Male","SERPINB9","Hepatic / Hepatobiliary",9.9317275,2,"HPA",3.45044949761281
+"Male","SERPINB9","Immune / Lymphoid",34.402125,4,"HPA",5.14576405505299
+"Male","SERPINB9","Neural / CNS",5.95719,2,"HPA",2.79850472106654
+"Male","SERPINB9","Renal / Excretory",6.319405,2,"HPA",2.87172637549859
+"Male","SERPINB9","Reproductive",5.31007,3,"HPA",2.65765600965992
+"Male","SERPINB9","Respiratory",18.4462,1,"HPA",4.28141635926256
+"Male","SERPINE1","Blood / Circulating",1.21293,1,"HPA",1.14595781614114
+"Male","SERPINE1","Cardiac / Skeletal Muscle",2.23339875,2,"HPA",1.69305143482992
+"Male","SERPINE1","Gastrointestinal",13.3042425,8,"HPA",3.83837119475542
+"Male","SERPINE1","Hepatic / Hepatobiliary",155.67205,2,"HPA",7.29160401844941
+"Male","SERPINE1","Immune / Lymphoid",14.9241925,4,"HPA",3.99314831158982
+"Male","SERPINE1","Neural / CNS",12.3498875,2,"HPA",3.73875567920649
+"Male","SERPINE1","Renal / Excretory",76.524625,2,"HPA",6.27658273717707
+"Male","SERPINE1","Reproductive",8.42598,3,"HPA",3.23664262025297
+"Male","SERPINE1","Respiratory",17.337,1,"HPA",4.19668572296163
+"Male","SERPINI1","Blood / Circulating",1.8466275,1,"HPA",1.5092537192612
+"Male","SERPINI1","Cardiac / Skeletal Muscle",2.0895535,2,"HPA",1.62739835596767
+"Male","SERPINI1","Gastrointestinal",4.98898925,8,"HPA",2.5823125427378
+"Male","SERPINI1","Hepatic / Hepatobiliary",5.85781325,2,"HPA",2.77774861775163
+"Male","SERPINI1","Immune / Lymphoid",6.67415275,4,"HPA",2.94000748131734
+"Male","SERPINI1","Neural / CNS",210.847756,2,"HPA",7.72688403679223
+"Male","SERPINI1","Renal / Excretory",22.47049475,2,"HPA",4.55277634858689
+"Male","SERPINI1","Reproductive",13.314039,3,"HPA",3.83935891042382
+"Male","SERPINI1","Respiratory",7.635275,1,"HPA",3.11024212272453

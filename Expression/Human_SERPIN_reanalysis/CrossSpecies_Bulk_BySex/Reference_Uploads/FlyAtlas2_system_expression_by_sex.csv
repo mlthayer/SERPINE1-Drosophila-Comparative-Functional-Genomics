@@ -1,0 +1,85 @@
+Sex,Gene,System,N_Source_Tissues,Median_FPKM,Mean_FPKM
+Female,Spn28B,Digestive,3,0,0.01
+Female,Spn28B,Heart,1,0.18,0.18
+Female,Spn28B,Liver-metabolic,1,0.21,0.21
+Female,Spn28B,Ovary,1,0.02,0.02
+Female,Spn28B,Renal/excretory,1,0,0
+Female,Spn28B,Sensory/neural,3,0.06,0.09666666666666666
+Female,Spn28B,Skeletal muscle,1,0.15,0.15
+Female,Spn28F,Digestive,3,0.04,0.043333333333333335
+Female,Spn28F,Heart,1,0.2,0.2
+Female,Spn28F,Liver-metabolic,1,0,0
+Female,Spn28F,Ovary,1,0.04,0.04
+Female,Spn28F,Renal/excretory,1,0.08,0.08
+Female,Spn28F,Sensory/neural,3,0.06,0.05333333333333334
+Female,Spn28F,Skeletal muscle,1,0.12,0.12
+Female,Spn42Da,Digestive,3,23.46,37.446666666666665
+Female,Spn42Da,Heart,1,49.73,49.73
+Female,Spn42Da,Liver-metabolic,1,44.7,44.7
+Female,Spn42Da,Ovary,1,7.43,7.43
+Female,Spn42Da,Renal/excretory,1,12.89,12.89
+Female,Spn42Da,Sensory/neural,3,34,29.406666666666666
+Female,Spn42Da,Skeletal muscle,1,58.93,58.93
+Female,Spn42Db,Digestive,3,0.1,0.08
+Female,Spn42Db,Heart,1,0.2,0.2
+Female,Spn42Db,Liver-metabolic,1,0.27,0.27
+Female,Spn42Db,Ovary,1,0.1,0.1
+Female,Spn42Db,Renal/excretory,1,0.35,0.35
+Female,Spn42Db,Sensory/neural,3,0.15,0.13999999999999999
+Female,Spn42Db,Skeletal muscle,1,0.27,0.27
+Female,Spn42Dc,Digestive,3,3.19,6.916666666666666
+Female,Spn42Dc,Heart,1,0.57,0.57
+Female,Spn42Dc,Liver-metabolic,1,0.36,0.36
+Female,Spn42Dc,Ovary,1,0.07,0.07
+Female,Spn42Dc,Renal/excretory,1,38.4,38.4
+Female,Spn42Dc,Sensory/neural,3,0.6,0.55
+Female,Spn42Dc,Skeletal muscle,1,1.39,1.39
+Female,Spn42Dd,Digestive,3,25.37,19.87
+Female,Spn42Dd,Heart,1,27.5,27.5
+Female,Spn42Dd,Liver-metabolic,1,30.86,30.86
+Female,Spn42Dd,Ovary,1,0.49,0.49
+Female,Spn42Dd,Renal/excretory,1,2.46,2.46
+Female,Spn42Dd,Sensory/neural,3,37.12,26.57333333333333
+Female,Spn42Dd,Skeletal muscle,1,39.07,39.07
+Male,Spn28B,Digestive,3,1.75,1.3166666666666667
+Male,Spn28B,Heart,1,1.44,1.44
+Male,Spn28B,Liver-metabolic,1,3.05,3.05
+Male,Spn28B,Male reproductive,1,659.69,659.69
+Male,Spn28B,Renal/excretory,1,0.06,0.06
+Male,Spn28B,Sensory/neural,3,0.07,0.07333333333333333
+Male,Spn28B,Skeletal muscle,1,3.86,3.86
+Male,Spn28F,Digestive,3,10.8,8.586666666666668
+Male,Spn28F,Heart,1,7.84,7.84
+Male,Spn28F,Liver-metabolic,1,28.07,28.07
+Male,Spn28F,Male reproductive,1,5920.82,5920.82
+Male,Spn28F,Renal/excretory,1,1.03,1.03
+Male,Spn28F,Sensory/neural,3,0.14,0.22666666666666668
+Male,Spn28F,Skeletal muscle,1,37.89,37.89
+Male,Spn42Da,Digestive,3,18.63,25.11
+Male,Spn42Da,Heart,1,63.83,63.83
+Male,Spn42Da,Liver-metabolic,1,45.9,45.9
+Male,Spn42Da,Male reproductive,1,8,8
+Male,Spn42Da,Renal/excretory,1,15.31,15.31
+Male,Spn42Da,Sensory/neural,3,27.89,23.09
+Male,Spn42Da,Skeletal muscle,1,48.77,48.77
+Male,Spn42Db,Digestive,3,0.05,0.10333333333333333
+Male,Spn42Db,Heart,1,0.66,0.66
+Male,Spn42Db,Liver-metabolic,1,0.26,0.26
+Male,Spn42Db,Male reproductive,1,0.08,0.08
+Male,Spn42Db,Renal/excretory,1,0.46,0.46
+Male,Spn42Db,Sensory/neural,3,0.09,0.08333333333333333
+Male,Spn42Db,Skeletal muscle,1,0.41,0.41
+Male,Spn42Dc,Digestive,3,5.09,9.706666666666667
+Male,Spn42Dc,Heart,1,0.98,0.98
+Male,Spn42Dc,Liver-metabolic,1,0.67,0.67
+Male,Spn42Dc,Male reproductive,1,2.27,2.27
+Male,Spn42Dc,Renal/excretory,1,40.94,40.94
+Male,Spn42Dc,Sensory/neural,3,0.52,0.5
+Male,Spn42Dc,Skeletal muscle,1,1.84,1.84
+Male,Spn42Dd,Digestive,3,18.77,17.366666666666667
+Male,Spn42Dd,Heart,1,38.84,38.84
+Male,Spn42Dd,Liver-metabolic,1,27.83,27.83
+Male,Spn42Dd,Male reproductive,1,459.74,459.74
+Male,Spn42Dd,Renal/excretory,1,2.9,2.9
+Male,Spn42Dd,Sensory/neural,3,32.08,25.16
+Male,Spn42Dd,Skeletal muscle,1,45.2,45.2

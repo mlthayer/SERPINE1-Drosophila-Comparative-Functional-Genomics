@@ -1,0 +1,7 @@
+Gene,Display_Name,Accession,Species,P1_Position,P1,P1prime_Position,P1prime,P1_Alignment_Column,P1prime_Alignment_Column,Alignment_Bond_Position,P1_Offset_From_SERPINE1,P1prime_Offset_From_SERPINE1,Evidence_Class
+SERPINE1,SERPINE1,P05121,Human,369,R,370,M,418,419,418|419,0,0,validated
+SERPINB3,SERPINB3,P29508,Human,354,S,355,S,418,419,418|419,0,0,validated
+SERPINB4,SERPINB4,P48594,Human,354,L,355,S,418,419,418|419,0,0,validated
+SERPINB11,SERPINB11,Q96P15,Human,357,K,358,S,419,420,419|420,1,1,validated
+SERPINI1,SERPINI1,Q99574,Human,362,R,363,M,418,419,418|419,0,0,validated
+Spn42Da_B_A1Z6R1,Spn42Da-B (A1Z6R1),A1Z6R1,Drosophila,374,R,375,A,419,420,419|420,1,1,experimentally_characterized_literature_R342_A343_full_FASTA_R374_A375

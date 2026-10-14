@@ -1,0 +1,818 @@
+Gene,FlyBase_ID,Gene_Name,Source_File,Stage_Sex,Tissue,Transcript_Label,FlyBase_Transcript,FPKM,SD,Developmental_Stage,Sex
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Head,RA,FBtr0079624,0.14,0.07,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Eye,RA,FBtr0079624,0.03,0.02,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Brain,RA,FBtr0079624,0.51,0.5,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Thoracicoabdominal ganglion,RA,FBtr0079624,0.29,0.23,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Crop,RA,FBtr0079624,0.89,0.92,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Midgut,RA,FBtr0079624,10.8,18.71,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Hindgut,RA,FBtr0079624,14.07,24.07,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Malpighian Tubules,RA,FBtr0079624,1.03,0.9,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Rectal pad,RA,FBtr0079624,0.22,0.06,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Salivary gland,RA,FBtr0079624,2.14,1.42,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Fat body,RA,FBtr0079624,28.07,25.55,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Heart,RA,FBtr0079624,7.84,3.61,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Testis,RA,FBtr0079624,77.1,6.54,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Accessory glands,RA,FBtr0079624,5920.82,2239.77,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Carcass,RA,FBtr0079624,37.89,21.45,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Male,Whole body,RA,FBtr0079624,220.37,47.29,Adult,Male
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Head,RA,FBtr0079624,0.06,0.06,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Eye,RA,FBtr0079624,0.03,0.01,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Brain,RA,FBtr0079624,0.07,0.1,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Thoracicoabdominal ganglion,RA,FBtr0079624,0.08,0.06,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Crop,RA,FBtr0079624,0.06,0,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Midgut,RA,FBtr0079624,0.03,0.05,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Hindgut,RA,FBtr0079624,0.04,0.04,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Malpighian Tubules,RA,FBtr0079624,0.08,0.11,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Rectal pad,RA,FBtr0079624,6.3,8.39,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Salivary gland,RA,FBtr0079624,0.02,0.03,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Fat body,RA,FBtr0079624,0,0,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Heart,RA,FBtr0079624,0.2,0.34,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Ovary,RA,FBtr0079624,0.04,0.07,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Virgin Spermatheca,RA,FBtr0079624,0,0,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Mated Spermatheca,RA,FBtr0079624,0,0,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Carcass,RA,FBtr0079624,0.12,0.08,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Adult Female,Whole body,RA,FBtr0079624,0.02,0.03,Adult,Female
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,CNS,RA,FBtr0079624,0,0,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Midgut,RA,FBtr0079624,0.57,0.74,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Hindgut,RA,FBtr0079624,1.26,2.11,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Malpighian Tubules,RA,FBtr0079624,0,0,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Salivary gland,RA,FBtr0079624,0,0,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Fat body,RA,FBtr0079624,0,0,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Trachea,RA,FBtr0079624,0,0,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Carcass,RA,FBtr0079624,0,0,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Garland cells,RA,FBtr0079624,0,0,Larval,NA
+Spn28F,FBgn0028987,Serpin 28F,FBgn0028987T.txt,Larval,Whole body,RA,FBtr0079624,0,0,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Head,RB,FBtr0300357,39.81,1.04,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Eye,RB,FBtr0300357,32.08,8.43,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Brain,RB,FBtr0300357,3.59,0.77,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Thoracicoabdominal ganglion,RB,FBtr0300357,8.52,0.56,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Crop,RB,FBtr0300357,31.16,3.67,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Midgut,RB,FBtr0300357,2.17,1.53,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Hindgut,RB,FBtr0300357,18.77,2.12,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Malpighian Tubules,RB,FBtr0300357,2.9,0.73,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Rectal pad,RB,FBtr0300357,24.06,0.76,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Salivary gland,RB,FBtr0300357,15.62,0.55,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Fat body,RB,FBtr0300357,27.83,2.74,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Heart,RB,FBtr0300357,38.84,9.69,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Testis,RB,FBtr0300357,7.36,0.58,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Accessory glands,RB,FBtr0300357,459.74,24.42,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Carcass,RB,FBtr0300357,45.2,6.96,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Male,Whole body,RB,FBtr0300357,38.02,4.87,Adult,Male
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Head,RB,FBtr0300357,38.18,3.4,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Eye,RB,FBtr0300357,37.12,3.54,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Brain,RB,FBtr0300357,4.42,1.14,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Thoracicoabdominal ganglion,RB,FBtr0300357,7.64,0.72,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Crop,RB,FBtr0300357,33.69,7.32,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Midgut,RB,FBtr0300357,0.55,0.25,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Hindgut,RB,FBtr0300357,25.37,1.66,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Malpighian Tubules,RB,FBtr0300357,2.46,0.11,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Rectal pad,RB,FBtr0300357,30.74,3.37,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Salivary gland,RB,FBtr0300357,8.36,1.51,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Fat body,RB,FBtr0300357,30.86,1.11,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Heart,RB,FBtr0300357,27.5,9.92,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Ovary,RB,FBtr0300357,0.49,0.13,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Virgin Spermatheca,RB,FBtr0300357,15.63,3.89,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Mated Spermatheca,RB,FBtr0300357,18.46,2.89,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Carcass,RB,FBtr0300357,39.07,11.76,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Adult Female,Whole body,RB,FBtr0300357,8.49,1.52,Adult,Female
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,CNS,RB,FBtr0300357,0.11,0.03,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Midgut,RB,FBtr0300357,0.68,0.12,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Hindgut,RB,FBtr0300357,10.21,2.62,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Malpighian Tubules,RB,FBtr0300357,0.49,0.39,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Salivary gland,RB,FBtr0300357,1.1,0.91,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Fat body,RB,FBtr0300357,16.8,13.73,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Trachea,RB,FBtr0300357,4.26,1.23,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Carcass,RB,FBtr0300357,1.05,0.26,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Garland cells,RB,FBtr0300357,4.94,3.67,Larval,NA
+Spn42Dd,FBgn0028988,Serpin 42Dd,FBgn0028988T.txt,Larval,Whole body,RB,FBtr0300357,9.35,4.18,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Head,RC,FBtr0300358,0.08,0.14,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Head,RD,FBtr0310521,0.02,0.04,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Eye,RC,FBtr0300358,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Eye,RD,FBtr0310521,0.09,0.03,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Brain,RC,FBtr0300358,0.02,0.03,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Brain,RD,FBtr0310521,0.04,0.05,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Thoracicoabdominal ganglion,RC,FBtr0300358,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Thoracicoabdominal ganglion,RD,FBtr0310521,0.13,0.08,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Crop,RC,FBtr0300358,0.04,0.05,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Crop,RD,FBtr0310521,0.02,0.03,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Midgut,RC,FBtr0300358,0.04,0.07,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Midgut,RD,FBtr0310521,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Hindgut,RC,FBtr0300358,0.1,0.11,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Hindgut,RD,FBtr0310521,0.12,0.2,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Malpighian Tubules,RC,FBtr0300358,0.19,0.33,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Malpighian Tubules,RD,FBtr0310521,0.27,0.28,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Rectal pad,RC,FBtr0300358,0.07,0.07,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Rectal pad,RD,FBtr0310521,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Salivary gland,RC,FBtr0300358,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Salivary gland,RD,FBtr0310521,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Fat body,RC,FBtr0300358,0.26,0.44,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Fat body,RD,FBtr0310521,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Heart,RC,FBtr0300358,0.66,0.17,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Heart,RD,FBtr0310521,0,0,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Testis,RC,FBtr0300358,5.22,1.95,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Testis,RD,FBtr0310521,6.08,0.95,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Accessory glands,RC,FBtr0300358,0.05,0.09,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Accessory glands,RD,FBtr0310521,0.02,0.04,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Carcass,RC,FBtr0300358,0.16,0.18,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Carcass,RD,FBtr0310521,0.25,0.04,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Whole body,RC,FBtr0300358,0.61,0.29,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Male,Whole body,RD,FBtr0310521,0.69,0.35,Adult,Male
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Head,RC,FBtr0300358,0.02,0.04,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Head,RD,FBtr0310521,0.13,0.11,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Eye,RC,FBtr0300358,0.01,0.02,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Eye,RD,FBtr0310521,0.17,0.03,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Brain,RC,FBtr0300358,0.07,0.06,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Brain,RD,FBtr0310521,0.02,0.04,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Thoracicoabdominal ganglion,RC,FBtr0300358,0.04,0.05,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Thoracicoabdominal ganglion,RD,FBtr0310521,0.04,0.06,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Crop,RC,FBtr0300358,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Crop,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Midgut,RC,FBtr0300358,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Midgut,RD,FBtr0310521,0.14,0.13,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Hindgut,RC,FBtr0300358,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Hindgut,RD,FBtr0310521,0.1,0.05,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Malpighian Tubules,RC,FBtr0300358,0.25,0.22,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Malpighian Tubules,RD,FBtr0310521,0.1,0.11,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Rectal pad,RC,FBtr0300358,0.11,0.15,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Rectal pad,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Salivary gland,RC,FBtr0300358,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Salivary gland,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Fat body,RC,FBtr0300358,0.17,0.29,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Fat body,RD,FBtr0310521,0.1,0.17,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Heart,RC,FBtr0300358,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Heart,RD,FBtr0310521,0.2,0.13,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Ovary,RC,FBtr0300358,0.1,0.11,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Ovary,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Virgin Spermatheca,RC,FBtr0300358,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Virgin Spermatheca,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Mated Spermatheca,RC,FBtr0300358,0.06,0.1,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Mated Spermatheca,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Carcass,RC,FBtr0300358,0.27,0.24,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Carcass,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Whole body,RC,FBtr0300358,0.06,0.05,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Adult Female,Whole body,RD,FBtr0310521,0,0,Adult,Female
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,CNS,RC,FBtr0300358,0.08,0.08,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,CNS,RD,FBtr0310521,0.13,0.11,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Midgut,RC,FBtr0300358,0.1,0.1,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Midgut,RD,FBtr0310521,0.63,1.09,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Hindgut,RC,FBtr0300358,0.15,0.15,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Hindgut,RD,FBtr0310521,0.05,0.08,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Malpighian Tubules,RC,FBtr0300358,0.74,0.45,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Malpighian Tubules,RD,FBtr0310521,0.64,0.2,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Salivary gland,RC,FBtr0300358,0.75,0.26,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Salivary gland,RD,FBtr0310521,0.32,0.42,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Fat body,RC,FBtr0300358,12.8,4.09,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Fat body,RD,FBtr0310521,10.1,3.89,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Trachea,RC,FBtr0300358,0.05,0.09,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Trachea,RD,FBtr0310521,0.3,0.38,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Carcass,RC,FBtr0300358,0.07,0.12,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Carcass,RD,FBtr0310521,0.35,0.33,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Garland cells,RC,FBtr0300358,0.52,0.37,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Garland cells,RD,FBtr0310521,0.43,0.75,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Whole body,RC,FBtr0300358,1.88,0.82,Larval,NA
+Spn42Db,FBgn0033112,Serpin 42Db,FBgn0033112T.txt,Larval,Whole body,RD,FBtr0310521,2.16,0.81,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Head,RA,FBtr0086162,0,0,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Head,RB,FBtr0305679,0.82,0.06,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Eye,RA,FBtr0086162,0,0,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Eye,RB,FBtr0305679,0.52,0.28,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Brain,RA,FBtr0086162,0.15,0.04,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Brain,RB,FBtr0305679,0.01,0.01,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Thoracicoabdominal ganglion,RA,FBtr0086162,0,0,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Thoracicoabdominal ganglion,RB,FBtr0305679,0.33,0.06,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Crop,RA,FBtr0086162,0,0,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Crop,RB,FBtr0305679,5.09,0.36,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Midgut,RA,FBtr0086162,0.41,0.7,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Midgut,RB,FBtr0305679,20.76,0.49,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Hindgut,RA,FBtr0086162,0,0,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Hindgut,RB,FBtr0305679,2.86,0.48,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Malpighian Tubules,RA,FBtr0086162,0.46,0.03,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Malpighian Tubules,RB,FBtr0305679,40.48,9.11,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Rectal pad,RA,FBtr0086162,0.2,0.35,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Rectal pad,RB,FBtr0305679,0.73,0.67,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Salivary gland,RA,FBtr0086162,0,0,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Salivary gland,RB,FBtr0305679,1.11,0.31,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Fat body,RA,FBtr0086162,0.51,0.11,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Fat body,RB,FBtr0305679,0.17,0.29,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Heart,RA,FBtr0086162,0.75,0.64,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Heart,RB,FBtr0305679,0.23,0.28,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Testis,RA,FBtr0086162,45.6,2.49,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Testis,RB,FBtr0305679,0,0,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Accessory glands,RA,FBtr0086162,0.67,1.14,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Accessory glands,RB,FBtr0305679,1.6,1.46,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Carcass,RA,FBtr0086162,0.53,0.53,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Carcass,RB,FBtr0305679,1.31,0.47,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Whole body,RA,FBtr0086162,3.03,0.81,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Male,Whole body,RB,FBtr0305679,3.58,0.56,Adult,Male
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Head,RA,FBtr0086162,0,0,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Head,RB,FBtr0305679,0.93,0.35,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Eye,RA,FBtr0086162,0,0,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Eye,RB,FBtr0305679,0.6,0.07,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Brain,RA,FBtr0086162,0.07,0.07,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Brain,RB,FBtr0305679,0.04,0.06,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Thoracicoabdominal ganglion,RA,FBtr0086162,0,0,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Thoracicoabdominal ganglion,RB,FBtr0305679,0.29,0.04,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Crop,RA,FBtr0086162,0.23,0.32,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Crop,RB,FBtr0305679,2.65,0.51,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Midgut,RA,FBtr0086162,0.49,0.43,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Midgut,RB,FBtr0305679,14.19,1.94,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Hindgut,RA,FBtr0086162,0.15,0.02,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Hindgut,RB,FBtr0305679,3.04,0.08,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Malpighian Tubules,RA,FBtr0086162,0.94,0.86,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Malpighian Tubules,RB,FBtr0305679,37.47,2.75,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Rectal pad,RA,FBtr0086162,0.66,0.07,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Rectal pad,RB,FBtr0305679,0.19,0.27,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Salivary gland,RA,FBtr0086162,0,0,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Salivary gland,RB,FBtr0305679,0.09,0.01,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Fat body,RA,FBtr0086162,0.01,0,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Fat body,RB,FBtr0305679,0.35,0.06,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Heart,RA,FBtr0086162,0.28,0.48,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Heart,RB,FBtr0305679,0.29,0.25,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Ovary,RA,FBtr0086162,0,0,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Ovary,RB,FBtr0305679,0.07,0.06,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Virgin Spermatheca,RA,FBtr0086162,1.66,2.88,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Virgin Spermatheca,RB,FBtr0305679,10.51,3.46,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Mated Spermatheca,RA,FBtr0086162,2.61,3.38,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Mated Spermatheca,RB,FBtr0305679,6.55,2.98,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Carcass,RA,FBtr0086162,0,0,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Carcass,RB,FBtr0305679,1.39,0.19,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Whole body,RA,FBtr0086162,0.09,0.16,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Adult Female,Whole body,RB,FBtr0305679,1.12,0.03,Adult,Female
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,CNS,RA,FBtr0086162,0.1,0.18,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,CNS,RB,FBtr0305679,0.31,0.27,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Midgut,RA,FBtr0086162,0.21,0.37,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Midgut,RB,FBtr0305679,32.33,3.97,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Hindgut,RA,FBtr0086162,0,0,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Hindgut,RB,FBtr0305679,4.4,1.69,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Malpighian Tubules,RA,FBtr0086162,0,0,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Malpighian Tubules,RB,FBtr0305679,29.67,7.62,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Salivary gland,RA,FBtr0086162,0,0,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Salivary gland,RB,FBtr0305679,2.15,0.88,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Fat body,RA,FBtr0086162,1.19,2.06,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Fat body,RB,FBtr0305679,35.87,1.98,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Trachea,RA,FBtr0086162,0,0,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Trachea,RB,FBtr0305679,2.91,1.31,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Carcass,RA,FBtr0086162,0,0,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Carcass,RB,FBtr0305679,3.18,0.63,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Garland cells,RA,FBtr0086162,1.01,1.74,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Garland cells,RB,FBtr0305679,4.1,3.57,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Whole body,RA,FBtr0086162,1.35,2.33,Larval,NA
+Spn42Dc,FBgn0033113,Serpin 42Dc,FBgn0033113T.txt,Larval,Whole body,RB,FBtr0305679,15.84,3.45,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Head,RA,FBtr0079470,0,0,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Head,RB,FBtr0335485,0.07,0.07,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Eye,RA,FBtr0079470,0,0,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Eye,RB,FBtr0335485,0.05,0.04,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Brain,RA,FBtr0079470,0.05,0.09,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Brain,RB,FBtr0335485,0.05,0.04,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Thoracicoabdominal ganglion,RA,FBtr0079470,0,0,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Thoracicoabdominal ganglion,RB,FBtr0335485,0.14,0.07,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Crop,RA,FBtr0079470,0.11,0.16,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Crop,RB,FBtr0335485,0,0,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Midgut,RA,FBtr0079470,1.72,2.99,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Midgut,RB,FBtr0335485,0.03,0.05,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Hindgut,RA,FBtr0079470,0.75,1.24,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Hindgut,RB,FBtr0335485,1.34,2.22,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Malpighian Tubules,RA,FBtr0079470,0.06,0.1,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Malpighian Tubules,RB,FBtr0335485,0,0,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Rectal pad,RA,FBtr0079470,0,0,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Rectal pad,RB,FBtr0335485,0.08,0.13,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Salivary gland,RA,FBtr0079470,0.09,0.13,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Salivary gland,RB,FBtr0335485,0.14,0.2,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Fat body,RA,FBtr0079470,0.78,1.35,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Fat body,RB,FBtr0335485,2.27,3.93,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Heart,RA,FBtr0079470,0.53,0.92,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Heart,RB,FBtr0335485,0.91,0.99,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Testis,RA,FBtr0079470,6.38,3.2,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Testis,RB,FBtr0335485,1.1,1.77,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Accessory glands,RA,FBtr0079470,422.3,121.94,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Accessory glands,RB,FBtr0335485,237.39,33.76,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Carcass,RA,FBtr0079470,3.21,2.58,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Carcass,RB,FBtr0335485,0.65,1.08,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Whole body,RA,FBtr0079470,16.54,3.73,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Male,Whole body,RB,FBtr0335485,1.65,1.66,Adult,Male
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Head,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Head,RB,FBtr0335485,0.18,0.06,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Eye,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Eye,RB,FBtr0335485,0.06,0.01,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Brain,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Brain,RB,FBtr0335485,0.05,0.04,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Thoracicoabdominal ganglion,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Thoracicoabdominal ganglion,RB,FBtr0335485,0.06,0.02,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Crop,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Crop,RB,FBtr0335485,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Midgut,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Midgut,RB,FBtr0335485,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Hindgut,RA,FBtr0079470,0.01,0.02,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Hindgut,RB,FBtr0335485,0.02,0.02,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Malpighian Tubules,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Malpighian Tubules,RB,FBtr0335485,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Rectal pad,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Rectal pad,RB,FBtr0335485,0.85,1,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Salivary gland,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Salivary gland,RB,FBtr0335485,0.05,0.07,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Fat body,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Fat body,RB,FBtr0335485,0.21,0.37,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Heart,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Heart,RB,FBtr0335485,0.18,0.22,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Ovary,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Ovary,RB,FBtr0335485,0.02,0.04,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Virgin Spermatheca,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Virgin Spermatheca,RB,FBtr0335485,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Mated Spermatheca,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Mated Spermatheca,RB,FBtr0335485,0.16,0.28,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Carcass,RA,FBtr0079470,0,0,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Carcass,RB,FBtr0335485,0.15,0.06,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Whole body,RA,FBtr0079470,0.03,0.05,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Adult Female,Whole body,RB,FBtr0335485,0.02,0.03,Adult,Female
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,CNS,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,CNS,RB,FBtr0335485,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Midgut,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Midgut,RB,FBtr0335485,0.05,0.09,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Hindgut,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Hindgut,RB,FBtr0335485,0.07,0.06,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Malpighian Tubules,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Malpighian Tubules,RB,FBtr0335485,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Salivary gland,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Salivary gland,RB,FBtr0335485,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Fat body,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Fat body,RB,FBtr0335485,0.19,0.34,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Trachea,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Trachea,RB,FBtr0335485,0.03,0.05,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Carcass,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Carcass,RB,FBtr0335485,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Garland cells,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Garland cells,RB,FBtr0335485,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Whole body,RA,FBtr0079470,0,0,Larval,NA
+Spn28B,FBgn0083141,Serpin 28B,FBgn0083141T.txt,Larval,Whole body,RB,FBtr0335485,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RA,FBtr0086197,0.28,0.47,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RB,FBtr0086196,4.53,1.07,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RD,FBtr0086198,0.82,1.02,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RE,FBtr0086199,0.91,0.58,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RF,FBtr0086200,0.08,0.13,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RG,FBtr0086201,7.38,1.94,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RH,FBtr0086202,0.62,1.05,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RI,FBtr0086203,10.52,2.96,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RJ,FBtr0086204,1.4,1.38,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RK,FBtr0086205,0.01,0.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Head,RL,FBtr0300336,1.34,0.33,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RA,FBtr0086197,3.53,0.85,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RB,FBtr0086196,2.94,0.87,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RD,FBtr0086198,6.43,0.97,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RE,FBtr0086199,0.37,0.44,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RG,FBtr0086201,0.8,0.39,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RH,FBtr0086202,0.72,1.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RI,FBtr0086203,13.92,6.39,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RJ,FBtr0086204,3.64,1.11,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Eye,RL,FBtr0300336,1.7,0.04,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RA,FBtr0086197,2.44,0.41,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RB,FBtr0086196,0.28,0.11,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RD,FBtr0086198,0.37,0.23,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RE,FBtr0086199,0.08,0.08,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RG,FBtr0086201,2.45,0.07,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RH,FBtr0086202,0.61,0.5,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RI,FBtr0086203,0.03,0.05,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RJ,FBtr0086204,0.24,0.24,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Brain,RL,FBtr0300336,0.8,0.29,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RA,FBtr0086197,3.48,0.96,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RB,FBtr0086196,0.51,0.5,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RD,FBtr0086198,1.01,0.49,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RE,FBtr0086199,0.21,0.28,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RG,FBtr0086201,4.02,0.22,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RH,FBtr0086202,0.26,0.2,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RI,FBtr0086203,0.92,0.67,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RJ,FBtr0086204,1.05,0.9,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Thoracicoabdominal ganglion,RL,FBtr0300336,1.09,0.2,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RA,FBtr0086197,9.92,2.59,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RB,FBtr0086196,0.19,0.23,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RD,FBtr0086198,0.89,1,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RE,FBtr0086199,0.01,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RG,FBtr0086201,3.6,0.55,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RH,FBtr0086202,0.76,0.66,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RI,FBtr0086203,0.03,0.03,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RJ,FBtr0086204,1.29,0.39,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Crop,RL,FBtr0300336,1.93,0.94,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RA,FBtr0086197,3,1.59,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RB,FBtr0086196,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RD,FBtr0086198,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RE,FBtr0086199,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RG,FBtr0086201,30.28,5.1,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RH,FBtr0086202,3.12,2.43,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RI,FBtr0086203,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RJ,FBtr0086204,0.28,0.48,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RK,FBtr0086205,1.19,1.25,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Midgut,RL,FBtr0300336,3.18,0.03,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RA,FBtr0086197,5.05,0.44,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RB,FBtr0086196,0.16,0.15,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RD,FBtr0086198,0.39,0.35,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RE,FBtr0086199,0.07,0.08,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RG,FBtr0086201,6.33,1.44,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RH,FBtr0086202,1.29,0.34,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RI,FBtr0086203,0.03,0.03,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RJ,FBtr0086204,0.83,0.35,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Hindgut,RL,FBtr0300336,1.51,0.14,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RA,FBtr0086197,1.94,0.96,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RB,FBtr0086196,0.01,0.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RD,FBtr0086198,0.11,0.19,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RE,FBtr0086199,0,0.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RG,FBtr0086201,9.37,1.17,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RH,FBtr0086202,1.18,0.63,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RI,FBtr0086203,0.01,0.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RJ,FBtr0086204,1.3,0.48,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Malpighian Tubules,RL,FBtr0300336,1.39,0.46,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RA,FBtr0086197,5.93,0.41,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RB,FBtr0086196,0.35,0.21,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RD,FBtr0086198,0.21,0.13,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RE,FBtr0086199,0.1,0.04,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RG,FBtr0086201,3.67,0.64,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RH,FBtr0086202,1.4,0.28,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RI,FBtr0086203,0.02,0.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RJ,FBtr0086204,0.88,0.62,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Rectal pad,RL,FBtr0300336,1.59,0.94,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RA,FBtr0086197,3.61,0.6,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RB,FBtr0086196,0.84,1.19,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RD,FBtr0086198,0.12,0.05,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RE,FBtr0086199,0.1,0.12,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RG,FBtr0086201,3.07,0.21,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RH,FBtr0086202,0.4,0.24,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RI,FBtr0086203,1.51,0.88,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RJ,FBtr0086204,0.95,0.18,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Salivary gland,RL,FBtr0300336,0.84,0.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RA,FBtr0086197,0.67,1.02,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RB,FBtr0086196,1.47,1.36,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RD,FBtr0086198,7.02,3.67,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RE,FBtr0086199,0.01,0.02,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RF,FBtr0086200,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RG,FBtr0086201,0.22,0.35,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RH,FBtr0086202,0.29,0.5,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RI,FBtr0086203,30.18,3,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RJ,FBtr0086204,3.17,1.88,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Fat body,RL,FBtr0300336,2.87,2.3,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RA,FBtr0086197,1.95,1.73,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RB,FBtr0086196,2.07,2.91,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RD,FBtr0086198,14.38,2.94,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RE,FBtr0086199,2.57,0.81,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RF,FBtr0086200,0.06,0.11,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RG,FBtr0086201,1.49,1.36,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RH,FBtr0086202,0.13,0.17,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RI,FBtr0086203,34.49,9.73,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RJ,FBtr0086204,4,0.54,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RK,FBtr0086205,0,0,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Heart,RL,FBtr0300336,2.69,0.87,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RA,FBtr0086197,10.72,2.88,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RB,FBtr0086196,4.51,0.4,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RD,FBtr0086198,0.97,0.88,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RE,FBtr0086199,1.4,1.06,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RF,FBtr0086200,0.87,0.91,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RG,FBtr0086201,0.6,0.76,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RH,FBtr0086202,1.11,1.43,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RI,FBtr0086203,0.21,0.36,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RJ,FBtr0086204,0.09,0.15,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RK,FBtr0086205,0.73,1.07,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Testis,RL,FBtr0300336,0.44,0.22,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RA,FBtr0086197,4.05,1.74,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RB,FBtr0086196,0.22,0.25,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RD,FBtr0086198,0.06,0.1,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RE,FBtr0086199,0.01,0.03,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RF,FBtr0086200,0.07,0.11,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RG,FBtr0086201,1.15,1.46,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RH,FBtr0086202,0.64,0.65,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RI,FBtr0086203,0.01,0.01,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RJ,FBtr0086204,0.36,0.33,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RK,FBtr0086205,0.84,1.46,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Accessory glands,RL,FBtr0300336,0.59,0.39,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RA,FBtr0086197,2.22,0.42,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RB,FBtr0086196,5.94,0.72,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RD,FBtr0086198,8.84,0.85,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RE,FBtr0086199,1.86,0.2,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RF,FBtr0086200,0.09,0.16,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RG,FBtr0086201,2.25,1.36,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RH,FBtr0086202,0.61,0.18,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RI,FBtr0086203,19.27,1.14,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RJ,FBtr0086204,6.15,0.8,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RK,FBtr0086205,0.03,0.06,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Carcass,RL,FBtr0300336,1.51,0.06,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RA,FBtr0086197,2.7,1.99,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RB,FBtr0086196,5.15,1.71,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RD,FBtr0086198,3.19,4.67,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RE,FBtr0086199,1.04,0.9,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RF,FBtr0086200,0.19,0.33,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RG,FBtr0086201,3.19,2.16,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RH,FBtr0086202,0.3,0.5,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RI,FBtr0086203,4.1,2.92,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RJ,FBtr0086204,2.96,4.27,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RK,FBtr0086205,0.1,0.18,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Male,Whole body,RL,FBtr0300336,0.63,0.23,Adult,Male
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RA,FBtr0086197,1.41,1.22,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RB,FBtr0086196,6.57,2.68,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RD,FBtr0086198,6.13,5.64,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RE,FBtr0086199,0.91,0.79,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RF,FBtr0086200,0.43,0.75,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RG,FBtr0086201,3.39,3.21,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RH,FBtr0086202,0.45,0.42,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RI,FBtr0086203,8,2.28,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RJ,FBtr0086204,4.74,3.62,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RK,FBtr0086205,0.01,0.01,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Head,RL,FBtr0300336,1.95,0.32,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RA,FBtr0086197,1.44,0.03,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RB,FBtr0086196,7.27,0.28,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RD,FBtr0086198,10.82,0.04,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RE,FBtr0086199,1.65,0.5,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RF,FBtr0086200,0.17,0.25,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RG,FBtr0086201,2.47,0.14,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RH,FBtr0086202,0.38,0.17,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RI,FBtr0086203,17.27,0.81,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RJ,FBtr0086204,3.31,0.01,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RK,FBtr0086205,0.05,0.07,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Eye,RL,FBtr0300336,1.99,0.38,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RA,FBtr0086197,1.65,1.1,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RB,FBtr0086196,0.81,1.12,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RD,FBtr0086198,0.35,0.15,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RE,FBtr0086199,0.34,0.29,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RG,FBtr0086201,1.95,0.18,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RH,FBtr0086202,0.25,0.36,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RI,FBtr0086203,0.16,0.08,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RJ,FBtr0086204,0.74,0.45,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RK,FBtr0086205,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Brain,RL,FBtr0300336,1.15,0.2,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RA,FBtr0086197,3.12,1.17,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RB,FBtr0086196,1.42,1.78,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RD,FBtr0086198,0.89,0.58,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RE,FBtr0086199,0.79,0.34,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RG,FBtr0086201,3.98,0.66,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RH,FBtr0086202,0.22,0.1,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RI,FBtr0086203,0.38,0.23,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RJ,FBtr0086204,1.15,0.68,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RK,FBtr0086205,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Thoracicoabdominal ganglion,RL,FBtr0300336,1.2,0.19,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RA,FBtr0086197,11.58,4.66,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RB,FBtr0086196,0.58,0.21,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RD,FBtr0086198,0.2,0.12,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RE,FBtr0086199,0.03,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RG,FBtr0086201,3.69,0.39,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RH,FBtr0086202,0.95,0.67,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RI,FBtr0086203,0.04,0.03,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RJ,FBtr0086204,1.01,0.11,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RK,FBtr0086205,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Crop,RL,FBtr0300336,2.06,0.27,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RA,FBtr0086197,6.75,1.55,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RB,FBtr0086196,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RD,FBtr0086198,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RE,FBtr0086199,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RG,FBtr0086201,44.77,6.67,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RH,FBtr0086202,7.13,0.89,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RI,FBtr0086203,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RJ,FBtr0086204,0.29,0.26,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RK,FBtr0086205,7.51,5.28,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Midgut,RL,FBtr0300336,2.29,0.26,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RA,FBtr0086197,4.75,1.37,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RB,FBtr0086196,1.73,1.3,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RD,FBtr0086198,2.4,0.36,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RE,FBtr0086199,0.83,0.43,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RF,FBtr0086200,0.28,0.19,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RG,FBtr0086201,7.31,0.81,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RH,FBtr0086202,0.88,0.4,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RI,FBtr0086203,0.8,0.48,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RJ,FBtr0086204,2.64,1.49,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RK,FBtr0086205,0.3,0.43,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Hindgut,RL,FBtr0300336,1.54,0.36,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RA,FBtr0086197,1.73,1,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RB,FBtr0086196,0.03,0.03,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RD,FBtr0086198,0.44,0.53,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RE,FBtr0086199,0.29,0.39,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RG,FBtr0086201,7.27,0.76,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RH,FBtr0086202,0.58,0.91,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RI,FBtr0086203,0.03,0.03,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RJ,FBtr0086204,0.84,0.29,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RK,FBtr0086205,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Malpighian Tubules,RL,FBtr0300336,1.68,1.45,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RA,FBtr0086197,9.38,2.09,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RB,FBtr0086196,0.29,0.4,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RD,FBtr0086198,0.69,0.78,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RE,FBtr0086199,0.18,0.23,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RG,FBtr0086201,4,2.22,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RH,FBtr0086202,1.25,0.13,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RI,FBtr0086203,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RJ,FBtr0086204,1.27,0.61,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RK,FBtr0086205,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Rectal pad,RL,FBtr0300336,1.86,0.71,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RA,FBtr0086197,4.2,0.92,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RB,FBtr0086196,0.2,0.09,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RD,FBtr0086198,0.4,0.57,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RE,FBtr0086199,0.45,0.17,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RF,FBtr0086200,0.01,0.01,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RG,FBtr0086201,0.88,0.03,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RH,FBtr0086202,0.36,0.2,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RI,FBtr0086203,0.28,0.18,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RJ,FBtr0086204,0.45,0.32,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RK,FBtr0086205,0.15,0.21,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Salivary gland,RL,FBtr0300336,0.58,0.1,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RA,FBtr0086197,0.85,0.87,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RB,FBtr0086196,3.75,2.71,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RD,FBtr0086198,4.95,4.51,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RE,FBtr0086199,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RF,FBtr0086200,4.14,2.74,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RG,FBtr0086201,0.32,0.4,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RH,FBtr0086202,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RI,FBtr0086203,18.23,3.95,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RJ,FBtr0086204,10.56,0.41,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RK,FBtr0086205,0.6,0.86,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Fat body,RL,FBtr0300336,1.29,0.68,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RA,FBtr0086197,1.68,2.49,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RB,FBtr0086196,2.67,1.83,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RD,FBtr0086198,12.02,5.47,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RE,FBtr0086199,0.88,0.84,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RG,FBtr0086201,2.18,1.56,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RH,FBtr0086202,0.48,0.79,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RI,FBtr0086203,26.81,11.35,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RJ,FBtr0086204,1.03,1.01,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RK,FBtr0086205,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Heart,RL,FBtr0300336,1.98,0.95,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RA,FBtr0086197,5.59,0.09,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RB,FBtr0086196,0.17,0.17,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RD,FBtr0086198,0.02,0.03,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RE,FBtr0086199,0.2,0.18,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RF,FBtr0086200,0.03,0.05,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RG,FBtr0086201,0.67,0.45,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RH,FBtr0086202,0.11,0.16,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RI,FBtr0086203,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RJ,FBtr0086204,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RK,FBtr0086205,0.38,0.56,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Ovary,RL,FBtr0300336,0.26,0.19,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RA,FBtr0086197,8.91,1.98,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RB,FBtr0086196,2.55,2.2,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RD,FBtr0086198,1.89,2.11,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RE,FBtr0086199,1.76,3.06,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RF,FBtr0086200,2.24,3.26,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RG,FBtr0086201,1.78,2.15,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RH,FBtr0086202,0.13,0.23,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RI,FBtr0086203,2.8,1.59,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RJ,FBtr0086204,11.78,2.51,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RK,FBtr0086205,1.83,2.23,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Virgin Spermatheca,RL,FBtr0300336,0.33,0.58,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RA,FBtr0086197,3.58,3.16,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RB,FBtr0086196,7.24,7.58,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RD,FBtr0086198,2.25,3.15,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RE,FBtr0086199,0.92,0.89,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RF,FBtr0086200,0.5,0.86,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RG,FBtr0086201,2.56,2.14,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RH,FBtr0086202,0.01,0.01,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RI,FBtr0086203,11.5,5.73,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RJ,FBtr0086204,7.37,4.55,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RK,FBtr0086205,0.01,0.01,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Mated Spermatheca,RL,FBtr0300336,2.03,1.43,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RA,FBtr0086197,1.36,1.15,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RB,FBtr0086196,6.94,0.69,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RD,FBtr0086198,14.9,9.02,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RE,FBtr0086199,1.59,1.11,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RG,FBtr0086201,2.24,1.69,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RH,FBtr0086202,0.37,0.31,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RI,FBtr0086203,20.39,4.68,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RJ,FBtr0086204,8.69,3.58,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RK,FBtr0086205,0,0.01,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Carcass,RL,FBtr0300336,2.43,0.69,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RA,FBtr0086197,4.65,1.42,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RB,FBtr0086196,1.28,0.96,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RD,FBtr0086198,0.26,0.35,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RE,FBtr0086199,0.22,0.37,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RF,FBtr0086200,0,0,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RG,FBtr0086201,2.9,0.67,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RH,FBtr0086202,0.51,0.43,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RI,FBtr0086203,4.01,1.66,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RJ,FBtr0086204,0.17,0.14,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RK,FBtr0086205,0.24,0.42,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Adult Female,Whole body,RL,FBtr0300336,0.73,0.34,Adult,Female
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RA,FBtr0086197,3.98,0.62,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RB,FBtr0086196,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RD,FBtr0086198,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RE,FBtr0086199,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RF,FBtr0086200,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RG,FBtr0086201,2.25,0.16,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RH,FBtr0086202,0.93,0.33,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RI,FBtr0086203,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RJ,FBtr0086204,0.13,0.13,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RK,FBtr0086205,0.16,0.14,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,CNS,RL,FBtr0300336,0.59,0.24,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RA,FBtr0086197,2.46,0.47,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RB,FBtr0086196,0,0.01,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RD,FBtr0086198,0.18,0.31,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RE,FBtr0086199,0.02,0.03,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RF,FBtr0086200,0.07,0.12,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RG,FBtr0086201,30.97,8.95,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RH,FBtr0086202,4.09,0.72,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RI,FBtr0086203,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RJ,FBtr0086204,0.31,0.04,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RK,FBtr0086205,11.31,2.74,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Midgut,RL,FBtr0300336,1.83,1.63,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RA,FBtr0086197,7.81,3.26,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RB,FBtr0086196,0.11,0.19,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RD,FBtr0086198,0.15,0.26,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RE,FBtr0086199,0.03,0.05,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RF,FBtr0086200,0.09,0.16,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RG,FBtr0086201,6.82,1.57,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RH,FBtr0086202,1.3,0.84,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RI,FBtr0086203,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RJ,FBtr0086204,0.1,0.17,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RK,FBtr0086205,4.27,1.76,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Hindgut,RL,FBtr0300336,0.86,0.33,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RA,FBtr0086197,1.82,0.64,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RB,FBtr0086196,0.03,0.05,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RD,FBtr0086198,0.27,0.47,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RE,FBtr0086199,0.02,0.03,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RF,FBtr0086200,0.05,0.08,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RG,FBtr0086201,11.77,4.4,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RH,FBtr0086202,1.62,1.2,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RI,FBtr0086203,0,0.01,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RJ,FBtr0086204,0.78,0.4,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RK,FBtr0086205,1.63,1.01,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Malpighian Tubules,RL,FBtr0300336,0.85,0.35,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RA,FBtr0086197,9.58,1.28,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RB,FBtr0086196,1.9,2.37,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RD,FBtr0086198,0.39,0.17,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RE,FBtr0086199,0.28,0.32,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RF,FBtr0086200,1.22,2.08,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RG,FBtr0086201,5.58,0.16,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RH,FBtr0086202,1.12,0.69,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RI,FBtr0086203,1.1,1.83,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RJ,FBtr0086204,1.15,0.58,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RK,FBtr0086205,0.98,0.61,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Salivary gland,RL,FBtr0300336,2.1,0.84,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RA,FBtr0086197,0.17,0.15,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RB,FBtr0086196,7.38,0.43,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RD,FBtr0086198,49.09,0.9,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RE,FBtr0086199,6.11,1.25,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RF,FBtr0086200,5.92,4.47,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RG,FBtr0086201,5,0.29,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RH,FBtr0086202,1.08,1.08,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RI,FBtr0086203,72.07,7.1,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RJ,FBtr0086204,4.34,3.07,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RK,FBtr0086205,1.9,2.62,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Fat body,RL,FBtr0300336,4.87,0.54,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RA,FBtr0086197,10.02,1.05,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RB,FBtr0086196,0.29,0.37,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RD,FBtr0086198,0.85,0.4,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RE,FBtr0086199,0.17,0.08,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RF,FBtr0086200,0.28,0.37,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RG,FBtr0086201,8.09,1.85,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RH,FBtr0086202,2.62,1.69,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RI,FBtr0086203,0,0,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RJ,FBtr0086204,1.01,0.95,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RK,FBtr0086205,1.39,1.35,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Trachea,RL,FBtr0300336,2.21,0.79,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RA,FBtr0086197,8.15,3.75,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RB,FBtr0086196,1.19,0.66,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RD,FBtr0086198,0.29,0.26,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RE,FBtr0086199,0.09,0.08,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RF,FBtr0086200,0.06,0.1,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RG,FBtr0086201,5.17,2.87,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RH,FBtr0086202,1.56,1.33,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RI,FBtr0086203,0.07,0.1,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RJ,FBtr0086204,0.39,0.34,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RK,FBtr0086205,0.94,1.63,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Carcass,RL,FBtr0300336,1.3,0.47,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RA,FBtr0086197,2.55,2.5,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RB,FBtr0086196,1.28,1.42,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RD,FBtr0086198,6.91,1.02,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RE,FBtr0086199,0.52,0.91,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RF,FBtr0086200,3.07,2.34,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RG,FBtr0086201,3.45,5.48,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RH,FBtr0086202,0.67,1.15,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RI,FBtr0086203,0.69,0.65,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RJ,FBtr0086204,1.15,1.22,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RK,FBtr0086205,0.32,0.49,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Garland cells,RL,FBtr0300336,1.5,0.6,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RA,FBtr0086197,1.97,2.5,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RB,FBtr0086196,5.04,1.49,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RD,FBtr0086198,7.91,3.55,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RE,FBtr0086199,1.78,1.03,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RF,FBtr0086200,3.15,3.47,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RG,FBtr0086201,17.03,7.01,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RH,FBtr0086202,0.99,1.22,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RI,FBtr0086203,3.85,1.51,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RJ,FBtr0086204,1.71,1.72,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RK,FBtr0086205,3.19,2.74,Larval,NA
+Spn42Da,FBgn0265137,Serpin 42Da,FBgn0265137T.txt,Larval,Whole body,RL,FBtr0300336,1.64,1.3,Larval,NA

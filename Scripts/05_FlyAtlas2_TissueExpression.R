@@ -1,3 +1,6 @@
+# SERPINE1–Drosophila Comparative Functional Genomics Workflow
+# 05_FlyAtlas2_TissueExpression.R
+# Run from the repository root.
 # ============================================================
 # 05_FlyAtlas2_TissueExpression.R
 # FlyAtlas2 tissue expression analysis for candidate serpins
@@ -7,17 +10,13 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 
-# Prefer an environment variable for reproducibility across machines.
-# If it is not set, fall back to the original local project path.
-project_dir <- Sys.getenv(
-  "xxxxx_xxxxxxxx_PROJECT_DIR",
-  unset = "D:/xxxxx-xxxxxxxx xxx/xxxxx-xxxxxxxx xxx"
-)
+# Run from the repository root; analysis paths are relative to it.
+# No machine-specific project-directory configuration is required.
+project_dir <- "."
 
 expression_dir <- file.path(
   project_dir,
-  "Bioinformatics_tissue expression collection",
-  "Bioinformatics_tissue_expression"
+  "Expression"
 )
 
 processed_dir <- file.path(expression_dir, "Data", "Processed")

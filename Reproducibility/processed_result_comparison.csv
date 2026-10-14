@@ -1,0 +1,14 @@
+File,Rows,Matches,Details
+Bulk_cross_dataset_consensus_by_sex.csv,72,TRUE,TRUE
+FCA_GTEx_snRNA_Spearman_by_sex.csv,72,TRUE,TRUE
+SERPINE1_Aging_Similarity_Ranking_v2.csv,6,TRUE,TRUE
+SERPINE1_Bulk_Evidence_Used_BySex.csv,12,TRUE,TRUE
+SERPINE1_Cellular_Evidence_Used_BySex.csv,12,TRUE,TRUE
+SERPINE1_Female_Integrated_Ranking.csv,6,TRUE,TRUE
+SERPINE1_Integrated_Evidence_BySex_Final_Ranking.csv,12,TRUE,TRUE
+SERPINE1_Integrated_Evidence_BySex_Full.csv,12,TRUE,TRUE
+SERPINE1_LeaveOneDomainOut_BySex.csv,60,TRUE,TRUE
+SERPINE1_Male_Integrated_Ranking.csv,6,TRUE,TRUE
+SERPINE1_Master_Evidence_BySex_All_Metrics.csv,12,TRUE,TRUE
+SERPINE1_Rank_Stability_BySex.csv,12,TRUE,TRUE
+SERPINE1_SequenceAlignment_IsoformResolved.csv,7,TRUE,TRUE

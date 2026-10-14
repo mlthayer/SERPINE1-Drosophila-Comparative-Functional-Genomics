@@ -1,0 +1,15 @@
+Gene,Tissue,Sex,Annotation,Annotation_Broad,N_Source_Files,N_Samples,N_Expression_Scale_Groups,Mean_Expression_All,Mean_Expression_Positive,N_Cells,N_Expressing,Percent_Expressing,Rank,Tissue_Clean,Display_Label,Panel,Unique_Label
+Spn42Dd,trachea,Female,adult fat body,fat cell,1,1,1,0.605303922524819,1.3114918321371078,26,12,46.15384615384615,1,trachea,1. trachea | adult fat body,Female,Female___1___1. trachea | adult fat body
+Spn42Dd,ovary,Female,stalk follicle cell,epithelial cell,1,2,1,0.3796949414159521,2.2650767194813697,173,29,16.76300578034682,2,ovary,2. ovary | stalk follicle cell,Female,Female___2___2. ovary | stalk follicle cell
+Spn42Dd,fat_body,Female,adult neuron,neuron,1,1,1,0.17172914246718088,1.373833139737447,24,3,12.5,3,fat body,3. fat body | adult neuron,Female,Female___3___3. fat body | adult neuron
+Spn42Dd,malpighian_tubule,Female,adult fat body,fat cell,1,1,1,0.11922338962554932,0.9935282468795776,25,3,12,4,Malpighian tubule,4. Malpighian tubule | adult fat body,Female,Female___4___4. Malpighian tubule | adult fat body
+Spn42Dd,wing,Female,pheromone-sensing neuron,sensory neuron,1,1,1,0.13209095963920328,1.1963666915893554,317,35,11.041009463722398,5,wing,5. wing | pheromone-sensing neuron,Female,Female___5___5. wing | pheromone-sensing neuron
+Spn42Dd,male_reproductive_glands,Male,adult fat body,fat cell,1,1,1,0.48256844585224734,1.0168406537600927,59,28,47.45762711864407,1,male reproductive glands,"1. male reproductive glands | adult fat
+body",Male,"Male___1___1. male reproductive glands | adult fat
+body"
+Spn42Dd,male_reproductive_glands,Male,unannotated,unannotated,1,1,1,0.6592670885721842,1.4542656365562887,75,34,45.333333333333336,2,male reproductive glands,2. male reproductive glands | unannotated,Male,Male___2___2. male reproductive glands | unannotated
+Spn42Dd,gut,Male,male accessory gland,gland,1,1,1,0.5695356801152229,1.4497271857478402,56,22,39.285714285714285,3,gut,3. gut | male accessory gland,Male,Male___3___3. gut | male accessory gland
+Spn42Dd,male_reproductive_glands,Male,spermatid,male germline cell,1,1,1,0.6344640169824872,1.7997214599372515,434,153,35.25345622119816,4,male reproductive glands,4. male reproductive glands | spermatid,Male,Male___4___4. male reproductive glands | spermatid
+Spn42Dd,male_reproductive_glands,Male,male accessory gland main cell,gland,1,1,1,0.5865845745648636,1.6885272379464091,7349,2553,34.7394203292965,5,male reproductive glands,"5. male reproductive glands | male
+accessory gland main cell",Male,"Male___5___5. male reproductive glands | male
+accessory gland main cell"

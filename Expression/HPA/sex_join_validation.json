@@ -1,0 +1,13 @@
+{
+  "metadata_file": "Expression/HPA/rna_tissue_hpa_samples.tsv.zip",
+  "sha256": "9ac43003f0ce483d9ae465e53f0d89efc21b425845e1aff9043cc63849104b74",
+  "metadata_samples": 186,
+  "gene_sample_rows": 1116,
+  "matched_rows": 1116,
+  "missing_sex": 0,
+  "tissue_mismatches": 0,
+  "generated_tissue_gene_sex_rows": 384,
+  "selected_rows_compared": 318,
+  "selected_median_and_count_mismatches": 0,
+  "comparison_key_normalization": "case-insensitive Tissue and Sex; expression values unchanged"
+}

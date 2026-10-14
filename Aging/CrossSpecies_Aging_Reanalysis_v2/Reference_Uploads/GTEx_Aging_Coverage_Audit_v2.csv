@@ -1,0 +1,36 @@
+"Gene","Functional_System","N_Observed_Age_Bins","Total_Samples_Across_Bins"
+"SERPINB1","Metabolic",5,1445
+"SERPINB1","Digestive",5,971
+"SERPINB1","Cardiovascular",5,878
+"SERPINB1","Respiratory",5,569
+"SERPINB1","Excretory",5,111
+"SERPINB1","Secretory",5,164
+"SERPINB1","Immune defense",5,982
+"SERPINB3","Metabolic",5,1445
+"SERPINB3","Digestive",5,971
+"SERPINB3","Cardiovascular",5,878
+"SERPINB3","Respiratory",5,569
+"SERPINB3","Excretory",5,111
+"SERPINB3","Secretory",5,164
+"SERPINB3","Immune defense",5,982
+"SERPINB9","Metabolic",5,1445
+"SERPINB9","Digestive",5,971
+"SERPINB9","Cardiovascular",5,878
+"SERPINB9","Respiratory",5,569
+"SERPINB9","Excretory",5,111
+"SERPINB9","Secretory",5,164
+"SERPINB9","Immune defense",5,982
+"SERPINE1","Metabolic",5,1445
+"SERPINE1","Digestive",5,971
+"SERPINE1","Cardiovascular",5,878
+"SERPINE1","Respiratory",5,569
+"SERPINE1","Excretory",5,111
+"SERPINE1","Secretory",5,164
+"SERPINE1","Immune defense",5,982
+"SERPINI1","Metabolic",5,1445
+"SERPINI1","Digestive",5,971
+"SERPINI1","Cardiovascular",5,878
+"SERPINI1","Respiratory",5,569
+"SERPINI1","Excretory",5,111
+"SERPINI1","Secretory",5,164
+"SERPINI1","Immune defense",5,982

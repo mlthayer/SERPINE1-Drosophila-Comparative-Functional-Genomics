@@ -1,0 +1,7 @@
+Gene,P1_Position,P1,P1prime_Position,P1prime,Evidence_Class,Observed_P1,Observed_P1prime,P1_OK,P1prime_OK,Reactive_Site_OK
+SERPINE1,369,R,370,M,validated,R,M,TRUE,TRUE,TRUE
+SERPINB3,354,S,355,S,validated,S,S,TRUE,TRUE,TRUE
+SERPINB4,354,L,355,S,validated,L,S,TRUE,TRUE,TRUE
+SERPINB11,357,K,358,S,validated,K,S,TRUE,TRUE,TRUE
+SERPINI1,362,R,363,M,validated,R,M,TRUE,TRUE,TRUE
+Spn42Da_B_A1Z6R1,374,R,375,A,experimentally_characterized_literature_R342_A343_full_FASTA_R374_A375,R,A,TRUE,TRUE,TRUE

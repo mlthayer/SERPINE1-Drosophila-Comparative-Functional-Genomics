@@ -1,0 +1,7 @@
+Gene,Reference_Residues,Identical_Residues,RCL_Region_Identity_Percent,Similar_Residues_BLOSUM62_Positive,RCL_Region_Similarity_Percent,Candidate_Gaps_at_SERPINE1_Residues,Candidate_Residues_at_SERPINE1_Gap_Columns,Mean_BLOSUM62_NonGap,Display_Name,Accession,Species,Ungapped_Length,Reactive_Site_Assigned,Region_Definition
+SERPINE1,25,25,100,25,100,0,0,4.52,SERPINE1,P05121,Human,25,TRUE,SERPINE1_defined_homologous_region_reactive_site_independently_known
+SERPINB3,25,8,32,12,48,0,3,1.12,SERPINB3,P29508,Human,28,TRUE,SERPINE1_defined_homologous_region_reactive_site_independently_known
+SERPINB4,25,9,36,14,56,0,3,1.48,SERPINB4,P48594,Human,28,TRUE,SERPINE1_defined_homologous_region_reactive_site_independently_known
+SERPINB11,25,6,24,11,44,1,3,0.625,SERPINB11,Q96P15,Human,27,TRUE,SERPINE1_defined_homologous_region_reactive_site_independently_known
+SERPINI1,25,8,32,17,68,2,4,1.8695652173913044,SERPINI1,Q99574,Human,27,TRUE,SERPINE1_defined_homologous_region_reactive_site_independently_known
+Spn42Da_B_A1Z6R1,25,9,36,14,56,0,6,1.64,Spn42Da-B (A1Z6R1),A1Z6R1,Drosophila,31,TRUE,SERPINE1_defined_homologous_region_reactive_site_independently_known

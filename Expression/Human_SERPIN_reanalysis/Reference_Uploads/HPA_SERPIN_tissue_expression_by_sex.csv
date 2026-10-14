@@ -1,0 +1,319 @@
+"Sex","Gene","Tissue","Biological_System","n_samples","median_TPM"
+"Female","SERPINB11","Adipose Tissue","Adipose / Metabolic",5,0
+"Female","SERPINB11","Appendix","Gastrointestinal",2,0.1039595
+"Female","SERPINB11","Bone Marrow","Blood / Circulating",2,0.694612
+"Female","SERPINB11","Breast","Reproductive",4,0.075706
+"Female","SERPINB11","Cerebral Cortex","Neural / CNS",1,0.182106
+"Female","SERPINB11","Cervix","Reproductive",2,0.702319
+"Female","SERPINB11","Choroid Plexus","Neural / CNS",1,0
+"Female","SERPINB11","Colon","Gastrointestinal",7,0.051339
+"Female","SERPINB11","Duodenum","Gastrointestinal",1,0
+"Female","SERPINB11","Endometrium","Reproductive",5,0.178299
+"Female","SERPINB11","Esophagus","Gastrointestinal",1,30.519898
+"Female","SERPINB11","Fallopian Tube","Reproductive",5,0
+"Female","SERPINB11","Gallbladder","Hepatic / Hepatobiliary",1,0
+"Female","SERPINB11","Heart Muscle","Cardiac / Skeletal Muscle",3,0
+"Female","SERPINB11","Kidney","Renal / Excretory",6,0.036889
+"Female","SERPINB11","Liver","Hepatic / Hepatobiliary",4,0
+"Female","SERPINB11","Lung","Respiratory",6,0.2953685
+"Female","SERPINB11","Lymph Node","Immune / Lymphoid",4,0.080704
+"Female","SERPINB11","Ovary","Reproductive",7,0
+"Female","SERPINB11","Pancreas","Gastrointestinal",1,0
+"Female","SERPINB11","Placenta","Reproductive",8,0.3655065
+"Female","SERPINB11","Skeletal Muscle","Cardiac / Skeletal Muscle",3,0.072815
+"Female","SERPINB11","Smooth Muscle","Vascular / Smooth Muscle",3,0
+"Female","SERPINB11","Spleen","Immune / Lymphoid",3,0.371064
+"Female","SERPINB11","Stomach","Gastrointestinal",2,0.7978435
+"Female","SERPINB11","Thymus","Immune / Lymphoid",1,0.031172
+"Female","SERPINB11","Tonsil","Immune / Lymphoid",2,5.106921
+"Female","SERPINB11","Urinary Bladder","Renal / Excretory",2,7.5392565
+"Female","SERPINB3","Adipose Tissue","Adipose / Metabolic",5,0
+"Female","SERPINB3","Appendix","Gastrointestinal",2,0.4622915
+"Female","SERPINB3","Bone Marrow","Blood / Circulating",2,0.0396945
+"Female","SERPINB3","Breast","Reproductive",4,1.0690885
+"Female","SERPINB3","Cerebral Cortex","Neural / CNS",1,0
+"Female","SERPINB3","Cervix","Reproductive",2,303.2214295
+"Female","SERPINB3","Choroid Plexus","Neural / CNS",1,0
+"Female","SERPINB3","Colon","Gastrointestinal",7,0
+"Female","SERPINB3","Duodenum","Gastrointestinal",1,0
+"Female","SERPINB3","Endometrium","Reproductive",5,0
+"Female","SERPINB3","Esophagus","Gastrointestinal",1,576.47
+"Female","SERPINB3","Fallopian Tube","Reproductive",5,0.066569
+"Female","SERPINB3","Gallbladder","Hepatic / Hepatobiliary",1,0
+"Female","SERPINB3","Heart Muscle","Cardiac / Skeletal Muscle",3,0
+"Female","SERPINB3","Kidney","Renal / Excretory",6,0.074975
+"Female","SERPINB3","Liver","Hepatic / Hepatobiliary",4,0
+"Female","SERPINB3","Lung","Respiratory",6,0.586897
+"Female","SERPINB3","Lymph Node","Immune / Lymphoid",4,0.0195755
+"Female","SERPINB3","Ovary","Reproductive",7,0
+"Female","SERPINB3","Pancreas","Gastrointestinal",1,0
+"Female","SERPINB3","Placenta","Reproductive",8,0
+"Female","SERPINB3","Skeletal Muscle","Cardiac / Skeletal Muscle",3,0
+"Female","SERPINB3","Smooth Muscle","Vascular / Smooth Muscle",3,0
+"Female","SERPINB3","Spleen","Immune / Lymphoid",3,0
+"Female","SERPINB3","Stomach","Gastrointestinal",2,0
+"Female","SERPINB3","Thymus","Immune / Lymphoid",1,8.656286
+"Female","SERPINB3","Tonsil","Immune / Lymphoid",2,11.189635
+"Female","SERPINB3","Urinary Bladder","Renal / Excretory",2,74.047765
+"Female","SERPINB4","Adipose Tissue","Adipose / Metabolic",5,0
+"Female","SERPINB4","Appendix","Gastrointestinal",2,3.96384
+"Female","SERPINB4","Bone Marrow","Blood / Circulating",2,0
+"Female","SERPINB4","Breast","Reproductive",4,0.1177725
+"Female","SERPINB4","Cerebral Cortex","Neural / CNS",1,0
+"Female","SERPINB4","Cervix","Reproductive",2,10.0144945
+"Female","SERPINB4","Choroid Plexus","Neural / CNS",1,0
+"Female","SERPINB4","Colon","Gastrointestinal",7,0
+"Female","SERPINB4","Duodenum","Gastrointestinal",1,0
+"Female","SERPINB4","Endometrium","Reproductive",5,0
+"Female","SERPINB4","Esophagus","Gastrointestinal",1,62.47994
+"Female","SERPINB4","Fallopian Tube","Reproductive",5,0
+"Female","SERPINB4","Gallbladder","Hepatic / Hepatobiliary",1,0.051354
+"Female","SERPINB4","Heart Muscle","Cardiac / Skeletal Muscle",3,0
+"Female","SERPINB4","Kidney","Renal / Excretory",6,0.077005
+"Female","SERPINB4","Liver","Hepatic / Hepatobiliary",4,0
+"Female","SERPINB4","Lung","Respiratory",6,0
+"Female","SERPINB4","Lymph Node","Immune / Lymphoid",4,0.068453
+"Female","SERPINB4","Ovary","Reproductive",7,0
+"Female","SERPINB4","Pancreas","Gastrointestinal",1,0
+"Female","SERPINB4","Placenta","Reproductive",8,0.253136
+"Female","SERPINB4","Skeletal Muscle","Cardiac / Skeletal Muscle",3,0
+"Female","SERPINB4","Smooth Muscle","Vascular / Smooth Muscle",3,0
+"Female","SERPINB4","Spleen","Immune / Lymphoid",3,0
+"Female","SERPINB4","Stomach","Gastrointestinal",2,0
+"Female","SERPINB4","Thymus","Immune / Lymphoid",1,6.09724
+"Female","SERPINB4","Tonsil","Immune / Lymphoid",2,7.144965
+"Female","SERPINB4","Urinary Bladder","Renal / Excretory",2,27.29356
+"Female","SERPINB9","Adipose Tissue","Adipose / Metabolic",5,5.39057
+"Female","SERPINB9","Appendix","Gastrointestinal",2,38.8675
+"Female","SERPINB9","Bone Marrow","Blood / Circulating",2,9.94228
+"Female","SERPINB9","Breast","Reproductive",4,4.938025
+"Female","SERPINB9","Cerebral Cortex","Neural / CNS",1,6.53867
+"Female","SERPINB9","Cervix","Reproductive",2,7.571065
+"Female","SERPINB9","Choroid Plexus","Neural / CNS",1,2.17312
+"Female","SERPINB9","Colon","Gastrointestinal",7,5.17978
+"Female","SERPINB9","Duodenum","Gastrointestinal",1,4.45816
+"Female","SERPINB9","Endometrium","Reproductive",5,6.35414
+"Female","SERPINB9","Esophagus","Gastrointestinal",1,5.87441
+"Female","SERPINB9","Fallopian Tube","Reproductive",5,9.2266
+"Female","SERPINB9","Gallbladder","Hepatic / Hepatobiliary",1,29.8619
+"Female","SERPINB9","Heart Muscle","Cardiac / Skeletal Muscle",3,2.84048
+"Female","SERPINB9","Kidney","Renal / Excretory",6,3.21641
+"Female","SERPINB9","Liver","Hepatic / Hepatobiliary",4,7.091725
+"Female","SERPINB9","Lung","Respiratory",6,16.6469
+"Female","SERPINB9","Lymph Node","Immune / Lymphoid",4,48.13735
+"Female","SERPINB9","Ovary","Reproductive",7,2.69302
+"Female","SERPINB9","Pancreas","Gastrointestinal",1,0.503357
+"Female","SERPINB9","Placenta","Reproductive",8,71.96135
+"Female","SERPINB9","Skeletal Muscle","Cardiac / Skeletal Muscle",3,0.795918
+"Female","SERPINB9","Smooth Muscle","Vascular / Smooth Muscle",3,6.47131
+"Female","SERPINB9","Spleen","Immune / Lymphoid",3,39.3571
+"Female","SERPINB9","Stomach","Gastrointestinal",2,4.732875
+"Female","SERPINB9","Thymus","Immune / Lymphoid",1,14.7342
+"Female","SERPINB9","Tonsil","Immune / Lymphoid",2,43.4983
+"Female","SERPINB9","Urinary Bladder","Renal / Excretory",2,28.11185
+"Female","SERPINE1","Adipose Tissue","Adipose / Metabolic",5,16.9346
+"Female","SERPINE1","Appendix","Gastrointestinal",2,134.8121
+"Female","SERPINE1","Bone Marrow","Blood / Circulating",2,0.795054
+"Female","SERPINE1","Breast","Reproductive",4,7.766575
+"Female","SERPINE1","Cerebral Cortex","Neural / CNS",1,4.96447
+"Female","SERPINE1","Cervix","Reproductive",2,98.9507
+"Female","SERPINE1","Choroid Plexus","Neural / CNS",1,6.08434
+"Female","SERPINE1","Colon","Gastrointestinal",7,4.34035
+"Female","SERPINE1","Duodenum","Gastrointestinal",1,3.7626
+"Female","SERPINE1","Endometrium","Reproductive",5,17.819
+"Female","SERPINE1","Esophagus","Gastrointestinal",1,8.97788
+"Female","SERPINE1","Fallopian Tube","Reproductive",5,4.71473
+"Female","SERPINE1","Gallbladder","Hepatic / Hepatobiliary",1,1322.64
+"Female","SERPINE1","Heart Muscle","Cardiac / Skeletal Muscle",3,5.91784
+"Female","SERPINE1","Kidney","Renal / Excretory",6,12.0068
+"Female","SERPINE1","Liver","Hepatic / Hepatobiliary",4,146.31505
+"Female","SERPINE1","Lung","Respiratory",6,17.44375
+"Female","SERPINE1","Lymph Node","Immune / Lymphoid",4,21.97985
+"Female","SERPINE1","Ovary","Reproductive",7,16.9725
+"Female","SERPINE1","Pancreas","Gastrointestinal",1,28.6299
+"Female","SERPINE1","Placenta","Reproductive",8,416.553
+"Female","SERPINE1","Skeletal Muscle","Cardiac / Skeletal Muscle",3,0.309948
+"Female","SERPINE1","Smooth Muscle","Vascular / Smooth Muscle",3,78.9494
+"Female","SERPINE1","Spleen","Immune / Lymphoid",3,10.7339
+"Female","SERPINE1","Stomach","Gastrointestinal",2,3.387125
+"Female","SERPINE1","Thymus","Immune / Lymphoid",1,0.722853
+"Female","SERPINE1","Tonsil","Immune / Lymphoid",2,2.75138
+"Female","SERPINE1","Urinary Bladder","Renal / Excretory",2,661.4695
+"Female","SERPINI1","Adipose Tissue","Adipose / Metabolic",5,11.552889
+"Female","SERPINI1","Appendix","Gastrointestinal",2,5.470745
+"Female","SERPINI1","Bone Marrow","Blood / Circulating",2,1.102682
+"Female","SERPINI1","Breast","Reproductive",4,14.087474
+"Female","SERPINI1","Cerebral Cortex","Neural / CNS",1,135.592755
+"Female","SERPINI1","Cervix","Reproductive",2,12.706013
+"Female","SERPINI1","Choroid Plexus","Neural / CNS",1,6.271241
+"Female","SERPINI1","Colon","Gastrointestinal",7,5.891871
+"Female","SERPINI1","Duodenum","Gastrointestinal",1,1.941067
+"Female","SERPINI1","Endometrium","Reproductive",5,13.444135
+"Female","SERPINI1","Esophagus","Gastrointestinal",1,7.102188
+"Female","SERPINI1","Fallopian Tube","Reproductive",5,11.273372
+"Female","SERPINI1","Gallbladder","Hepatic / Hepatobiliary",1,9.582664
+"Female","SERPINI1","Heart Muscle","Cardiac / Skeletal Muscle",3,11.887362
+"Female","SERPINI1","Kidney","Renal / Excretory",6,28.622353
+"Female","SERPINI1","Liver","Hepatic / Hepatobiliary",4,1.6492975
+"Female","SERPINI1","Lung","Respiratory",6,11.2515605
+"Female","SERPINI1","Lymph Node","Immune / Lymphoid",4,4.6092665
+"Female","SERPINI1","Ovary","Reproductive",7,9.197604
+"Female","SERPINI1","Pancreas","Gastrointestinal",1,6.615478
+"Female","SERPINI1","Placenta","Reproductive",8,8.9442835
+"Female","SERPINI1","Skeletal Muscle","Cardiac / Skeletal Muscle",3,0.982398
+"Female","SERPINI1","Smooth Muscle","Vascular / Smooth Muscle",3,10.334194
+"Female","SERPINI1","Spleen","Immune / Lymphoid",3,11.474082
+"Female","SERPINI1","Stomach","Gastrointestinal",2,8.929057
+"Female","SERPINI1","Thymus","Immune / Lymphoid",1,5.622664
+"Female","SERPINI1","Tonsil","Immune / Lymphoid",2,6.9690535
+"Female","SERPINI1","Urinary Bladder","Renal / Excretory",2,4.844902
+"Male","SERPINB11","Appendix","Gastrointestinal",1,0
+"Male","SERPINB11","Bone Marrow","Blood / Circulating",2,0.0666365
+"Male","SERPINB11","Cerebral Cortex","Neural / CNS",2,0.168395
+"Male","SERPINB11","Choroid Plexus","Neural / CNS",1,0
+"Male","SERPINB11","Colon","Gastrointestinal",6,0.093945
+"Male","SERPINB11","Duodenum","Gastrointestinal",1,0.071832
+"Male","SERPINB11","Esophagus","Gastrointestinal",2,44.3631455
+"Male","SERPINB11","Gallbladder","Hepatic / Hepatobiliary",2,0.528353
+"Male","SERPINB11","Heart Muscle","Cardiac / Skeletal Muscle",1,0
+"Male","SERPINB11","Kidney","Renal / Excretory",3,0
+"Male","SERPINB11","Liver","Hepatic / Hepatobiliary",6,0
+"Male","SERPINB11","Lung","Respiratory",3,0.032043
+"Male","SERPINB11","Lymph Node","Immune / Lymphoid",1,0
+"Male","SERPINB11","Pancreas","Gastrointestinal",1,0
+"Male","SERPINB11","Prostate","Reproductive",9,27.014849
+"Male","SERPINB11","Rectum","Gastrointestinal",4,0
+"Male","SERPINB11","Seminal Vesicle","Reproductive",3,0.023044
+"Male","SERPINB11","Skeletal Muscle","Cardiac / Skeletal Muscle",2,0.077497
+"Male","SERPINB11","Small Intestine","Gastrointestinal",4,0
+"Male","SERPINB11","Spleen","Immune / Lymphoid",2,0
+"Male","SERPINB11","Stomach","Gastrointestinal",2,0.264771
+"Male","SERPINB11","Testis","Reproductive",10,0.697355
+"Male","SERPINB11","Thymus","Immune / Lymphoid",2,0.130489
+"Male","SERPINB11","Tonsil","Immune / Lymphoid",3,9.518715
+"Male","SERPINB11","Urinary Bladder","Renal / Excretory",2,3.747007
+"Male","SERPINB3","Appendix","Gastrointestinal",1,0.529347
+"Male","SERPINB3","Bone Marrow","Blood / Circulating",2,0
+"Male","SERPINB3","Cerebral Cortex","Neural / CNS",2,0.0211545
+"Male","SERPINB3","Choroid Plexus","Neural / CNS",1,0
+"Male","SERPINB3","Colon","Gastrointestinal",6,0
+"Male","SERPINB3","Duodenum","Gastrointestinal",1,0
+"Male","SERPINB3","Esophagus","Gastrointestinal",2,992.8
+"Male","SERPINB3","Gallbladder","Hepatic / Hepatobiliary",2,0.5258435
+"Male","SERPINB3","Heart Muscle","Cardiac / Skeletal Muscle",1,0
+"Male","SERPINB3","Kidney","Renal / Excretory",3,0.065661
+"Male","SERPINB3","Liver","Hepatic / Hepatobiliary",6,0
+"Male","SERPINB3","Lung","Respiratory",3,0.167836
+"Male","SERPINB3","Lymph Node","Immune / Lymphoid",1,0
+"Male","SERPINB3","Pancreas","Gastrointestinal",1,0
+"Male","SERPINB3","Prostate","Reproductive",9,1.89731
+"Male","SERPINB3","Rectum","Gastrointestinal",4,0
+"Male","SERPINB3","Seminal Vesicle","Reproductive",3,0.065992
+"Male","SERPINB3","Skeletal Muscle","Cardiac / Skeletal Muscle",2,0
+"Male","SERPINB3","Small Intestine","Gastrointestinal",4,0
+"Male","SERPINB3","Spleen","Immune / Lymphoid",2,0
+"Male","SERPINB3","Stomach","Gastrointestinal",2,0
+"Male","SERPINB3","Testis","Reproductive",10,2.9230895
+"Male","SERPINB3","Thymus","Immune / Lymphoid",2,5.07624
+"Male","SERPINB3","Tonsil","Immune / Lymphoid",3,25.30473
+"Male","SERPINB3","Urinary Bladder","Renal / Excretory",2,90.2067995
+"Male","SERPINB4","Appendix","Gastrointestinal",1,3.88073
+"Male","SERPINB4","Bone Marrow","Blood / Circulating",2,0
+"Male","SERPINB4","Cerebral Cortex","Neural / CNS",2,0.1379
+"Male","SERPINB4","Choroid Plexus","Neural / CNS",1,0
+"Male","SERPINB4","Colon","Gastrointestinal",6,0
+"Male","SERPINB4","Duodenum","Gastrointestinal",1,0
+"Male","SERPINB4","Esophagus","Gastrointestinal",2,115.425456
+"Male","SERPINB4","Gallbladder","Hepatic / Hepatobiliary",2,0.02909
+"Male","SERPINB4","Heart Muscle","Cardiac / Skeletal Muscle",1,0
+"Male","SERPINB4","Kidney","Renal / Excretory",3,0
+"Male","SERPINB4","Liver","Hepatic / Hepatobiliary",6,0
+"Male","SERPINB4","Lung","Respiratory",3,0
+"Male","SERPINB4","Lymph Node","Immune / Lymphoid",1,0
+"Male","SERPINB4","Pancreas","Gastrointestinal",1,0
+"Male","SERPINB4","Prostate","Reproductive",9,0.162183
+"Male","SERPINB4","Rectum","Gastrointestinal",4,0
+"Male","SERPINB4","Seminal Vesicle","Reproductive",3,0
+"Male","SERPINB4","Skeletal Muscle","Cardiac / Skeletal Muscle",2,0
+"Male","SERPINB4","Small Intestine","Gastrointestinal",4,0
+"Male","SERPINB4","Spleen","Immune / Lymphoid",2,0
+"Male","SERPINB4","Stomach","Gastrointestinal",2,0
+"Male","SERPINB4","Testis","Reproductive",10,0.657176
+"Male","SERPINB4","Thymus","Immune / Lymphoid",2,3.670282
+"Male","SERPINB4","Tonsil","Immune / Lymphoid",3,2.423977
+"Male","SERPINB4","Urinary Bladder","Renal / Excretory",2,21.1160315
+"Male","SERPINB9","Appendix","Gastrointestinal",1,65.5753
+"Male","SERPINB9","Bone Marrow","Blood / Circulating",2,12.40357
+"Male","SERPINB9","Cerebral Cortex","Neural / CNS",2,8.52167
+"Male","SERPINB9","Choroid Plexus","Neural / CNS",1,3.39271
+"Male","SERPINB9","Colon","Gastrointestinal",6,5.07492
+"Male","SERPINB9","Duodenum","Gastrointestinal",1,4.25163
+"Male","SERPINB9","Esophagus","Gastrointestinal",2,7.83789
+"Male","SERPINB9","Gallbladder","Hepatic / Hepatobiliary",2,11.714445
+"Male","SERPINB9","Heart Muscle","Cardiac / Skeletal Muscle",1,4.01571
+"Male","SERPINB9","Kidney","Renal / Excretory",3,3.38472
+"Male","SERPINB9","Liver","Hepatic / Hepatobiliary",6,8.14901
+"Male","SERPINB9","Lung","Respiratory",3,18.4462
+"Male","SERPINB9","Lymph Node","Immune / Lymphoid",1,59.3739
+"Male","SERPINB9","Pancreas","Gastrointestinal",1,0.508493
+"Male","SERPINB9","Prostate","Reproductive",9,5.31007
+"Male","SERPINB9","Rectum","Gastrointestinal",4,6.717305
+"Male","SERPINB9","Seminal Vesicle","Reproductive",3,3.84799
+"Male","SERPINB9","Skeletal Muscle","Cardiac / Skeletal Muscle",2,0.882835
+"Male","SERPINB9","Small Intestine","Gastrointestinal",4,5.61612
+"Male","SERPINB9","Spleen","Immune / Lymphoid",2,37.38505
+"Male","SERPINB9","Stomach","Gastrointestinal",2,4.15404
+"Male","SERPINB9","Testis","Reproductive",10,13.6218
+"Male","SERPINB9","Thymus","Immune / Lymphoid",2,19.47565
+"Male","SERPINB9","Tonsil","Immune / Lymphoid",3,31.4192
+"Male","SERPINB9","Urinary Bladder","Renal / Excretory",2,9.25409
+"Male","SERPINE1","Appendix","Gastrointestinal",1,119.91
+"Male","SERPINE1","Bone Marrow","Blood / Circulating",2,1.21293
+"Male","SERPINE1","Cerebral Cortex","Neural / CNS",2,15.409565
+"Male","SERPINE1","Choroid Plexus","Neural / CNS",1,9.29021
+"Male","SERPINE1","Colon","Gastrointestinal",6,8.45514
+"Male","SERPINE1","Duodenum","Gastrointestinal",1,10.8685
+"Male","SERPINE1","Esophagus","Gastrointestinal",2,22.1082
+"Male","SERPINE1","Gallbladder","Hepatic / Hepatobiliary",2,194.1255
+"Male","SERPINE1","Heart Muscle","Cardiac / Skeletal Muscle",1,3.42436
+"Male","SERPINE1","Kidney","Renal / Excretory",3,11.1105
+"Male","SERPINE1","Liver","Hepatic / Hepatobiliary",6,117.2186
+"Male","SERPINE1","Lung","Respiratory",3,17.337
+"Male","SERPINE1","Lymph Node","Immune / Lymphoid",1,34.1424
+"Male","SERPINE1","Pancreas","Gastrointestinal",1,27.8672
+"Male","SERPINE1","Prostate","Reproductive",9,20.3983
+"Male","SERPINE1","Rectum","Gastrointestinal",4,5.11626
+"Male","SERPINE1","Seminal Vesicle","Reproductive",3,8.42598
+"Male","SERPINE1","Skeletal Muscle","Cardiac / Skeletal Muscle",2,1.0424375
+"Male","SERPINE1","Small Intestine","Gastrointestinal",4,5.268305
+"Male","SERPINE1","Spleen","Immune / Lymphoid",2,17.399785
+"Male","SERPINE1","Stomach","Gastrointestinal",2,15.739985
+"Male","SERPINE1","Testis","Reproductive",10,6.3846
+"Male","SERPINE1","Thymus","Immune / Lymphoid",2,12.4486
+"Male","SERPINE1","Tonsil","Immune / Lymphoid",3,4.09789
+"Male","SERPINE1","Urinary Bladder","Renal / Excretory",2,141.93875
+"Male","SERPINI1","Appendix","Gastrointestinal",1,5.30805
+"Male","SERPINI1","Bone Marrow","Blood / Circulating",2,1.8466275
+"Male","SERPINI1","Cerebral Cortex","Neural / CNS",2,417.368075
+"Male","SERPINI1","Choroid Plexus","Neural / CNS",1,4.327437
+"Male","SERPINI1","Colon","Gastrointestinal",6,3.64535
+"Male","SERPINI1","Duodenum","Gastrointestinal",1,2.552751
+"Male","SERPINI1","Esophagus","Gastrointestinal",2,5.5014355
+"Male","SERPINI1","Gallbladder","Hepatic / Hepatobiliary",2,9.7482895
+"Male","SERPINI1","Heart Muscle","Cardiac / Skeletal Muscle",1,3.171681
+"Male","SERPINI1","Kidney","Renal / Excretory",3,38.526299
+"Male","SERPINI1","Liver","Hepatic / Hepatobiliary",6,1.967337
+"Male","SERPINI1","Lung","Respiratory",3,7.635275
+"Male","SERPINI1","Lymph Node","Immune / Lymphoid",1,4.951427
+"Male","SERPINI1","Pancreas","Gastrointestinal",1,9.839683
+"Male","SERPINI1","Prostate","Reproductive",9,13.314039
+"Male","SERPINI1","Rectum","Gastrointestinal",4,4.969401
+"Male","SERPINI1","Seminal Vesicle","Reproductive",3,8.278469
+"Male","SERPINI1","Skeletal Muscle","Cardiac / Skeletal Muscle",2,1.007426
+"Male","SERPINI1","Small Intestine","Gastrointestinal",4,5.0085775
+"Male","SERPINI1","Spleen","Immune / Lymphoid",2,11.563985
+"Male","SERPINI1","Stomach","Gastrointestinal",2,3.618156
+"Male","SERPINI1","Testis","Reproductive",10,28.6051175
+"Male","SERPINI1","Thymus","Immune / Lymphoid",2,6.0747285
+"Male","SERPINI1","Tonsil","Immune / Lymphoid",3,7.273577
+"Male","SERPINI1","Urinary Bladder","Renal / Excretory",2,6.4146905

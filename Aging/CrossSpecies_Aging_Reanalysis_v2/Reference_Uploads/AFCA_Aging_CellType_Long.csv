@@ -1,0 +1,289 @@
+"Gene","cell_type_clean","Functional_System","Mapping_Type","Age_Contrast","Fly_Age_Day","Relative_Age","Aging_Change","Max_Absolute_Change","Largest_Increase","Largest_Decrease","Overall_Direction","Primary_Include"
+"Spn28B","Heart muscle","Cardiovascular","Anatomical/functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Heart muscle","Cardiovascular","Anatomical/functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Heart muscle","Cardiovascular","Anatomical/functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Heart muscle","Cardiovascular","Anatomical/functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Differentiating enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Differentiating enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Differentiating enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,NA,0,0,0,"Minimal change",TRUE
+"Spn28B","Differentiating enterocyte","Digestive","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Hindgut","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Hindgut","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0.0223221976013967,0.0223221976013967,0.0223221976013967,0,"Minimal change",TRUE
+"Spn28B","Hindgut","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0.00951408514388548,0.0223221976013967,0.0223221976013967,0,"Minimal change",TRUE
+"Spn28B","Hindgut","Digestive","Functional","70d_vs_5d",70,1,0,0.0223221976013967,0.0223221976013967,0,"Minimal change",TRUE
+"Spn28B","Midgut enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Midgut enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Midgut enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Midgut enterocyte","Digestive","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Malpighian tubule principal","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Malpighian tubule principal","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Malpighian tubule principal","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Malpighian tubule principal","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Malpighian tubule stellate","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Malpighian tubule stellate","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Malpighian tubule stellate","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Malpighian tubule stellate","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Amp-producing cell","Immune defense","Functional immune-defense proxy","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Amp-producing cell","Immune defense","Functional immune-defense proxy","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Amp-producing cell","Immune defense","Functional immune-defense proxy","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Amp-producing cell","Immune defense","Functional immune-defense proxy","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Fat body body","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Fat body body","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.061017182709844,0.061017182709844,-0.0405493165311434,-0.061017182709844,"Minimal change",TRUE
+"Spn28B","Fat body body","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.0476431813396763,0.061017182709844,-0.0405493165311434,-0.061017182709844,"Minimal change",TRUE
+"Spn28B","Fat body body","Metabolic","Functional","70d_vs_5d",70,1,-0.0405493165311434,0.061017182709844,-0.0405493165311434,-0.061017182709844,"Minimal change",TRUE
+"Spn28B","Fat body head","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Fat body head","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,0,0.0696295974986791,0.0696295974986791,0,"Minimal change",TRUE
+"Spn28B","Fat body head","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,0.0335423906958475,0.0696295974986791,0.0696295974986791,0,"Minimal change",TRUE
+"Spn28B","Fat body head","Metabolic","Functional","70d_vs_5d",70,1,0.0696295974986791,0.0696295974986791,0.0696295974986791,0,"Minimal change",TRUE
+"Spn28B","Oenocyte","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Oenocyte","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,0,0.00241292943060921,0.00241292943060921,0,"Minimal change",TRUE
+"Spn28B","Oenocyte","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,0.000904320961186198,0.00241292943060921,0.00241292943060921,0,"Minimal change",TRUE
+"Spn28B","Oenocyte","Metabolic","Functional","70d_vs_5d",70,1,0.00241292943060921,0.00241292943060921,0.00241292943060921,0,"Minimal change",TRUE
+"Spn28B","Tracheal cell","Respiratory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Tracheal cell","Respiratory","Functional","30d_vs_5d",30,0.384615384615385,0.00250617565715478,0.00250617565715478,0.00250617565715478,0,"Minimal change",TRUE
+"Spn28B","Tracheal cell","Respiratory","Functional","50d_vs_5d",50,0.692307692307692,0,0.00250617565715478,0.00250617565715478,0,"Minimal change",TRUE
+"Spn28B","Tracheal cell","Respiratory","Functional","70d_vs_5d",70,1,0.000279402744757585,0.00250617565715478,0.00250617565715478,0,"Minimal change",TRUE
+"Spn28B","Salivary gland","Secretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28B","Salivary gland","Secretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Salivary gland","Secretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28B","Salivary gland","Secretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Heart muscle","Cardiovascular","Anatomical/functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Heart muscle","Cardiovascular","Anatomical/functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Heart muscle","Cardiovascular","Anatomical/functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Heart muscle","Cardiovascular","Anatomical/functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Differentiating enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Differentiating enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.0339464820088242,0.0339464820088242,-0.0339464820088242,-0.0339464820088242,"Minimal change",TRUE
+"Spn28F","Differentiating enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,NA,0.0339464820088242,-0.0339464820088242,-0.0339464820088242,"Minimal change",TRUE
+"Spn28F","Differentiating enterocyte","Digestive","Functional","70d_vs_5d",70,1,-0.0339464820088242,0.0339464820088242,-0.0339464820088242,-0.0339464820088242,"Minimal change",TRUE
+"Spn28F","Hindgut","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Hindgut","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.00794004177502,0.0207230060646649,0.0207230060646649,-0.00794004177502,"Minimal change",TRUE
+"Spn28F","Hindgut","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0.0207230060646649,0.0207230060646649,0.0207230060646649,-0.00794004177502,"Minimal change",TRUE
+"Spn28F","Hindgut","Digestive","Functional","70d_vs_5d",70,1,-0.00794004177502,0.0207230060646649,0.0207230060646649,-0.00794004177502,"Minimal change",TRUE
+"Spn28F","Midgut enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Midgut enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Midgut enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Midgut enterocyte","Digestive","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Malpighian tubule principal","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Malpighian tubule principal","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Malpighian tubule principal","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Malpighian tubule principal","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Malpighian tubule stellate","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Malpighian tubule stellate","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0.724109325742557,0.724109325742557,0,"Increased with age",TRUE
+"Spn28F","Malpighian tubule stellate","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0.724109325742557,0.724109325742557,0.724109325742557,0,"Increased with age",TRUE
+"Spn28F","Malpighian tubule stellate","Excretory","Functional","70d_vs_5d",70,1,0,0.724109325742557,0.724109325742557,0,"Increased with age",TRUE
+"Spn28F","Amp-producing cell","Immune defense","Functional immune-defense proxy","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Amp-producing cell","Immune defense","Functional immune-defense proxy","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Amp-producing cell","Immune defense","Functional immune-defense proxy","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Amp-producing cell","Immune defense","Functional immune-defense proxy","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Fat body body","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Fat body body","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.0118169948897319,0.011892036089613,-0.00637277284728595,-0.011892036089613,"Minimal change",TRUE
+"Spn28F","Fat body body","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.00637277284728595,0.011892036089613,-0.00637277284728595,-0.011892036089613,"Minimal change",TRUE
+"Spn28F","Fat body body","Metabolic","Functional","70d_vs_5d",70,1,-0.011892036089613,0.011892036089613,-0.00637277284728595,-0.011892036089613,"Minimal change",TRUE
+"Spn28F","Fat body head","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Fat body head","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Fat body head","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Fat body head","Metabolic","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn28F","Oenocyte","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Oenocyte","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.000987426414321235,0.00904278871232883,-0.000987426414321235,-0.00904278871232883,"Minimal change",TRUE
+"Spn28F","Oenocyte","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.00170947292682514,0.00904278871232883,-0.000987426414321235,-0.00904278871232883,"Minimal change",TRUE
+"Spn28F","Oenocyte","Metabolic","Functional","70d_vs_5d",70,1,-0.00904278871232883,0.00904278871232883,-0.000987426414321235,-0.00904278871232883,"Minimal change",TRUE
+"Spn28F","Tracheal cell","Respiratory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Tracheal cell","Respiratory","Functional","30d_vs_5d",30,0.384615384615385,-0.00527446170988713,0.00548577378589704,-0.00139704837437591,-0.00548577378589704,"Minimal change",TRUE
+"Spn28F","Tracheal cell","Respiratory","Functional","50d_vs_5d",50,0.692307692307692,-0.00139704837437591,0.00548577378589704,-0.00139704837437591,-0.00548577378589704,"Minimal change",TRUE
+"Spn28F","Tracheal cell","Respiratory","Functional","70d_vs_5d",70,1,-0.00548577378589704,0.00548577378589704,-0.00139704837437591,-0.00548577378589704,"Minimal change",TRUE
+"Spn28F","Salivary gland","Secretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn28F","Salivary gland","Secretory","Functional","30d_vs_5d",30,0.384615384615385,0,0.0182809023941917,0.0182809023941917,0,"Minimal change",TRUE
+"Spn28F","Salivary gland","Secretory","Functional","50d_vs_5d",50,0.692307692307692,0.0182809023941917,0.0182809023941917,0.0182809023941917,0,"Minimal change",TRUE
+"Spn28F","Salivary gland","Secretory","Functional","70d_vs_5d",70,1,0,0.0182809023941917,0.0182809023941917,0,"Minimal change",TRUE
+"Spn42Da","Heart muscle","Cardiovascular","Anatomical/functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Heart muscle","Cardiovascular","Anatomical/functional","30d_vs_5d",30,0.384615384615385,-0.129932866131434,0.174778447477055,0.173334506558966,-0.174778447477055,"Minimal change",TRUE
+"Spn42Da","Heart muscle","Cardiovascular","Anatomical/functional","50d_vs_5d",50,0.692307692307692,0.173334506558966,0.174778447477055,0.173334506558966,-0.174778447477055,"Minimal change",TRUE
+"Spn42Da","Heart muscle","Cardiovascular","Anatomical/functional","70d_vs_5d",70,1,-0.174778447477055,0.174778447477055,0.173334506558966,-0.174778447477055,"Minimal change",TRUE
+"Spn42Da","Differentiating enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Differentiating enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.562262437093738,0.562262437093738,-0.479189710399574,-0.562262437093738,"Decreased with age",TRUE
+"Spn42Da","Differentiating enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,NA,0.562262437093738,-0.479189710399574,-0.562262437093738,"Decreased with age",TRUE
+"Spn42Da","Differentiating enterocyte","Digestive","Functional","70d_vs_5d",70,1,-0.479189710399574,0.562262437093738,-0.479189710399574,-0.562262437093738,"Decreased with age",TRUE
+"Spn42Da","Hindgut","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Hindgut","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0.0280154689352871,0.0749076249291715,0.0280154689352871,-0.0749076249291715,"Minimal change",TRUE
+"Spn42Da","Hindgut","Digestive","Functional","50d_vs_5d",50,0.692307692307692,-0.0534867745978782,0.0749076249291715,0.0280154689352871,-0.0749076249291715,"Minimal change",TRUE
+"Spn42Da","Hindgut","Digestive","Functional","70d_vs_5d",70,1,-0.0749076249291715,0.0749076249291715,0.0280154689352871,-0.0749076249291715,"Minimal change",TRUE
+"Spn42Da","Midgut enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Midgut enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.437379350294528,0.437379350294528,0.368245597765763,-0.437379350294528,"Decreased with age",TRUE
+"Spn42Da","Midgut enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0.200230429409116,0.437379350294528,0.368245597765763,-0.437379350294528,"Decreased with age",TRUE
+"Spn42Da","Midgut enterocyte","Digestive","Functional","70d_vs_5d",70,1,0.368245597765763,0.437379350294528,0.368245597765763,-0.437379350294528,"Decreased with age",TRUE
+"Spn42Da","Malpighian tubule principal","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Malpighian tubule principal","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0.248130919665944,0.248130919665944,0,"Increased with age",TRUE
+"Spn42Da","Malpighian tubule principal","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0.248130919665944,0.248130919665944,0.248130919665944,0,"Increased with age",TRUE
+"Spn42Da","Malpighian tubule principal","Excretory","Functional","70d_vs_5d",70,1,0,0.248130919665944,0.248130919665944,0,"Increased with age",TRUE
+"Spn42Da","Malpighian tubule stellate","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Malpighian tubule stellate","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0.725821284934582,0.725821284934582,0,"Increased with age",TRUE
+"Spn42Da","Malpighian tubule stellate","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0.725821284934582,0.725821284934582,0.725821284934582,0,"Increased with age",TRUE
+"Spn42Da","Malpighian tubule stellate","Excretory","Functional","70d_vs_5d",70,1,0.233757238038065,0.725821284934582,0.725821284934582,0,"Increased with age",TRUE
+"Spn42Da","Amp-producing cell","Immune defense","Functional immune-defense proxy","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Amp-producing cell","Immune defense","Functional immune-defense proxy","30d_vs_5d",30,0.384615384615385,-0.0119988763480556,0.235508624299629,0.235508624299629,-0.0119988763480556,"Increased with age",TRUE
+"Spn42Da","Amp-producing cell","Immune defense","Functional immune-defense proxy","50d_vs_5d",50,0.692307692307692,0.235508624299629,0.235508624299629,0.235508624299629,-0.0119988763480556,"Increased with age",TRUE
+"Spn42Da","Amp-producing cell","Immune defense","Functional immune-defense proxy","70d_vs_5d",70,1,0.219149902722984,0.235508624299629,0.235508624299629,-0.0119988763480556,"Increased with age",TRUE
+"Spn42Da","Fat body body","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Fat body body","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.0976702755660101,0.0976702755660101,0.0432112976944848,-0.0976702755660101,"Minimal change",TRUE
+"Spn42Da","Fat body body","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.0823695455305593,0.0976702755660101,0.0432112976944848,-0.0976702755660101,"Minimal change",TRUE
+"Spn42Da","Fat body body","Metabolic","Functional","70d_vs_5d",70,1,0.0432112976944848,0.0976702755660101,0.0432112976944848,-0.0976702755660101,"Minimal change",TRUE
+"Spn42Da","Fat body head","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Fat body head","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,0.11396326174776,0.172950074830683,0.172950074830683,0.0948428514285943,"Minimal change",TRUE
+"Spn42Da","Fat body head","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,0.0948428514285943,0.172950074830683,0.172950074830683,0.0948428514285943,"Minimal change",TRUE
+"Spn42Da","Fat body head","Metabolic","Functional","70d_vs_5d",70,1,0.172950074830683,0.172950074830683,0.172950074830683,0.0948428514285943,"Minimal change",TRUE
+"Spn42Da","Oenocyte","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Oenocyte","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.094467925115595,0.094467925115595,-0.0660869775155572,-0.094467925115595,"Minimal change",TRUE
+"Spn42Da","Oenocyte","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.0771517190500553,0.094467925115595,-0.0660869775155572,-0.094467925115595,"Minimal change",TRUE
+"Spn42Da","Oenocyte","Metabolic","Functional","70d_vs_5d",70,1,-0.0660869775155572,0.094467925115595,-0.0660869775155572,-0.094467925115595,"Minimal change",TRUE
+"Spn42Da","Tracheal cell","Respiratory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Tracheal cell","Respiratory","Functional","30d_vs_5d",30,0.384615384615385,0.0138214825878934,0.0690062331482861,0.0690062331482861,0.0138214825878934,"Minimal change",TRUE
+"Spn42Da","Tracheal cell","Respiratory","Functional","50d_vs_5d",50,0.692307692307692,0.0468473672246776,0.0690062331482861,0.0690062331482861,0.0138214825878934,"Minimal change",TRUE
+"Spn42Da","Tracheal cell","Respiratory","Functional","70d_vs_5d",70,1,0.0690062331482861,0.0690062331482861,0.0690062331482861,0.0138214825878934,"Minimal change",TRUE
+"Spn42Da","Salivary gland","Secretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Da","Salivary gland","Secretory","Functional","30d_vs_5d",30,0.384615384615385,-0.128950564256005,0.133559317689295,-0.121112865824389,-0.133559317689295,"Minimal change",TRUE
+"Spn42Da","Salivary gland","Secretory","Functional","50d_vs_5d",50,0.692307692307692,-0.133559317689295,0.133559317689295,-0.121112865824389,-0.133559317689295,"Minimal change",TRUE
+"Spn42Da","Salivary gland","Secretory","Functional","70d_vs_5d",70,1,-0.121112865824389,0.133559317689295,-0.121112865824389,-0.133559317689295,"Minimal change",TRUE
+"Spn42Db","Heart muscle","Cardiovascular","Anatomical/functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Heart muscle","Cardiovascular","Anatomical/functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Heart muscle","Cardiovascular","Anatomical/functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Heart muscle","Cardiovascular","Anatomical/functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Differentiating enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Differentiating enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Differentiating enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,NA,0,0,0,"Minimal change",TRUE
+"Spn42Db","Differentiating enterocyte","Digestive","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Hindgut","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Hindgut","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.0216546344421139,0.0216546344421139,-0.0216546344421139,-0.0216546344421139,"Minimal change",TRUE
+"Spn42Db","Hindgut","Digestive","Functional","50d_vs_5d",50,0.692307692307692,-0.0216546344421139,0.0216546344421139,-0.0216546344421139,-0.0216546344421139,"Minimal change",TRUE
+"Spn42Db","Hindgut","Digestive","Functional","70d_vs_5d",70,1,-0.0216546344421139,0.0216546344421139,-0.0216546344421139,-0.0216546344421139,"Minimal change",TRUE
+"Spn42Db","Midgut enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Midgut enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0,0.0205580532065688,0.0205580532065688,0,"Minimal change",TRUE
+"Spn42Db","Midgut enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0,0.0205580532065688,0.0205580532065688,0,"Minimal change",TRUE
+"Spn42Db","Midgut enterocyte","Digestive","Functional","70d_vs_5d",70,1,0.0205580532065688,0.0205580532065688,0.0205580532065688,0,"Minimal change",TRUE
+"Spn42Db","Malpighian tubule principal","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Malpighian tubule principal","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Malpighian tubule principal","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Malpighian tubule principal","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Malpighian tubule stellate","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Malpighian tubule stellate","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Malpighian tubule stellate","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Malpighian tubule stellate","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Amp-producing cell","Immune defense","Functional immune-defense proxy","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Amp-producing cell","Immune defense","Functional immune-defense proxy","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Amp-producing cell","Immune defense","Functional immune-defense proxy","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Amp-producing cell","Immune defense","Functional immune-defense proxy","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Fat body body","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Fat body body","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.000929204307561879,0.00182885378929175,-0.000929204307561879,-0.00182885378929175,"Minimal change",TRUE
+"Spn42Db","Fat body body","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.00123165413379127,0.00182885378929175,-0.000929204307561879,-0.00182885378929175,"Minimal change",TRUE
+"Spn42Db","Fat body body","Metabolic","Functional","70d_vs_5d",70,1,-0.00182885378929175,0.00182885378929175,-0.000929204307561879,-0.00182885378929175,"Minimal change",TRUE
+"Spn42Db","Fat body head","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Fat body head","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Fat body head","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Fat body head","Metabolic","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Oenocyte","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Oenocyte","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.00166439750686748,0.0074711002519572,-0.00166439750686748,-0.0074711002519572,"Minimal change",TRUE
+"Spn42Db","Oenocyte","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.0074711002519572,0.0074711002519572,-0.00166439750686748,-0.0074711002519572,"Minimal change",TRUE
+"Spn42Db","Oenocyte","Metabolic","Functional","70d_vs_5d",70,1,-0.0062066991043816,0.0074711002519572,-0.00166439750686748,-0.0074711002519572,"Minimal change",TRUE
+"Spn42Db","Tracheal cell","Respiratory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Tracheal cell","Respiratory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Tracheal cell","Respiratory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Tracheal cell","Respiratory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Salivary gland","Secretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Db","Salivary gland","Secretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Salivary gland","Secretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Db","Salivary gland","Secretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Heart muscle","Cardiovascular","Anatomical/functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Heart muscle","Cardiovascular","Anatomical/functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Heart muscle","Cardiovascular","Anatomical/functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Heart muscle","Cardiovascular","Anatomical/functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Differentiating enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Differentiating enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.161306068130792,0.161306068130792,-0.106734286988591,-0.161306068130792,"Minimal change",TRUE
+"Spn42Dc","Differentiating enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,NA,0.161306068130792,-0.106734286988591,-0.161306068130792,"Minimal change",TRUE
+"Spn42Dc","Differentiating enterocyte","Digestive","Functional","70d_vs_5d",70,1,-0.106734286988591,0.161306068130792,-0.106734286988591,-0.161306068130792,"Minimal change",TRUE
+"Spn42Dc","Hindgut","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Hindgut","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.0251939115567366,0.0251939115567366,-0.00296309640964883,-0.0251939115567366,"Minimal change",TRUE
+"Spn42Dc","Hindgut","Digestive","Functional","50d_vs_5d",50,0.692307692307692,-0.00296309640964883,0.0251939115567366,-0.00296309640964883,-0.0251939115567366,"Minimal change",TRUE
+"Spn42Dc","Hindgut","Digestive","Functional","70d_vs_5d",70,1,-0.0251939115567366,0.0251939115567366,-0.00296309640964883,-0.0251939115567366,"Minimal change",TRUE
+"Spn42Dc","Midgut enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Midgut enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Midgut enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Midgut enterocyte","Digestive","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Malpighian tubule principal","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Malpighian tubule principal","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Malpighian tubule principal","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Malpighian tubule principal","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Malpighian tubule stellate","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Malpighian tubule stellate","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Malpighian tubule stellate","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Malpighian tubule stellate","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Amp-producing cell","Immune defense","Functional immune-defense proxy","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Amp-producing cell","Immune defense","Functional immune-defense proxy","30d_vs_5d",30,0.384615384615385,0.0259612999121704,0.0940193441503719,0.0940193441503719,0,"Minimal change",TRUE
+"Spn42Dc","Amp-producing cell","Immune defense","Functional immune-defense proxy","50d_vs_5d",50,0.692307692307692,0.0940193441503719,0.0940193441503719,0.0940193441503719,0,"Minimal change",TRUE
+"Spn42Dc","Amp-producing cell","Immune defense","Functional immune-defense proxy","70d_vs_5d",70,1,0,0.0940193441503719,0.0940193441503719,0,"Minimal change",TRUE
+"Spn42Dc","Fat body body","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Fat body body","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.0720917043205602,0.0728833070659124,-0.0636371698868804,-0.0728833070659124,"Minimal change",TRUE
+"Spn42Dc","Fat body body","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.0728833070659124,0.0728833070659124,-0.0636371698868804,-0.0728833070659124,"Minimal change",TRUE
+"Spn42Dc","Fat body body","Metabolic","Functional","70d_vs_5d",70,1,-0.0636371698868804,0.0728833070659124,-0.0636371698868804,-0.0728833070659124,"Minimal change",TRUE
+"Spn42Dc","Fat body head","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Fat body head","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,0.00346868798947836,0.0428134003065362,0.0428134003065362,0.00346868798947836,"Minimal change",TRUE
+"Spn42Dc","Fat body head","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,0.0221758618075619,0.0428134003065362,0.0428134003065362,0.00346868798947836,"Minimal change",TRUE
+"Spn42Dc","Fat body head","Metabolic","Functional","70d_vs_5d",70,1,0.0428134003065362,0.0428134003065362,0.0428134003065362,0.00346868798947836,"Minimal change",TRUE
+"Spn42Dc","Oenocyte","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Oenocyte","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,0.00381844410604804,0.00381844410604804,0.00381844410604804,-0.00337383800007886,"Minimal change",TRUE
+"Spn42Dc","Oenocyte","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.00337383800007886,0.00381844410604804,0.00381844410604804,-0.00337383800007886,"Minimal change",TRUE
+"Spn42Dc","Oenocyte","Metabolic","Functional","70d_vs_5d",70,1,-0.00279978030184975,0.00381844410604804,0.00381844410604804,-0.00337383800007886,"Minimal change",TRUE
+"Spn42Dc","Tracheal cell","Respiratory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Tracheal cell","Respiratory","Functional","30d_vs_5d",30,0.384615384615385,-0.000606104490505033,0.00240838289836091,0.00228665785558651,-0.00240838289836091,"Minimal change",TRUE
+"Spn42Dc","Tracheal cell","Respiratory","Functional","50d_vs_5d",50,0.692307692307692,0.00228665785558651,0.00240838289836091,0.00228665785558651,-0.00240838289836091,"Minimal change",TRUE
+"Spn42Dc","Tracheal cell","Respiratory","Functional","70d_vs_5d",70,1,-0.00240838289836091,0.00240838289836091,0.00228665785558651,-0.00240838289836091,"Minimal change",TRUE
+"Spn42Dc","Salivary gland","Secretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dc","Salivary gland","Secretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Salivary gland","Secretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dc","Salivary gland","Secretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Heart muscle","Cardiovascular","Anatomical/functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Heart muscle","Cardiovascular","Anatomical/functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Heart muscle","Cardiovascular","Anatomical/functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Heart muscle","Cardiovascular","Anatomical/functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Differentiating enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Differentiating enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,-0.0755270409771853,0.0755270409771853,-0.0755270409771853,-0.0755270409771853,"Minimal change",TRUE
+"Spn42Dd","Differentiating enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,NA,0.0755270409771853,-0.0755270409771853,-0.0755270409771853,"Minimal change",TRUE
+"Spn42Dd","Differentiating enterocyte","Digestive","Functional","70d_vs_5d",70,1,-0.0755270409771853,0.0755270409771853,-0.0755270409771853,-0.0755270409771853,"Minimal change",TRUE
+"Spn42Dd","Hindgut","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Hindgut","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0.00237740456788306,0.064636766368992,0.00237740456788306,-0.064636766368992,"Minimal change",TRUE
+"Spn42Dd","Hindgut","Digestive","Functional","50d_vs_5d",50,0.692307692307692,-0.0445119893032055,0.064636766368992,0.00237740456788306,-0.064636766368992,"Minimal change",TRUE
+"Spn42Dd","Hindgut","Digestive","Functional","70d_vs_5d",70,1,-0.064636766368992,0.064636766368992,0.00237740456788306,-0.064636766368992,"Minimal change",TRUE
+"Spn42Dd","Midgut enterocyte","Digestive","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Midgut enterocyte","Digestive","Functional","30d_vs_5d",30,0.384615384615385,0,0.282423106652938,0.282423106652938,0,"Increased with age",TRUE
+"Spn42Dd","Midgut enterocyte","Digestive","Functional","50d_vs_5d",50,0.692307692307692,0,0.282423106652938,0.282423106652938,0,"Increased with age",TRUE
+"Spn42Dd","Midgut enterocyte","Digestive","Functional","70d_vs_5d",70,1,0.282423106652938,0.282423106652938,0.282423106652938,0,"Increased with age",TRUE
+"Spn42Dd","Malpighian tubule principal","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Malpighian tubule principal","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Malpighian tubule principal","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Malpighian tubule principal","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Malpighian tubule stellate","Excretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Malpighian tubule stellate","Excretory","Functional","30d_vs_5d",30,0.384615384615385,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Malpighian tubule stellate","Excretory","Functional","50d_vs_5d",50,0.692307692307692,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Malpighian tubule stellate","Excretory","Functional","70d_vs_5d",70,1,0,0,0,0,"Minimal change",TRUE
+"Spn42Dd","Amp-producing cell","Immune defense","Functional immune-defense proxy","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Amp-producing cell","Immune defense","Functional immune-defense proxy","30d_vs_5d",30,0.384615384615385,0,0.0821004477577047,0.0821004477577047,0,"Minimal change",TRUE
+"Spn42Dd","Amp-producing cell","Immune defense","Functional immune-defense proxy","50d_vs_5d",50,0.692307692307692,0.0821004477577047,0.0821004477577047,0.0821004477577047,0,"Minimal change",TRUE
+"Spn42Dd","Amp-producing cell","Immune defense","Functional immune-defense proxy","70d_vs_5d",70,1,0,0.0821004477577047,0.0821004477577047,0,"Minimal change",TRUE
+"Spn42Dd","Fat body body","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Fat body body","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.194709482107322,0.194709482107322,-0.156647355737711,-0.194709482107322,"Minimal change",TRUE
+"Spn42Dd","Fat body body","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.180474530330255,0.194709482107322,-0.156647355737711,-0.194709482107322,"Minimal change",TRUE
+"Spn42Dd","Fat body body","Metabolic","Functional","70d_vs_5d",70,1,-0.156647355737711,0.194709482107322,-0.156647355737711,-0.194709482107322,"Minimal change",TRUE
+"Spn42Dd","Fat body head","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Fat body head","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.0273384084679111,0.154060763621766,-0.0273384084679111,-0.154060763621766,"Minimal change",TRUE
+"Spn42Dd","Fat body head","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.154060763621766,0.154060763621766,-0.0273384084679111,-0.154060763621766,"Minimal change",TRUE
+"Spn42Dd","Fat body head","Metabolic","Functional","70d_vs_5d",70,1,-0.114627962819643,0.154060763621766,-0.0273384084679111,-0.154060763621766,"Minimal change",TRUE
+"Spn42Dd","Oenocyte","Metabolic","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Oenocyte","Metabolic","Functional","30d_vs_5d",30,0.384615384615385,-0.00634910997084044,0.00634910997084044,-0.00347935307755391,-0.00634910997084044,"Minimal change",TRUE
+"Spn42Dd","Oenocyte","Metabolic","Functional","50d_vs_5d",50,0.692307692307692,-0.00347935307755391,0.00634910997084044,-0.00347935307755391,-0.00634910997084044,"Minimal change",TRUE
+"Spn42Dd","Oenocyte","Metabolic","Functional","70d_vs_5d",70,1,-0.00621255482790987,0.00634910997084044,-0.00347935307755391,-0.00634910997084044,"Minimal change",TRUE
+"Spn42Dd","Tracheal cell","Respiratory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Tracheal cell","Respiratory","Functional","30d_vs_5d",30,0.384615384615385,-0.00223886480855192,0.0174293788433092,0.0174293788433092,-0.00223886480855192,"Minimal change",TRUE
+"Spn42Dd","Tracheal cell","Respiratory","Functional","50d_vs_5d",50,0.692307692307692,0.0174293788433092,0.0174293788433092,0.0174293788433092,-0.00223886480855192,"Minimal change",TRUE
+"Spn42Dd","Tracheal cell","Respiratory","Functional","70d_vs_5d",70,1,0.00383299227734712,0.0174293788433092,0.0174293788433092,-0.00223886480855192,"Minimal change",TRUE
+"Spn42Dd","Salivary gland","Secretory","Functional","5d_reference",5,0,0,NA,NA,NA,NA,NA
+"Spn42Dd","Salivary gland","Secretory","Functional","30d_vs_5d",30,0.384615384615385,-0.0992260132050842,0.100890481385587,-0.0907841644768859,-0.100890481385587,"Minimal change",TRUE
+"Spn42Dd","Salivary gland","Secretory","Functional","50d_vs_5d",50,0.692307692307692,-0.0907841644768859,0.100890481385587,-0.0907841644768859,-0.100890481385587,"Minimal change",TRUE
+"Spn42Dd","Salivary gland","Secretory","Functional","70d_vs_5d",70,1,-0.100890481385587,0.100890481385587,-0.0907841644768859,-0.100890481385587,"Minimal change",TRUE

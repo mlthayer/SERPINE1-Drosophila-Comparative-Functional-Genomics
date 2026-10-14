@@ -1,0 +1,15 @@
+File,Local_Path_Flagged
+All_System_Comparisons.csv,TRUE
+Best_Match_Counts.csv,TRUE
+Best_Matches.csv,TRUE
+Female_All.csv,TRUE
+Female_Best.csv,TRUE
+Female_Consistent.csv,TRUE
+Female_GTEx_HPA.csv,TRUE
+Female_SERPINE1.csv,TRUE
+GTEx_HPA_Agreement.csv,TRUE
+Male_All.csv,TRUE
+Male_Best.csv,TRUE
+Male_Consistent.csv,TRUE
+Male_GTEx_HPA.csv,TRUE
+Male_SERPINE1.csv,TRUE

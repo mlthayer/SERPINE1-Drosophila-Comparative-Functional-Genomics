@@ -1,0 +1,2 @@
+Reference_Gene,Reference_Window,Full_Length_RCL_Start,Full_Length_P1,P1_Residue,Full_Length_P1prime,P1prime_Residue,Full_Length_RCL_End,Full_Alignment_Start_Column,Full_Alignment_P1_Column,Full_Alignment_P1prime_Column,Full_Alignment_End_Column,Local_P1_Column,Local_P1prime_Column
+SERPINE1,P17-P8prime,353,369,R,370,M,377,402,418,419,433,17,18

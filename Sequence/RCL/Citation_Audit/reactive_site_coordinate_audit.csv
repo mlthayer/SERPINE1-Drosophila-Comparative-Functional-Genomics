@@ -1,0 +1,7 @@
+Gene,Accession,FASTA_Length,P1_Full_Length,P1prime_Full_Length,Observed_Bond,FASTA_SHA256,Evidence_Status
+SERPINE1,P05121,402,369,370,RM,85dcfe09ecc84ccb794ab1798f9ec2cc76cf5baf8cd55ead4a44e26bb3cebc08,sequence coordinate checked; primary citation not independently verified
+SERPINB3,P29508,390,354,355,SS,5c4614c4d52442776e0746f74c58b0db8f9a4db4d6198d55b683b77009c691d6,sequence coordinate checked; primary citation not independently verified
+SERPINB4,P48594,390,354,355,LS,643fa1288d817ac7bffeff47a136d869915cf33b3dad9106aee8f3f4e6d86684,sequence coordinate checked; primary citation not independently verified
+SERPINB11,Q96P15,392,357,358,KS,181a25e6b7ac06950eeac206ac105b7f465177c5727b6b9f24d288e8867037f9,sequence coordinate checked; primary citation not independently verified
+SERPINI1,Q99574,410,362,363,RM,427a0ceb387b652acf26bd09faf43b0f4e0bf34ea854bf5deff7dae6010ef0af,sequence coordinate checked; primary citation not independently verified
+Spn42Da-B,A1Z6R1,424,374,375,RA,9aa5248eccb820788230b66d36238b778180413956a96fcbf0f79df0cd08e15e,"Ellisdon et al. 2014 pp. 2-4,6-7 inspected; shared-RCL/construct +32 coordinate mapping; signal-cleavage boundary not experimentally established here"

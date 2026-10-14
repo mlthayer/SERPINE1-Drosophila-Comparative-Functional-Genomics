@@ -1,0 +1,51 @@
+FlyBase ID	FBgn0033112
+Annotation Symbol	CG9454
+Symbol	Spn42Db
+Name	Serpin 42Db
+
+		RC/FBtr0300358		RD/FBtr0310521		
+		FPKM	SD	FPKM	SD	
+Adult Male	Head	0.08	0.14	0.02	0.04	
+Adult Male	Eye	0.0	0.0	0.09	0.03	
+Adult Male	Brain	0.02	0.03	0.04	0.05	
+Adult Male	Thoracicoabdominal ganglion	0.0	0.0	0.13	0.08	
+Adult Male	Crop	0.04	0.05	0.02	0.03	
+Adult Male	Midgut	0.04	0.07	0.0	0.0	
+Adult Male	Hindgut	0.1	0.11	0.12	0.2	
+Adult Male	Malpighian Tubules	0.19	0.33	0.27	0.28	
+Adult Male	Rectal pad	0.07	0.07	0.0	0.0	
+Adult Male	Salivary gland	0.0	0.0	0.0	0.0	
+Adult Male	Fat body	0.26	0.44	0.0	0.0	
+Adult Male	Heart	0.66	0.17	0.0	0.0	
+Adult Male	Testis	5.22	1.95	6.08	0.95	
+Adult Male	Accessory glands	0.05	0.09	0.02	0.04	
+Adult Male	Carcass	0.16	0.18	0.25	0.04	
+Adult Male	Whole body	0.61	0.29	0.69	0.35	
+Adult Female	Head	0.02	0.04	0.13	0.11	
+Adult Female	Eye	0.01	0.02	0.17	0.03	
+Adult Female	Brain	0.07	0.06	0.02	0.04	
+Adult Female	Thoracicoabdominal ganglion	0.04	0.05	0.04	0.06	
+Adult Female	Crop	0.0	0.0	0.0	0.0	
+Adult Female	Midgut	0.0	0.0	0.14	0.13	
+Adult Female	Hindgut	0.0	0.0	0.1	0.05	
+Adult Female	Malpighian Tubules	0.25	0.22	0.1	0.11	
+Adult Female	Rectal pad	0.11	0.15	0.0	0.0	
+Adult Female	Salivary gland	0.0	0.0	0.0	0.0	
+Adult Female	Fat body	0.17	0.29	0.1	0.17	
+Adult Female	Heart	0.0	0.0	0.2	0.13	
+Adult Female	Ovary	0.1	0.11	0.0	0.0	
+Adult Female	Virgin Spermatheca	0.0	0.0	0.0	0.0	
+Adult Female	Mated Spermatheca	0.06	0.1	0.0	0.0	
+Adult Female	Carcass	0.27	0.24	0.0	0.0	
+Adult Female	Whole body	0.06	0.05	0.0	0.0	
+Larval	CNS	0.08	0.08	0.13	0.11	
+Larval	Midgut	0.1	0.1	0.63	1.09	
+Larval	Hindgut	0.15	0.15	0.05	0.08	
+Larval	Malpighian Tubules	0.74	0.45	0.64	0.2	
+Larval	Salivary gland	0.75	0.26	0.32	0.42	
+Larval	Fat body	12.8	4.09	10.1	3.89	
+Larval	Trachea	0.05	0.09	0.3	0.38	
+Larval	Carcass	0.07	0.12	0.35	0.33	
+Larval	Garland cells	0.52	0.37	0.43	0.75	
+Larval	Whole body	1.88	0.82	2.16	0.81	
+

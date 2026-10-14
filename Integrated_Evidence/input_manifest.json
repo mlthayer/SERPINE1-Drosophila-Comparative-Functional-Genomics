@@ -1,0 +1,30 @@
+{
+  "DIOPT": {
+    "path": "Orthology/Inputs/DIOPT_all_human_predictions_for_candidate_serpins.csv",
+    "status": "available"
+  },
+  "Full_Length_Alignment": {
+    "path": "Sequence/Phylogeny_Reference_Uploads/04_full_length_expanded_human_fly_alignment.fasta",
+    "status": "available"
+  },
+  "RCL_Alignment": {
+    "path": "Sequence/Phylogeny_Reference_Uploads/04_revised_RCL_SERPINE1_fly_alignment.fasta",
+    "status": "available; reconcile step 10 identity denominator"
+  },
+  "Bulk": {
+    "path": "Integrated_Evidence/Current_Inputs/Bulk_cross_dataset_consensus_by_sex.csv",
+    "status": "rebuilt with step 08C from step 08B latest tissue inputs"
+  },
+  "Single_Cell": {
+    "path": "Integrated_Evidence/Current_Inputs/FCA_GTEx_snRNA_Spearman_by_sex.csv",
+    "status": "supplied; matches historical used scores; upstream reproduction not verified"
+  },
+  "Aging": {
+    "path": "Aging/CrossSpecies_Aging_Reanalysis_v2/Tables/CrossSpecies_Aging_Overall_Similarity_v2.csv",
+    "status": "available and reproduced"
+  },
+  "RCL_Scores": {
+    "path": "Sequence/RCL/Processed/03_SERPINE1_referenced_RCL_region_scores.csv",
+    "status": "validated 25-position scores; used by step 10"
+  }
+}

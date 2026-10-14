@@ -1,0 +1,379 @@
+"Gene","age","cell_type","mean_expression","percent_expressing","n_cells","log_mean_expression","cell_type_clean","relative_expression"
+"Spn28B","5","adult Malpighian tubule principal cell",0,0,8,0,"Malpighian tubule principal",-0.333362815591178
+"Spn28B","5","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.333362815591178
+"Spn28B","5","adult alary muscle",0,0,371,0,"Alary muscle",-0.333362815591178
+"Spn28B","5","adult differentiating enterocyte",0,0,34,0,"Differentiating enterocyte",-0.333362815591178
+"Spn28B","5","adult fat body_body",0.0542051791016187,4.36328497799623,2703,0.0761556848729947,"Fat body body",4.88007541001985
+"Spn28B","5","adult fat body_head",0,0,109,0,"Fat body head",-0.333362815591178
+"Spn28B","5","adult heart ventral longitudinal muscle",0,0,37,0,"Heart ventral longitudinal muscle",-0.333362815591178
+"Spn28B","5","adult hindgut",0,0,202,0,"Hindgut",-0.333362815591178
+"Spn28B","5","adult midgut enterocyte",0,0,10,0,"Midgut enterocyte",-0.333362815591178
+"Spn28B","5","adult midgut-hindgut hybrid zone",0,0,212,0,"Midgut-hindgut zone",-0.333362815591178
+"Spn28B","5","adult oenocyte",0,0,1081,0,"Oenocyte",-0.333362815591178
+"Spn28B","5","adult salivary gland",0,0,52,0,"Salivary gland",-0.333362815591178
+"Spn28B","5","adult tracheal cell",0,0,1154,0,"Tracheal cell",-0.333362815591178
+"Spn28B","5","antimicrobial peptide-producing cell",0,0,15,0,"Amp-producing cell",-0.333362815591178
+"Spn28B","5","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.333362815591178
+"Spn28B","5","muscle cell",0.00380150083325039,0.163480885311871,27552,0.00547400825635237,"Muscle cell",0.0413748542042089
+"Spn28B","30","adult Malpighian tubule principal cell",0,0,11,0,"Malpighian tubule principal",-0.333362815591178
+"Spn28B","30","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.333362815591178
+"Spn28B","30","adult alary muscle",0.000857864450908985,0.0387897595034911,1499,0.00123710623018911,"Alary muscle",-0.248673446434227
+"Spn28B","30","adult differentiating enterocyte",0,0,7,0,"Differentiating enterocyte",-0.333362815591178
+"Spn28B","30","adult fat body_body",0.0105484568909715,0.653688490476055,13158,0.0151385021631507,"Fat body body",0.702983269241316
+"Spn28B","30","adult fat body_head",0,0,265,0,"Fat body head",-0.333362815591178
+"Spn28B","30","adult heart ventral longitudinal muscle",0,0,44,0,"Heart ventral longitudinal muscle",-0.333362815591178
+"Spn28B","30","adult hindgut",0.0155928882685574,0.90909090909091,157,0.0223221976013967,"Hindgut",1.19476208340808
+"Spn28B","30","adult midgut enterocyte",0,0,32,0,"Midgut enterocyte",-0.333362815591178
+"Spn28B","30","adult midgut-hindgut hybrid zone",0,0,198,0,"Midgut-hindgut zone",-0.333362815591178
+"Spn28B","30","adult oenocyte",0,0,1647,0,"Oenocyte",-0.333362815591178
+"Spn28B","30","adult salivary gland",0,0,259,0,"Salivary gland",-0.333362815591178
+"Spn28B","30","adult tracheal cell",0.00173865830743211,0.0620383267377017,2349,0.00250617565715478,"Tracheal cell",-0.161795952357048
+"Spn28B","30","antimicrobial peptide-producing cell",0,0,44,0,"Amp-producing cell",-0.333362815591178
+"Spn28B","30","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,14,0,NA,-0.333362815591178
+"Spn28B","30","muscle cell",0.00075080579928169,0.028858839050132,14522,0.00108277737637296,"Muscle cell",-0.259238435077448
+"Spn28B","50","adult Malpighian tubule principal cell",0,0,10,0,"Malpighian tubule principal",-0.333362815591178
+"Spn28B","50","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.333362815591178
+"Spn28B","50","adult alary muscle",0,0,474,0,"Alary muscle",-0.333362815591178
+"Spn28B","50","adult fat body_body",0.0199599496077301,1.12681436210848,8932,0.0285125035333184,"Fat body body",1.61853579941535
+"Spn28B","50","adult fat body_head",0.0235221973159504,0.734741784037559,313,0.0335423906958475,"Fat body head",1.96286998861438
+"Spn28B","50","adult heart ventral longitudinal muscle",0,0,20,0,"Heart ventral longitudinal muscle",-0.333362815591178
+"Spn28B","50","adult hindgut",0.0066164539506038,0.520833333333335,178,0.00951408514388548,"Hindgut",0.31794897096252
+"Spn28B","50","adult midgut enterocyte",0,0,12,0,"Midgut enterocyte",-0.333362815591178
+"Spn28B","50","adult midgut-hindgut hybrid zone",0,0,51,0,"Midgut-hindgut zone",-0.333362815591178
+"Spn28B","50","adult oenocyte",0.000627024021994755,0.0482160077145612,1710,0.000904320961186198,"Oenocyte",-0.271455139557117
+"Spn28B","50","adult salivary gland",0,0,135,0,"Salivary gland",-0.333362815591178
+"Spn28B","50","adult tracheal cell",0,0,1410,0,"Tracheal cell",-0.333362815591178
+"Spn28B","50","antimicrobial peptide-producing cell",0,0,26,0,"Amp-producing cell",-0.333362815591178
+"Spn28B","50","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.333362815591178
+"Spn28B","50","muscle cell",0,0,5675,0,"Muscle cell",-0.333362815591178
+"Spn28B","70","adult Malpighian tubule principal cell",0,0,18,0,"Malpighian tubule principal",-0.333362815591178
+"Spn28B","70","adult Malpighian tubule stellate cell of main segment",0,0,4,0,"Malpighian tubule stellate",-0.333362815591178
+"Spn28B","70","adult alary muscle",0,0,362,0,"Alary muscle",-0.333362815591178
+"Spn28B","70","adult differentiating enterocyte",0,0,31,0,"Differentiating enterocyte",-0.333362815591178
+"Spn28B","70","adult fat body_body",0.024987537342421,1.72316796938097,6518,0.0356063683418513,"Fat body body",2.10416502094753
+"Spn28B","70","adult fat body_head",0.049447210334986,1.85775597792765,268,0.0696295974986791,"Fat body head",4.4333148899395
+"Spn28B","70","adult heart ventral longitudinal muscle",0,0,11,0,"Heart ventral longitudinal muscle",-0.333362815591178
+"Spn28B","70","adult hindgut",0,0,146,0,"Hindgut",-0.333362815591178
+"Spn28B","70","adult midgut enterocyte",0,0,43,0,"Midgut enterocyte",-0.333362815591178
+"Spn28B","70","adult midgut-hindgut hybrid zone",0,0,115,0,"Midgut-hindgut zone",-0.333362815591178
+"Spn28B","70","adult oenocyte",0.0016739146653996,0.129198966408269,1487,0.00241292943060921,"Oenocyte",-0.168179368679512
+"Spn28B","70","adult salivary gland",0,0,137,0,"Salivary gland",-0.333362815591178
+"Spn28B","70","adult tracheal cell",0.000193685979477124,0.0106609808102345,2026,0.000279402744757585,"Tracheal cell",-0.314235563931777
+"Spn28B","70","antimicrobial peptide-producing cell",0,0,19,0,"Amp-producing cell",-0.333362815591178
+"Spn28B","70","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,2,0,NA,-0.333362815591178
+"Spn28B","70","muscle cell",0.00171224582719777,0.0543183052688755,6146,0.00246813613826751,"Muscle cell",-0.164400047930234
+"Spn28F","5","adult Malpighian tubule principal cell",0,0,8,0,"Malpighian tubule principal",-0.169212062672203
+"Spn28F","5","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.169212062672203
+"Spn28F","5","adult alary muscle",0,0,371,0,"Alary muscle",-0.169212062672203
+"Spn28F","5","adult differentiating enterocyte",0.023808920667285,2.38095238095238,34,0.0339464820088242,"Differentiating enterocyte",0.202920515166439
+"Spn28F","5","adult fat body_body",0.00886175649305145,0.636503928014728,2703,0.0127284966582872,"Fat body body",-0.0296780670072715
+"Spn28F","5","adult fat body_head",0,0,109,0,"Fat body head",-0.169212062672203
+"Spn28F","5","adult heart ventral longitudinal muscle",0,0,37,0,"Heart ventral longitudinal muscle",-0.169212062672203
+"Spn28F","5","adult hindgut",0.00551879029524955,0.526315789473685,202,0.00794004177502,"Hindgut",-0.0821706952304566
+"Spn28F","5","adult midgut enterocyte",0,0,10,0,"Midgut enterocyte",-0.169212062672203
+"Spn28F","5","adult midgut-hindgut hybrid zone",0,0,212,0,"Midgut-hindgut zone",-0.169212062672203
+"Spn28F","5","adult oenocyte",0.00628766841568025,0.494071146245059,1081,0.00904278871232883,"Oenocyte",-0.0700820181069263
+"Spn28F","5","adult salivary gland",0,0,52,0,"Salivary gland",-0.169212062672203
+"Spn28F","5","adult tracheal cell",0.00380968711242796,0.136918833727344,1154,0.00548577378589704,"Tracheal cell",-0.109075193707258
+"Spn28F","5","antimicrobial peptide-producing cell",0,0,15,0,"Amp-producing cell",-0.169212062672203
+"Spn28F","5","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.169212062672203
+"Spn28F","5","muscle cell",0.0182509675869982,0.742131359586086,27552,0.0260931852544637,"Muscle cell",0.116830075368515
+"Spn28F","30","adult Malpighian tubule principal cell",0,0,11,0,"Malpighian tubule principal",-0.169212062672203
+"Spn28F","30","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.169212062672203
+"Spn28F","30","adult alary muscle",0.00266800359573542,0.116369278510473,1499,0.00384398994431259,"Alary muscle",-0.127072971888333
+"Spn28F","30","adult differentiating enterocyte",0,0,7,0,"Differentiating enterocyte",-0.169212062672203
+"Spn28F","30","adult fat body_body",0.000632004511693695,0.0398565165404543,13158,0.000911501768555299,"Fat body body",-0.15921987842322
+"Spn28F","30","adult fat body_head",0,0,265,0,"Fat body head",-0.169212062672203
+"Spn28F","30","adult heart ventral longitudinal muscle",0,0,44,0,"Heart ventral longitudinal muscle",-0.169212062672203
+"Spn28F","30","adult hindgut",0,0,157,0,"Hindgut",-0.169212062672203
+"Spn28F","30","adult midgut enterocyte",0,0,32,0,"Midgut enterocyte",-0.169212062672203
+"Spn28F","30","adult midgut-hindgut hybrid zone",0,0,198,0,"Midgut-hindgut zone",-0.169212062672203
+"Spn28F","30","adult oenocyte",0.0055991687425753,0.406504065040651,1647,0.0080553622980076,"Oenocyte",-0.0809065134667639
+"Spn28F","30","adult salivary gland",0,0,259,0,"Salivary gland",-0.169212062672203
+"Spn28F","30","adult tracheal cell",0.000146481097012785,0.00562556255625563,2349,0.000211312076009906,"Tracheal cell",-0.166895589714753
+"Spn28F","30","antimicrobial peptide-producing cell",0,0,44,0,"Amp-producing cell",-0.169212062672203
+"Spn28F","30","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,14,0,NA,-0.169212062672203
+"Spn28F","30","muscle cell",0.00133583341825921,0.053594986807388,14522,0.00192591418391294,"Muscle cell",-0.148099553583066
+"Spn28F","50","adult Malpighian tubule principal cell",0,0,10,0,"Malpighian tubule principal",-0.169212062672203
+"Spn28F","50","adult Malpighian tubule stellate cell of main segment",0.651880502700806,50,2,0.724109325742557,"Malpighian tubule stellate",7.76871416943436
+"Spn28F","50","adult alary muscle",0.0091001805663109,0.375,474,0.0130694081724277,"Alary muscle",-0.0259408820895824
+"Spn28F","50","adult fat body_body",0.00441517030973455,0.257034632034632,8932,0.00635572381100123,"Fat body body",-0.0995385134306789
+"Spn28F","50","adult fat body_head",0,0,313,0,"Fat body head",-0.169212062672203
+"Spn28F","50","adult heart ventral longitudinal muscle",0,0,20,0,"Heart ventral longitudinal muscle",-0.169212062672203
+"Spn28F","50","adult hindgut",0.0200663873304924,1.04166666666666,178,0.0286630478396849,"Hindgut",0.145001760089213
+"Spn28F","50","adult midgut enterocyte",0,0,12,0,"Midgut enterocyte",-0.169212062672203
+"Spn28F","50","adult midgut-hindgut hybrid zone",0.0378492428706243,1.28205128205128,51,0.0535968942171326,"Midgut-hindgut zone",0.418334841421775
+"Spn28F","50","adult oenocyte",0.0050960078636215,0.297176820208024,1710,0.0073333157855037,"Oenocyte",-0.0888218264570064
+"Spn28F","50","adult salivary gland",0.0127519777527562,0.925925925925925,135,0.0182809023941917,"Salivary gland",0.0311892434601606
+"Spn28F","50","adult tracheal cell",0.00283810831648386,0.112739571589628,1410,0.00408872541152113,"Tracheal cell",-0.124390100647737
+"Spn28F","50","antimicrobial peptide-producing cell",0,0,26,0,"Amp-producing cell",-0.169212062672203
+"Spn28F","50","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.169212062672203
+"Spn28F","50","muscle cell",0.00412236307427086,0.165602081854744,5675,0.00593508785821343,"Muscle cell",-0.104149664047165
+"Spn28F","70","adult Malpighian tubule principal cell",0,0,18,0,"Malpighian tubule principal",-0.169212062672203
+"Spn28F","70","adult Malpighian tubule stellate cell of main segment",0,0,4,0,"Malpighian tubule stellate",-0.169212062672203
+"Spn28F","70","adult alary muscle",0,0,362,0,"Alary muscle",-0.169212062672203
+"Spn28F","70","adult differentiating enterocyte",0,0,31,0,"Differentiating enterocyte",-0.169212062672203
+"Spn28F","70","adult fat body_body",0.00057995839570125,0.0407830342577488,6518,0.00083646056867414,"Fat body body",-0.160042504907714
+"Spn28F","70","adult fat body_head",0,0,268,0,"Fat body head",-0.169212062672203
+"Spn28F","70","adult heart ventral longitudinal muscle",0,0,11,0,"Heart ventral longitudinal muscle",-0.169212062672203
+"Spn28F","70","adult hindgut",0,0,146,0,"Hindgut",-0.169212062672203
+"Spn28F","70","adult midgut enterocyte",0,0,43,0,"Midgut enterocyte",-0.169212062672203
+"Spn28F","70","adult midgut-hindgut hybrid zone",0,0,115,0,"Midgut-hindgut zone",-0.169212062672203
+"Spn28F","70","adult oenocyte",0,0,1487,0,"Oenocyte",-0.169212062672203
+"Spn28F","70","adult salivary gland",0,0,137,0,"Salivary gland",-0.169212062672203
+"Spn28F","70","adult tracheal cell",0,0,2026,0,"Tracheal cell",-0.169212062672203
+"Spn28F","70","antimicrobial peptide-producing cell",0,0,19,0,"Amp-producing cell",-0.169212062672203
+"Spn28F","70","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,2,0,NA,-0.169212062672203
+"Spn28F","70","muscle cell",0,0,6146,0,"Muscle cell",-0.169212062672203
+"Spn42Da","5","adult Malpighian tubule principal cell",0,0,8,0,"Malpighian tubule principal",-0.784282505283363
+"Spn42Da","5","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.784282505283363
+"Spn42Da","5","adult alary muscle",0.0755342179871621,3.3647741701433,371,0.105053424654132,"Alary muscle",-0.259511238371731
+"Spn42Da","5","adult differentiating enterocyte",0.476582982819595,38.8278388278388,34,0.562262437093738,"Differentiating enterocyte",2.02437577903177
+"Spn42Da","5","adult fat body_body",0.348916323495352,25.3221683130147,2703,0.431800857239122,"Fat body body",1.37268366362478
+"Spn42Da","5","adult fat body_head",0.100976936467763,4.22413793103448,109,0.138784247292751,"Fat body head",-0.0910163360083209
+"Spn42Da","5","adult heart ventral longitudinal muscle",0.128791044740116,5.88235294117645,37,0.174778447477055,"Heart ventral longitudinal muscle",0.0887847708511235
+"Spn42Da","5","adult hindgut",0.061045390385099,4.15150024594196,202,0.0854863745210927,"Hindgut",-0.357254131779008
+"Spn42Da","5","adult midgut enterocyte",0.438102006912232,18.75,10,0.52416601211029,"Midgut enterocyte",1.8340734707616
+"Spn42Da","5","adult midgut-hindgut hybrid zone",0.0338387001985274,1.25786163522013,212,0.0480111135288657,"Midgut-hindgut zone",-0.544453552011917
+"Spn42Da","5","adult oenocyte",0.0992909973082335,6.69960474308303,1081,0.136573337881784,"Oenocyte",-0.102060447482455
+"Spn42Da","5","adult salivary gland",0.096996800275891,7.17703349282296,52,0.133559317689295,"Salivary gland",-0.117116322149247
+"Spn42Da","5","adult tracheal cell",0.0216696266739571,0.914906039130089,1154,0.0309287530138104,"Tracheal cell",-0.629784725163484
+"Spn42Da","5","antimicrobial peptide-producing cell",0.0435703843832017,4.16666666666667,15,0.0615279074227078,"Amp-producing cell",-0.476933382349596
+"Spn42Da","5","cardiomyocyte, working adult heart muscle (non-ostia)",0.257446889366423,32.1428571428572,9,0.330497466380063,NA,0.866644865379267
+"Spn42Da","5","muscle cell",0.0829911919919433,3.27831273354412,27552,0.115021509500979,"Muscle cell",-0.209717863895985
+"Spn42Da","30","adult Malpighian tubule principal cell",0,0,11,0,"Malpighian tubule principal",-0.784282505283363
+"Spn42Da","30","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.784282505283363
+"Spn42Da","30","adult alary muscle",0.0229119511203589,0.936310909158078,1499,0.0326819680070746,"Alary muscle",-0.621026925441935
+"Spn42Da","30","adult differentiating enterocyte",0,0,7,0,"Differentiating enterocyte",-0.784282505283363
+"Spn42Da","30","adult fat body_body",0.260617487830978,15.1947167102608,13158,0.334130581673111,"Fat body body",0.884793293395258
+"Spn42Da","30","adult fat body_head",0.191474032408266,8.20271682340648,265,0.252747509040511,"Fat body head",0.478262061584612
+"Spn42Da","30","adult heart ventral longitudinal muscle",0.0315727591514587,1.38888888888889,44,0.0448455813456214,"Heart ventral longitudinal muscle",-0.560266271489838
+"Spn42Da","30","adult hindgut",0.0818510214062725,4.61675579322638,157,0.11350184345638,"Hindgut",-0.217309021234572
+"Spn42Da","30","adult midgut enterocyte",0.0620021315721365,3.84615384615384,32,0.0867866618157618,"Midgut enterocyte",-0.350758832713613
+"Spn42Da","30","adult midgut-hindgut hybrid zone",0.0077717683218807,0.289017341040463,198,0.0111689463850648,"Midgut-hindgut zone",-0.728490491230939
+"Spn42Da","30","adult oenocyte",0.0296153111362858,1.63385038561307,1647,0.0421054127661893,"Oenocyte",-0.573954180681892
+"Spn42Da","30","adult salivary gland",0.0031996524430872,0.203252032520325,259,0.00460875343329004,"Salivary gland",-0.761260491617139
+"Spn42Da","30","adult tracheal cell",0.0315045861701277,1.21202305923295,2349,0.0447502356017038,"Tracheal cell",-0.560742550173708
+"Spn42Da","30","antimicrobial peptide-producing cell",0.034927015954798,2.27272727272727,44,0.0495290310746521,"Amp-producing cell",-0.53687112891441
+"Spn42Da","30","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,14,0,NA,-0.784282505283363
+"Spn42Da","30","muscle cell",0.0366974766777409,1.38627130711564,14522,0.0519949562807104,"Muscle cell",-0.524553142149552
+"Spn42Da","50","adult Malpighian tubule principal cell",0.187667437962124,7.14285714285715,10,0.248130919665944,"Malpighian tubule principal",0.455200905197959
+"Spn42Da","50","adult Malpighian tubule stellate cell of main segment",0.653841853141785,50,2,0.725821284934582,"Malpighian tubule stellate",2.84139801394347
+"Spn42Da","50","adult alary muscle",0.0270258647203446,1.125,474,0.0384725150873641,"Alary muscle",-0.592101521653916
+"Spn42Da","50","adult fat body_body",0.274058314047418,14.6947415329768,8932,0.349431311708562,"Fat body body",0.961224723515805
+"Spn42Da","50","adult fat body_head",0.175787298836059,7.4906103286385,313,0.233627098721345,"Fat body head",0.382750259088945
+"Spn42Da","50","adult heart ventral longitudinal muscle",0.272894591093064,16.6666666666667,20,0.34811295403602,"Heart ventral longitudinal muscle",0.954639157853951
+"Spn42Da","50","adult hindgut",0.0224282470781628,1.13058943089431,178,0.0319995999232145,"Hindgut",-0.624435545056634
+"Spn42Da","50","adult midgut enterocyte",0.652209281921387,31.25,12,0.724396441519406,"Midgut enterocyte",2.8342805221854
+"Spn42Da","50","adult midgut-hindgut hybrid zone",0.1079188088576,4.16666666666667,51,0.147852160854301,"Midgut-hindgut zone",-0.0457195691146508
+"Spn42Da","50","adult oenocyte",0.042047916665549,2.39410747369612,1710,0.059421618831729,"Oenocyte",-0.487454883538239
+"Spn42Da","50","adult salivary gland",0,0,135,0,"Salivary gland",-0.784282505283363
+"Spn42Da","50","adult tracheal cell",0.0553899278052008,2.27579733188406,1410,0.0777761202384879,"Tracheal cell",-0.395769010483957
+"Spn42Da","50","antimicrobial peptide-producing cell",0.228618090947469,12.6666666666667,26,0.297036531722337,"Amp-producing cell",0.699498129038275
+"Spn42Da","50","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.784282505283363
+"Spn42Da","50","muscle cell",0.0372037833529175,1.43581710315297,5675,0.0526993737551923,"Muscle cell",-0.521034379655749
+"Spn42Da","70","adult Malpighian tubule principal cell",0,0,18,0,"Malpighian tubule principal",-0.784282505283363
+"Spn42Da","70","adult Malpighian tubule stellate cell of main segment",0.175893366336823,16.6666666666667,4,0.233757238038065,"Malpighian tubule stellate",0.383400341409775
+"Spn42Da","70","adult alary muscle",0.0218071772236817,1.03196169772256,362,0.0311229744464983,"Alary muscle",-0.628814534732962
+"Spn42Da","70","adult differentiating enterocyte",0.059271731546947,5.35714285714285,31,0.0830727266941633,"Differentiating enterocyte",-0.369310978399538
+"Spn42Da","70","adult fat body_body",0.38992993017222,24.6934028278704,6518,0.475012154933606,"Fat body body",1.58853619304671
+"Spn42Da","70","adult fat body_head",0.241198898896639,13.292458614347,268,0.311734322123434,"Fat body head",0.772917706886202
+"Spn42Da","70","adult heart ventral longitudinal muscle",0,0,11,0,"Heart ventral longitudinal muscle",-0.784282505283363
+"Spn42Da","70","adult hindgut",0.0073595800183036,0.454545454545454,146,0.0105787495919212,"Hindgut",-0.731438689444227
+"Spn42Da","70","adult midgut enterocyte",0.856276484636159,49.0384615384615,43,0.892411609876053,"Midgut enterocyte",3.67356332566535
+"Spn42Da","70","adult midgut-hindgut hybrid zone",0.0260486452058814,1.14942528735632,115,0.0370991310752127,"Midgut-hindgut zone",-0.598961959287298
+"Spn42Da","70","adult oenocyte",0.0500706230506165,3.27049565421658,1487,0.0704863603662271,"Oenocyte",-0.432183401887593
+"Spn42Da","70","adult salivary gland",0.0086645447570859,0.763358778625955,137,0.0124464518649057,"Salivary gland",-0.722108993708609
+"Spn42Da","70","adult tracheal cell",0.0717251650554162,3.04621624866647,2026,0.0999349861620965,"Tracheal cell",-0.285079271597851
+"Spn42Da","70","antimicrobial peptide-producing cell",0.214765474123833,15.8974358974359,19,0.280677810145692,"Amp-producing cell",0.617781734974075
+"Spn42Da","70","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,2,0,NA,-0.784282505283363
+"Spn42Da","70","muscle cell",0.0503585552058772,2.09734900173554,6146,0.0708818969540913,"Muscle cell",-0.43020758589676
+"Spn42Db","5","adult Malpighian tubule principal cell",0,0,8,0,"Malpighian tubule principal",-0.307366142018945
+"Spn42Db","5","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.307366142018945
+"Spn42Db","5","adult alary muscle",0,0,371,0,"Alary muscle",-0.307366142018945
+"Spn42Db","5","adult differentiating enterocyte",0,0,34,0,"Differentiating enterocyte",-0.307366142018945
+"Spn42Db","5","adult fat body_body",0.00307474594183053,0.258256830279322,2703,0.00442911500465259,"Fat body body",0.821256575453526
+"Spn42Db","5","adult fat body_head",0,0,109,0,"Fat body head",-0.307366142018945
+"Spn42Db","5","adult heart ventral longitudinal muscle",0,0,37,0,"Heart ventral longitudinal muscle",-0.307366142018945
+"Spn42Db","5","adult hindgut",0.0151230623202551,1.46089522872602,202,0.0216546344421139,"Hindgut",5.21064645062282
+"Spn42Db","5","adult midgut enterocyte",0,0,10,0,"Midgut enterocyte",-0.307366142018945
+"Spn42Db","5","adult midgut-hindgut hybrid zone",0,0,212,0,"Midgut-hindgut zone",-0.307366142018945
+"Spn42Db","5","adult oenocyte",0.00519200405584495,0.395256916996047,1081,0.0074711002519572,"Oenocyte",1.59641225615218
+"Spn42Db","5","adult salivary gland",0,0,52,0,"Salivary gland",-0.307366142018945
+"Spn42Db","5","adult tracheal cell",0,0,1154,0,"Tracheal cell",-0.307366142018945
+"Spn42Db","5","antimicrobial peptide-producing cell",0,0,15,0,"Amp-producing cell",-0.307366142018945
+"Spn42Db","5","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.307366142018945
+"Spn42Db","5","muscle cell",0.00245450750922773,0.0946751940212707,27552,0.00353676707417679,"Muscle cell",0.593869355847219
+"Spn42Db","30","adult Malpighian tubule principal cell",0,0,11,0,"Malpighian tubule principal",-0.307366142018945
+"Spn42Db","30","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.307366142018945
+"Spn42Db","30","adult alary muscle",0,0,1499,0,"Alary muscle",-0.307366142018945
+"Spn42Db","30","adult differentiating enterocyte",0,0,7,0,"Differentiating enterocyte",-0.307366142018945
+"Spn42Db","30","adult fat body_body",0.00242889823744215,0.150282080333894,13158,0.00349991069709071,"Fat body body",0.584477650186068
+"Spn42Db","30","adult fat body_head",0,0,265,0,"Fat body head",-0.307366142018945
+"Spn42Db","30","adult heart ventral longitudinal muscle",0,0,44,0,"Heart ventral longitudinal muscle",-0.307366142018945
+"Spn42Db","30","adult hindgut",0,0,157,0,"Hindgut",-0.307366142018945
+"Spn42Db","30","adult midgut enterocyte",0,0,32,0,"Midgut enterocyte",-0.307366142018945
+"Spn42Db","30","adult midgut-hindgut hybrid zone",0,0,198,0,"Midgut-hindgut zone",-0.307366142018945
+"Spn42Db","30","adult oenocyte",0.00403301042269885,0.203252032520325,1647,0.00580670274508972,"Oenocyte",1.1722921248885
+"Spn42Db","30","adult salivary gland",0,0,259,0,"Salivary gland",-0.307366142018945
+"Spn42Db","30","adult tracheal cell",0,0,2349,0,"Tracheal cell",-0.307366142018945
+"Spn42Db","30","antimicrobial peptide-producing cell",0,0,44,0,"Amp-producing cell",-0.307366142018945
+"Spn42Db","30","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,14,0,NA,-0.307366142018945
+"Spn42Db","30","muscle cell",0.00103054201540028,0.0371042216358839,14522,0.00148599229774158,"Muscle cell",0.0712929497992908
+"Spn42Db","50","adult Malpighian tubule principal cell",0,0,10,0,"Malpighian tubule principal",-0.307366142018945
+"Spn42Db","50","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.307366142018945
+"Spn42Db","50","adult alary muscle",0,0,474,0,"Alary muscle",-0.307366142018945
+"Spn42Db","50","adult fat body_body",0.0022187688202235,0.132894066717596,8932,0.00319746087086132,"Fat body body",0.507407683743671
+"Spn42Db","50","adult fat body_head",0,0,313,0,"Fat body head",-0.307366142018945
+"Spn42Db","50","adult heart ventral longitudinal muscle",0,0,20,0,"Heart ventral longitudinal muscle",-0.307366142018945
+"Spn42Db","50","adult hindgut",0,0,178,0,"Hindgut",-0.307366142018945
+"Spn42Db","50","adult midgut enterocyte",0,0,12,0,"Midgut enterocyte",-0.307366142018945
+"Spn42Db","50","adult midgut-hindgut hybrid zone",0,0,51,0,"Midgut-hindgut zone",-0.307366142018945
+"Spn42Db","50","adult oenocyte",0,0,1710,0,"Oenocyte",-0.307366142018945
+"Spn42Db","50","adult salivary gland",0,0,135,0,"Salivary gland",-0.307366142018945
+"Spn42Db","50","adult tracheal cell",0,0,1410,0,"Tracheal cell",-0.307366142018945
+"Spn42Db","50","antimicrobial peptide-producing cell",0,0,26,0,"Amp-producing cell",-0.307366142018945
+"Spn42Db","50","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.307366142018945
+"Spn42Db","50","muscle cell",0.000337656688712747,0.0118287201324816,5675,0.000487053406535382,"Muscle cell",-0.183255673299855
+"Spn42Db","70","adult Malpighian tubule principal cell",0,0,18,0,"Malpighian tubule principal",-0.307366142018945
+"Spn42Db","70","adult Malpighian tubule stellate cell of main segment",0,0,4,0,"Malpighian tubule stellate",-0.307366142018945
+"Spn42Db","70","adult alary muscle",0,0,362,0,"Alary muscle",-0.307366142018945
+"Spn42Db","70","adult differentiating enterocyte",0,0,31,0,"Differentiating enterocyte",-0.307366142018945
+"Spn42Db","70","adult fat body_body",0.00180398896392871,0.14172335600907,6518,0.00260026121536084,"Fat body body",0.35522985649002
+"Spn42Db","70","adult fat body_head",0,0,268,0,"Fat body head",-0.307366142018945
+"Spn42Db","70","adult heart ventral longitudinal muscle",0,0,11,0,"Heart ventral longitudinal muscle",-0.307366142018945
+"Spn42Db","70","adult hindgut",0,0,146,0,"Hindgut",-0.307366142018945
+"Spn42Db","70","adult midgut enterocyte",0.0143517683713864,1.28205128205128,43,0.0205580532065688,"Midgut enterocyte",4.93121670163456
+"Spn42Db","70","adult midgut-hindgut hybrid zone",0,0,115,0,"Midgut-hindgut zone",-0.307366142018945
+"Spn42Db","70","adult oenocyte",0.000876800255341965,0.0454545454545454,1487,0.0012644011475756,"Oenocyte",0.0148273114481808
+"Spn42Db","70","adult salivary gland",0,0,137,0,"Salivary gland",-0.307366142018945
+"Spn42Db","70","adult tracheal cell",0,0,2026,0,"Tracheal cell",-0.307366142018945
+"Spn42Db","70","antimicrobial peptide-producing cell",0,0,19,0,"Amp-producing cell",-0.307366142018945
+"Spn42Db","70","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,2,0,NA,-0.307366142018945
+"Spn42Db","70","muscle cell",0,0,6146,0,"Muscle cell",-0.307366142018945
+"Spn42Dc","5","adult Malpighian tubule principal cell",0,0,8,0,"Malpighian tubule principal",-0.482849806846904
+"Spn42Dc","5","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.482849806846904
+"Spn42Dc","5","adult alary muscle",0.0106904676570462,0.560795695023882,371,0.0153412275567871,"Alary muscle",0.0365694636900545
+"Spn42Dc","5","adult differentiating enterocyte",0.118299073242879,12.4542124542125,34,0.161306068130792,"Differentiating enterocyte",4.97860886271137
+"Spn42Dc","5","adult fat body_body",0.0658174258926699,5.25187956976823,2703,0.0919603261665034,"Fat body body",2.63071886677687
+"Spn42Dc","5","adult fat body_head",0,0,109,0,"Fat body head",-0.482849806846904
+"Spn42Dc","5","adult heart ventral longitudinal muscle",0,0,37,0,"Heart ventral longitudinal muscle",-0.482849806846904
+"Spn42Dc","5","adult hindgut",0.0176164599750291,0.993605509099853,202,0.0251939115567366,"Hindgut",0.37015906185887
+"Spn42Dc","5","adult midgut enterocyte",0,0,10,0,"Midgut enterocyte",-0.482849806846904
+"Spn42Dc","5","adult midgut-hindgut hybrid zone",0,0,212,0,"Midgut-hindgut zone",-0.482849806846904
+"Spn42Dc","5","adult oenocyte",0.0126502521801372,0.928853754940711,1081,0.0181359840396013,"Oenocyte",0.131193597792647
+"Spn42Dc","5","adult salivary gland",0,0,52,0,"Salivary gland",-0.482849806846904
+"Spn42Dc","5","adult tracheal cell",0.00256302432557899,0.0862928157748622,1154,0.00369293196597465,"Tracheal cell",-0.35781548212883
+"Spn42Dc","5","antimicrobial peptide-producing cell",0,0,15,0,"Amp-producing cell",-0.482849806846904
+"Spn42Dc","5","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.482849806846904
+"Spn42Dc","5","muscle cell",0.0047457380646791,0.187338315607934,27552,0.00683045777885003,"Muscle cell",-0.251585953691022
+"Spn42Dc","30","adult Malpighian tubule principal cell",0,0,11,0,"Malpighian tubule principal",-0.482849806846904
+"Spn42Dc","30","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.482849806846904
+"Spn42Dc","30","adult alary muscle",0.00872733551105929,0.354464516605711,1499,0.0125362588184147,"Alary muscle",-0.058400434290487
+"Spn42Dc","30","adult differentiating enterocyte",0,0,7,0,"Differentiating enterocyte",-0.482849806846904
+"Spn42Dc","30","adult fat body_body",0.0138671483854628,0.884085106883037,13158,0.0198686218459432,"Fat body body",0.189856795515487
+"Spn42Dc","30","adult fat body_head",0.00240720397439497,0.21551724137931,265,0.00346868798947836,"Fat body head",-0.36540787604013
+"Spn42Dc","30","adult heart ventral longitudinal muscle",0,0,44,0,"Heart ventral longitudinal muscle",-0.482849806846904
+"Spn42Dc","30","adult hindgut",0,0,157,0,"Hindgut",-0.482849806846904
+"Spn42Dc","30","adult midgut enterocyte",0,0,32,0,"Midgut enterocyte",-0.482849806846904
+"Spn42Dc","30","adult midgut-hindgut hybrid zone",0.0691094423029462,2.57803468208092,198,0.0964095460293412,"Midgut-hindgut zone",2.78135938932041
+"Spn42Dc","30","adult oenocyte",0.0153340279892049,0.895266447311154,1647,0.0219544281456494,"Oenocyte",0.260477479725039
+"Spn42Dc","30","adult salivary gland",0,0,259,0,"Salivary gland",-0.482849806846904
+"Spn42Dc","30","adult tracheal cell",0.00214191639410387,0.0810968363622491,2349,0.00308682747546962,"Tracheal cell",-0.378336809458208
+"Spn42Dc","30","antimicrobial peptide-producing cell",0.0181578874588013,0.833333333333332,44,0.0259612999121704,"Amp-producing cell",0.396141096107598
+"Spn42Dc","30","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,14,0,NA,-0.482849806846904
+"Spn42Dc","30","muscle cell",0.00472336134270254,0.183030961308284,14522,0.006798327117236,"Muscle cell",-0.252673825229049
+"Spn42Dc","50","adult Malpighian tubule principal cell",0,0,10,0,"Malpighian tubule principal",-0.482849806846904
+"Spn42Dc","50","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.482849806846904
+"Spn42Dc","50","adult alary muscle",0,0,474,0,"Alary muscle",-0.482849806846904
+"Spn42Dc","50","adult fat body_body",0.0133109949026394,0.814075630252103,8932,0.019077019100591,"Fat body body",0.163054916785514
+"Spn42Dc","50","adult fat body_head",0.0154898796283023,0.704225352112675,313,0.0221758618075619,"Fat body head",0.267974722740122
+"Spn42Dc","50","adult heart ventral longitudinal muscle",0,0,20,0,"Heart ventral longitudinal muscle",-0.482849806846904
+"Spn42Dc","50","adult hindgut",0.0155285611385253,0.609756097560975,178,0.0222308151470878,"Hindgut",0.26983531853824
+"Spn42Dc","50","adult midgut enterocyte",0,0,12,0,"Midgut enterocyte",-0.482849806846904
+"Spn42Dc","50","adult midgut-hindgut hybrid zone",0,0,51,0,"Midgut-hindgut zone",-0.482849806846904
+"Spn42Dc","50","adult oenocyte",0.0102848693096467,0.568275443078601,1710,0.0147621460395225,"Oenocyte",0.0169630731215273
+"Spn42Dc","50","adult salivary gland",0,0,135,0,"Salivary gland",-0.482849806846904
+"Spn42Dc","50","adult tracheal cell",0.00415333712251454,0.165682958640051,1410,0.00597958982156117,"Tracheal cell",-0.28039441846754
+"Spn42Dc","50","antimicrobial peptide-producing cell",0.0673396492004394,4,26,0.0940193441503719,"Amp-producing cell",2.70043255919454
+"Spn42Dc","50","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.482849806846904
+"Spn42Dc","50","muscle cell",0.00214885954312471,0.0700165471377765,5675,0.00309682287811359,"Muscle cell",-0.377998387729514
+"Spn42Dc","70","adult Malpighian tubule principal cell",0,0,18,0,"Malpighian tubule principal",-0.482849806846904
+"Spn42Dc","70","adult Malpighian tubule stellate cell of main segment",0,0,4,0,"Malpighian tubule stellate",-0.482849806846904
+"Spn42Dc","70","adult alary muscle",0,0,362,0,"Alary muscle",-0.482849806846904
+"Spn42Dc","70","adult differentiating enterocyte",0.0385507962533406,3.57142857142857,31,0.0545717811422016,"Differentiating enterocyte",1.36482728730092
+"Spn42Dc","70","adult fat body_body",0.0198260932230349,1.3800417756372,6518,0.028323156279623,"Fat body body",0.476108211317525
+"Spn42Dc","70","adult fat body_head",0.0301207081077291,2.07234825260577,268,0.0428134003065362,"Fat body head",0.966715104051608
+"Spn42Dc","70","adult heart ventral longitudinal muscle",0,0,11,0,"Heart ventral longitudinal muscle",-0.482849806846904
+"Spn42Dc","70","adult hindgut",0,0,146,0,"Hindgut",-0.482849806846904
+"Spn42Dc","70","adult midgut enterocyte",0,0,43,0,"Midgut enterocyte",-0.482849806846904
+"Spn42Dc","70","adult midgut-hindgut hybrid zone",0.043585649558476,1.78571428571428,115,0.0615490107732087,"Midgut-hindgut zone",1.60106050344295
+"Spn42Dc","70","adult oenocyte",0.0106869481903358,0.736903922950436,1487,0.0153362037377516,"Oenocyte",0.0363993685389937
+"Spn42Dc","70","adult salivary gland",0,0,137,0,"Salivary gland",-0.482849806846904
+"Spn42Dc","70","adult tracheal cell",0.000890778071844756,0.0533049040511727,2026,0.00128454906761374,"Tracheal cell",-0.439357880454503
+"Spn42Dc","70","antimicrobial peptide-producing cell",0,0,19,0,"Amp-producing cell",-0.482849806846904
+"Spn42Dc","70","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,2,0,NA,-0.482849806846904
+"Spn42Dc","70","muscle cell",0.000476271966305328,0.0271591526344378,6146,0.000686951628983983,"Muscle cell",-0.459591178246275
+"Spn42Dd","5","adult Malpighian tubule principal cell",0,0,8,0,"Malpighian tubule principal",-0.507180512660584
+"Spn42Dd","5","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.507180512660584
+"Spn42Dd","5","adult alary muscle",0.00400574142868454,0.225225225225225,371,0.00576751939526567,"Alary muscle",-0.416101359454918
+"Spn42Dd","5","adult differentiating enterocyte",0.053745916911534,4.76190476190476,34,0.0755270409771853,"Differentiating enterocyte",0.685522704250709
+"Spn42Dd","5","adult fat body_body",0.205601342792589,14.1607402955094,2703,0.269752928915603,"Fat body body",3.75268697223228
+"Spn42Dd","5","adult fat body_head",0.161405051602372,7.19827586206896,109,0.215871214257288,"Fat body head",2.90180106998859
+"Spn42Dd","5","adult heart ventral longitudinal muscle",0,0,37,0,"Heart ventral longitudinal muscle",-0.507180512660584
+"Spn42Dd","5","adult hindgut",0.0520728134135571,3.56615838662075,202,0.0732345562608445,"Hindgut",0.649320387033944
+"Spn42Dd","5","adult midgut enterocyte",0,0,10,0,"Midgut enterocyte",-0.507180512660584
+"Spn42Dd","5","adult midgut-hindgut hybrid zone",0.00926222291382605,0.314465408805031,212,0.0133010590308396,"Midgut-hindgut zone",-0.297133677922261
+"Spn42Dd","5","adult oenocyte",0.00496642825631756,0.359683794466404,1081,0.00714730777524745,"Oenocyte",-0.394312103339904
+"Spn42Dd","5","adult salivary gland",0.0773745841767039,4.14673046251994,52,0.107519936769388,"Salivary gland",1.1907461214
+"Spn42Dd","5","adult tracheal cell",0.00590757466859345,0.266865892428383,1154,0.00849775276474694,"Tracheal cell",-0.372986230349271
+"Spn42Dd","5","antimicrobial peptide-producing cell",0,0,15,0,"Amp-producing cell",-0.507180512660584
+"Spn42Dd","5","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.507180512660584
+"Spn42Dd","5","muscle cell",0.0140070817899896,0.56046996263294,27552,0.0200677281081384,"Muscle cell",-0.19027621506063
+"Spn42Dd","30","adult Malpighian tubule principal cell",0,0,11,0,"Malpighian tubule principal",-0.507180512660584
+"Spn42Dd","30","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.507180512660584
+"Spn42Dd","30","adult alary muscle",0,0,1499,0,"Alary muscle",-0.507180512660584
+"Spn42Dd","30","adult differentiating enterocyte",0,0,7,0,"Differentiating enterocyte",-0.507180512660584
+"Spn42Dd","30","adult fat body_body",0.0533927584345002,3.26882681804961,13158,0.0750434468082809,"Fat body body",0.677885912004259
+"Spn42Dd","30","adult fat body_head",0.13960416995713,5.83855799373041,265,0.188532805789376,"Fat body head",2.47008009557941
+"Spn42Dd","30","adult heart ventral longitudinal muscle",0,0,44,0,"Heart ventral longitudinal muscle",-0.507180512660584
+"Spn42Dd","30","adult hindgut",0.053807944282491,3.77896613190731,157,0.0756119608287275,"Hindgut",0.6868637362679
+"Spn42Dd","30","adult midgut enterocyte",0,0,32,0,"Midgut enterocyte",-0.507180512660584
+"Spn42Dd","30","adult midgut-hindgut hybrid zone",0.0118025996092427,0.578034682080925,198,0.0169278509573122,"Midgut-hindgut zone",-0.239860331292959
+"Spn42Dd","30","adult oenocyte",0.00055342163893259,0.0356887937187723,1647,0.000798197804407005,"Oenocyte",-0.494575582337213
+"Spn42Dd","30","adult salivary gland",0.00576546642838455,0.406504065040651,259,0.00829392356430387,"Salivary gland",-0.376205047608938
+"Spn42Dd","30","adult tracheal cell",0.00434775471968893,0.190927111579082,2349,0.00625888795619502,"Tracheal cell",-0.40834179604919
+"Spn42Dd","30","antimicrobial peptide-producing cell",0,0,44,0,"Amp-producing cell",-0.507180512660584
+"Spn42Dd","30","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,14,0,NA,-0.507180512660584
+"Spn42Dd","30","muscle cell",0.000879988477302415,0.0329815303430079,14522,0.00126899674284218,"Muscle cell",-0.487140849013559
+"Spn42Dd","50","adult Malpighian tubule principal cell",0,0,10,0,"Malpighian tubule principal",-0.507180512660584
+"Spn42Dd","50","adult Malpighian tubule stellate cell of main segment",0,0,2,0,"Malpighian tubule stellate",-0.507180512660584
+"Spn42Dd","50","adult alary muscle",0.00325916469097137,0.125,474,0.00469433508010642,"Alary muscle",-0.433048804614538
+"Spn42Dd","50","adult fat body_body",0.0638379431655761,3.57381588999236,8932,0.0892783985853479,"Fat body body",0.902680535988186
+"Spn42Dd","50","adult fat body_head",0.0437747814285923,1.96948356807512,313,0.0618104506355216,"Fat body head",0.468913908064738
+"Spn42Dd","50","adult heart ventral longitudinal muscle",0,0,20,0,"Heart ventral longitudinal muscle",-0.507180512660584
+"Spn42Dd","50","adult hindgut",0.0201084715564076,1.21951219512195,178,0.028722566957639,"Hindgut",-0.0536012705097589
+"Spn42Dd","50","adult midgut enterocyte",0,0,12,0,"Midgut enterocyte",-0.507180512660584
+"Spn42Dd","50","adult midgut-hindgut hybrid zone",0,0,51,0,"Midgut-hindgut zone",-0.507180512660584
+"Spn42Dd","50","adult oenocyte",0.00254566717930074,0.122510212766567,1710,0.00366795469769353,"Oenocyte",-0.449257134347041
+"Spn42Dd","50","adult salivary gland",0.0116678984076888,0.925925925925925,135,0.0167357722925022,"Salivary gland",-0.242893587176613
+"Spn42Dd","50","adult tracheal cell",0.0181337740353889,0.673307571990768,1410,0.0259271316080561,"Tracheal cell",-0.0977460521797062
+"Spn42Dd","50","antimicrobial peptide-producing cell",0.0585580945014954,4,26,0.0821004477577047,"Amp-producing cell",0.789328219623147
+"Spn42Dd","50","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,9,0,NA,-0.507180512660584
+"Spn42Dd","50","muscle cell",0.00220711295531945,0.0828010409273715,5675,0.00318068214270024,"Muscle cell",-0.456952014701597
+"Spn42Dd","70","adult Malpighian tubule principal cell",0,0,18,0,"Malpighian tubule principal",-0.507180512660584
+"Spn42Dd","70","adult Malpighian tubule stellate cell of main segment",0,0,4,0,"Malpighian tubule stellate",-0.507180512660584
+"Spn42Dd","70","adult alary muscle",0.00848813887153355,0.446428571428572,362,0.0121941160858799,"Alary muscle",-0.314614230507254
+"Spn42Dd","70","adult differentiating enterocyte",0,0,31,0,"Differentiating enterocyte",-0.507180512660584
+"Spn42Dd","70","adult fat body_body",0.0815539062698492,5.54265479982096,6518,0.113105573177892,"Fat body body",1.27895302619496
+"Spn42Dd","70","adult fat body_head",0.0726974680700017,5.35867565910485,268,0.101243251437645,"Fat body head",1.09162635330301
+"Spn42Dd","70","adult heart ventral longitudinal muscle",0,0,11,0,"Heart ventral longitudinal muscle",-0.507180512660584
+"Spn42Dd","70","adult hindgut",0.00597732717340645,0.454545454545454,146,0.00859778989185246,"Hindgut",-0.371406470282339
+"Spn42Dd","70","adult midgut enterocyte",0.216235922697263,13.7820512820513,43,0.282423106652938,"Midgut enterocyte",3.95277109509264
+"Spn42Dd","70","adult midgut-hindgut hybrid zone",0,0,115,0,"Midgut-hindgut zone",-0.507180512660584
+"Spn42Dd","70","adult oenocyte",0.000648131316358395,0.0454545454545454,1487,0.000934752947337571,"Oenocyte",-0.492419139344719
+"Spn42Dd","70","adult salivary gland",0.00460576237613008,0.381679389312977,137,0.0066294553838014,"Salivary gland",-0.402489892449231
+"Spn42Dd","70","adult tracheal cell",0.00858365123044303,0.463141083555959,2026,0.0123307450420941,"Tracheal cell",-0.312456621874751
+"Spn42Dd","70","antimicrobial peptide-producing cell",0,0,19,0,"Amp-producing cell",-0.507180512660584
+"Spn42Dd","70","cardiomyocyte, working adult heart muscle (non-ostia)",0,0,2,0,NA,-0.507180512660584
+"Spn42Dd","70","muscle cell",0.000249897893712911,0.0116144018583043,6146,0.000360481412091107,"Muscle cell",-0.501487884771618

@@ -1,0 +1,43 @@
+"Gene","Functional_System","N_Observed_Ages","Min_CellTypes","Max_CellTypes"
+"Spn28B","Metabolic",4,3,3
+"Spn28B","Digestive",4,2,3
+"Spn28B","Cardiovascular",4,1,1
+"Spn28B","Respiratory",4,1,1
+"Spn28B","Excretory",4,2,2
+"Spn28B","Secretory",4,1,1
+"Spn28B","Immune defense",4,1,1
+"Spn28F","Metabolic",4,3,3
+"Spn28F","Digestive",4,2,3
+"Spn28F","Cardiovascular",4,1,1
+"Spn28F","Respiratory",4,1,1
+"Spn28F","Excretory",4,2,2
+"Spn28F","Secretory",4,1,1
+"Spn28F","Immune defense",4,1,1
+"Spn42Da","Metabolic",4,3,3
+"Spn42Da","Digestive",4,2,3
+"Spn42Da","Cardiovascular",4,1,1
+"Spn42Da","Respiratory",4,1,1
+"Spn42Da","Excretory",4,2,2
+"Spn42Da","Secretory",4,1,1
+"Spn42Da","Immune defense",4,1,1
+"Spn42Db","Metabolic",4,3,3
+"Spn42Db","Digestive",4,2,3
+"Spn42Db","Cardiovascular",4,1,1
+"Spn42Db","Respiratory",4,1,1
+"Spn42Db","Excretory",4,2,2
+"Spn42Db","Secretory",4,1,1
+"Spn42Db","Immune defense",4,1,1
+"Spn42Dc","Metabolic",4,3,3
+"Spn42Dc","Digestive",4,2,3
+"Spn42Dc","Cardiovascular",4,1,1
+"Spn42Dc","Respiratory",4,1,1
+"Spn42Dc","Excretory",4,2,2
+"Spn42Dc","Secretory",4,1,1
+"Spn42Dc","Immune defense",4,1,1
+"Spn42Dd","Metabolic",4,3,3
+"Spn42Dd","Digestive",4,2,3
+"Spn42Dd","Cardiovascular",4,1,1
+"Spn42Dd","Respiratory",4,1,1
+"Spn42Dd","Excretory",4,2,2
+"Spn42Dd","Secretory",4,1,1
+"Spn42Dd","Immune defense",4,1,1

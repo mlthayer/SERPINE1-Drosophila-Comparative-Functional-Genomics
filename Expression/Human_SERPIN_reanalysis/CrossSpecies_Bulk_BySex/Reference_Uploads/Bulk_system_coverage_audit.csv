@@ -1,0 +1,55 @@
+Sex,System,Dataset,Present
+Female,Digestive,FlyAtlas2,TRUE
+Female,Digestive,GTEx,TRUE
+Female,Digestive,HPA,TRUE
+Female,Heart,FlyAtlas2,TRUE
+Female,Heart,GTEx,TRUE
+Female,Heart,HPA,TRUE
+Female,Liver-metabolic,FlyAtlas2,TRUE
+Female,Liver-metabolic,GTEx,TRUE
+Female,Liver-metabolic,HPA,TRUE
+Female,Male reproductive,FlyAtlas2,FALSE
+Female,Male reproductive,GTEx,FALSE
+Female,Male reproductive,HPA,FALSE
+Female,Ovary,FlyAtlas2,TRUE
+Female,Ovary,GTEx,TRUE
+Female,Ovary,HPA,TRUE
+Female,Renal/excretory,FlyAtlas2,TRUE
+Female,Renal/excretory,GTEx,FALSE
+Female,Renal/excretory,HPA,TRUE
+Female,Respiratory,FlyAtlas2,FALSE
+Female,Respiratory,GTEx,TRUE
+Female,Respiratory,HPA,TRUE
+Female,Sensory/neural,FlyAtlas2,TRUE
+Female,Sensory/neural,GTEx,TRUE
+Female,Sensory/neural,HPA,FALSE
+Female,Skeletal muscle,FlyAtlas2,TRUE
+Female,Skeletal muscle,GTEx,TRUE
+Female,Skeletal muscle,HPA,TRUE
+Male,Digestive,FlyAtlas2,TRUE
+Male,Digestive,GTEx,TRUE
+Male,Digestive,HPA,TRUE
+Male,Heart,FlyAtlas2,TRUE
+Male,Heart,GTEx,TRUE
+Male,Heart,HPA,TRUE
+Male,Liver-metabolic,FlyAtlas2,TRUE
+Male,Liver-metabolic,GTEx,TRUE
+Male,Liver-metabolic,HPA,TRUE
+Male,Male reproductive,FlyAtlas2,TRUE
+Male,Male reproductive,GTEx,FALSE
+Male,Male reproductive,HPA,TRUE
+Male,Ovary,FlyAtlas2,FALSE
+Male,Ovary,GTEx,FALSE
+Male,Ovary,HPA,FALSE
+Male,Renal/excretory,FlyAtlas2,TRUE
+Male,Renal/excretory,GTEx,FALSE
+Male,Renal/excretory,HPA,TRUE
+Male,Respiratory,FlyAtlas2,FALSE
+Male,Respiratory,GTEx,TRUE
+Male,Respiratory,HPA,TRUE
+Male,Sensory/neural,FlyAtlas2,TRUE
+Male,Sensory/neural,GTEx,TRUE
+Male,Sensory/neural,HPA,FALSE
+Male,Skeletal muscle,FlyAtlas2,TRUE
+Male,Skeletal muscle,GTEx,TRUE
+Male,Skeletal muscle,HPA,TRUE
