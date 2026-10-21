@@ -189,7 +189,7 @@ selection requires an R/RStudio session.
 
 ### FlyCellAtlas source downloads
 
-Download step 07 H5AD inputs locally from **https://flycellatlas.org/**. They are not distributed with this repository and need not be uploaded to the chat. The [FlyCellAtlas input guide](Expression/FlyCellAtlas/README.md) lists all 15 required files, matrix variants, input-folder configuration and run instructions. Supplied processed tables remain available for downstream analysis.
+Download step 07 H5AD inputs locally from **https://flycellatlas.org/**. They are not distributed with this repository and need not be uploaded. The [FlyCellAtlas input guide](Expression/FlyCellAtlas/README.md) lists all 15 required files, matrix variants, input-folder configuration and run instructions. Supplied processed tables remain available for downstream analysis.
 
 ### Current human expression version
 
@@ -218,7 +218,7 @@ expanded plotting workflow and has passed syntax checks.
 
 Large expression matrices are **download-only inputs**; obtain them from the
 linked official portals and run upstream extraction locally. No large-file
-upload to this chat is required. See [data availability and verification
+upload is required. See [data availability and verification
 scope](DATA_AVAILABILITY.md) for source links, local inputs and the distinction
 between reproduced processed analyses and source extraction or metadata joins
 that were not independently rerun here.
