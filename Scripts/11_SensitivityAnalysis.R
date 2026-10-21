@@ -1,6 +1,12 @@
 # SERPINE1–Drosophila Comparative Functional Genomics Workflow
 # 11_SensitivityAnalysis.R
-# Reproduce the existing per-sex leave-one-domain-out analysis from step 10.
+# Reproduce the per-sex leave-one-domain-out analysis from step 10.
+#
+# Orthology and sequence-alignment evidence are shared across sexes.
+# Bulk-expression, cellular-expression, and aging evidence are sex-specific.
+# Each sensitivity run removes one of the five evidence domains and
+# recalculates the integrated score from the remaining available domains.
+#
 # The previous six weighting models are retained under Scripts/Legacy/.
 library(dplyr)
 library(purrr)
@@ -17,7 +23,19 @@ domain_columns <- c("Orthology_Score", "Sequence_Alignment_Score",
 required_columns <- c("Fly_Gene", "Sex", domain_columns)
 missing_columns <- setdiff(required_columns, names(final))
 if (length(missing_columns)) stop("Sensitivity input is missing columns: ", paste(missing_columns, collapse = ", "), call. = FALSE)
-if (nrow(final) != 12 || anyDuplicated(final[c("Fly_Gene", "Sex")]) || !setequal(final$Sex, c("Female", "Male"))) stop("Expected six unique candidates for each sex.", call. = FALSE)
+sex_counts <- final %>%
+  count(Sex)
+
+if (
+  !setequal(final$Sex, c("Female", "Male")) ||
+  any(sex_counts$n != 6) ||
+  anyDuplicated(final[c("Fly_Gene", "Sex")])
+) {
+  stop(
+    "Expected six unique fly candidates for each sex.",
+    call. = FALSE
+  )
+}
 if (!all(vapply(final[domain_columns], is.numeric, logical(1)))) stop("Evidence scores must be numeric.", call. = FALSE)
 mean_or_na <- function(x) { if (all(is.na(x))) NA_real_ else mean(x, na.rm = TRUE) }
 loo_results <- map_dfr(domain_columns, function(omit_domain) {
