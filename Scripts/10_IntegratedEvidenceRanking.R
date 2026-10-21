@@ -277,7 +277,7 @@ bulk_file <- choose_input_file(
 single_cell_file <- choose_input_file(
   "FCA-GTEx snRNA Spearman by sex CSV", "SERPINE1_CELL_INPUT")
 aging_file <- choose_input_file(
-  "Cross-species aging overall similarity v2 CSV", "SERPINE1_AGING_INPUT")
+  "Sex-stratified cross-species aging overall similarity CSV", "SERPINE1_AGING_INPUT")
 
 input_files <- c(
   DIOPT = diopt_file,
@@ -629,36 +629,78 @@ if (any(duplicated(single_cell_by_gene_sex[c("Fly_Gene", "Sex")]))) {
 }
 
 # ------------------------------------------------------------
-# 9. Revised aging-v2 domain
+# 9. Sex-stratified aging domain
 # ------------------------------------------------------------
 
-aging_raw <- read.csv(aging_file, stringsAsFactors = FALSE)
+aging_raw <- read.csv(
+  aging_file,
+  stringsAsFactors = FALSE,
+  check.names = FALSE
+)
 
 check_required_columns(
   aging_raw,
   c(
-    "Fly_Gene", "Human_Gene", "Spearman_Rho", "Pearson_R_Overall",
-    "Cosine_Overall", "Z_RMSE_Overall", "Z_MAE_Overall",
-    "Direction_Concordance", "Integrated_Aging_Similarity"
+    "Fly_Gene",
+    "Human_Gene",
+    "Sex",
+    "Spearman_Rho",
+    "Pearson_R_Overall",
+    "Cosine_Overall",
+    "Z_RMSE_Overall",
+    "Z_MAE_Overall",
+    "Direction_Concordance",
+    "Integrated_Aging_Similarity"
   ),
-  "Aging-v2 overall similarity table"
+  "Sex-stratified aging overall similarity table"
 )
 
-aging_by_gene <- aging_raw %>%
-  filter(Fly_Gene %in% selected_serpins, Human_Gene == target_human_gene) %>%
+aging_by_gene_sex <- aging_raw %>%
   transmute(
-    Fly_Gene,
-    Aging_Spearman_Rho = as.numeric(Spearman_Rho),
-    Aging_Pearson_R = as.numeric(Pearson_R_Overall),
-    Aging_Cosine = as.numeric(Cosine_Overall),
-    Aging_Z_RMSE = as.numeric(Z_RMSE_Overall),
-    Aging_Z_MAE = as.numeric(Z_MAE_Overall),
-    Aging_Direction_Concordance = as.numeric(Direction_Concordance),
-    Aging_Integrated_Raw = as.numeric(Integrated_Aging_Similarity),
-    Aging_Score = proportion_01(Integrated_Aging_Similarity)
+    Sex = case_when(
+      str_to_lower(as.character(.data$Sex)) %in% c("female", "f") ~ "Female",
+      str_to_lower(as.character(.data$Sex)) %in% c("male", "m") ~ "Male",
+      TRUE ~ as.character(.data$Sex)
+    ),
+    Fly_Gene = as.character(.data$Fly_Gene),
+    Human_Gene = as.character(.data$Human_Gene),
+    Aging_Spearman_Rho = as.numeric(.data$Spearman_Rho),
+    Aging_Pearson_R = as.numeric(.data$Pearson_R_Overall),
+    Aging_Cosine = as.numeric(.data$Cosine_Overall),
+    Aging_Z_RMSE = as.numeric(.data$Z_RMSE_Overall),
+    Aging_Z_MAE = as.numeric(.data$Z_MAE_Overall),
+    Aging_Direction_Concordance =
+      as.numeric(.data$Direction_Concordance),
+    Aging_Integrated_Raw =
+      as.numeric(.data$Integrated_Aging_Similarity),
+    Aging_Score =
+      proportion_01(.data$Integrated_Aging_Similarity)
+  ) %>%
+  filter(
+    Fly_Gene %in% selected_serpins,
+    Human_Gene == target_human_gene,
+    Sex %in% c("Female", "Male")
   )
 
-check_unique_gene(aging_by_gene, "Fly_Gene", "Aging-v2 SERPINE1 subset")
+if (nrow(aging_by_gene_sex) == 0) {
+  stop("No sex-specific SERPINE1 aging rows were found.")
+}
+
+if (any(duplicated(aging_by_gene_sex[c("Fly_Gene", "Sex")]))) {
+  stop("Aging evidence contains duplicate Fly_Gene x Sex rows.")
+}
+
+expected_aging_rows <- length(selected_serpins) * 2
+
+if (nrow(aging_by_gene_sex) != expected_aging_rows) {
+  warning(
+    "Expected ",
+    expected_aging_rows,
+    " sex-specific SERPINE1 aging rows (6 fly genes x 2 sexes), but found ",
+    nrow(aging_by_gene_sex),
+    "."
+  )
+}
 
 # ------------------------------------------------------------
 # 10. Build sex-specific master evidence table
@@ -682,8 +724,8 @@ master <- sex_backbone %>%
     by = c("Fly_Gene", "Sex")
   ) %>%
   left_join(
-    aging_by_gene,
-    by = "Fly_Gene"
+    aging_by_gene_sex,
+    by = c("Fly_Gene", "Sex")
   )
 
 if (nrow(master) != length(selected_serpins) * 2) {
@@ -893,6 +935,15 @@ write.csv(
   row.names = FALSE
 )
 
+write.csv(
+  aging_by_gene_sex,
+  file.path(
+    tables_dir,
+    "SERPINE1_Aging_Evidence_Used_BySex.csv"
+  ),
+  row.names = FALSE
+)
+
 # ------------------------------------------------------------
 # 15. Figure A: integrated rankings separated by sex
 # ------------------------------------------------------------
@@ -990,7 +1041,7 @@ p_domains <- ggplot(
   theme_bw(base_size = 8) +
   labs(
     title = "Evidence-domain profiles for Drosophila serpin candidates",
-    subtitle = "Bulk and cellular expression remain sex-specific",
+    subtitle = "Sex-specific bulk, cellular, and aging evidence integrated with shared orthology and sequence evidence",
     x = NULL,
     y = "Domain score"
   ) +
@@ -1040,12 +1091,13 @@ print(
 cat("\nInterpretation note:\n")
 cat(
   "Female and male integrated rankings are calculated separately. ",
-  "Bulk-expression and FCA-GTEx snRNA evidence are sex-specific. ",
-  "Orthology and sequence-alignment evidence are not sex-specific ",
-  "and therefore have the same values in the Female and Male rankings. ",
-  "The current aging reanalysis is also not sex-stratified, so the same ",
-  "aging score is used in both rankings. No female/male averaging is ",
-  "performed for the integrated analysis.\n",
+  "Bulk-expression, FCA-GTEx snRNA cellular-expression, and aging ",
+  "evidence are sex-specific. Female fly aging profiles are compared ",
+  "with female human aging profiles, and male fly profiles are compared ",
+  "with male human aging profiles. Orthology and sequence-alignment ",
+  "evidence are not sex-specific and therefore retain the same values ",
+  "in the Female and Male rankings. No female/male averaging is ",
+  "performed in the integrated analysis.\n",
   sep = ""
 )
 
